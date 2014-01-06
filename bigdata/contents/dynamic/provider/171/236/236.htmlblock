@@ -1,0 +1,297 @@
+<p class="MsoNormal" style="text-align:left;background:white;" align="left">
+	<span style="font-size:21pt;font-family:Arial;color:#000000;">Hybrid Storage
+Solutions for Server Virtualization</span>
+</p>
+<p class="MsoNormal" style="text-align:left;background:white;" align="left">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">Nimble Storage integration with VMware vSphere, Microsoft
+Hyper-V, and Citrix XenServer, helps you virtualize critical applications
+without worrying about performance, scalability, or data protection
+bottlenecks.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;background:white;" align="left">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">With Nimble Storage you can:</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Meet the
+demanding performance requirements</span></b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span><span style="font-size:11.5pt;font-family:Arial;color:#000000;">of
+critical virtualized applications, such as Microsoft Exchange and SQL Server,
+with sub-millisecond latencies on reads and writes.</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Save
+hundreds of gigabytes</span></b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span><span style="font-size:11.5pt;font-family:Arial;color:#000000;">of
+capacity and hours of configuration with zero-copy volume cloning and inline
+data compression.</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Scale your
+virtualized environment</span></b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span><span style="font-size:11.5pt;font-family:Arial;color:#000000;">non-disruptively
+by flexibly adding compute power for higher throughput, flash cache to
+accommodate growing active data, disks to boost storage capacity, or any
+combination you need.</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Provision,
+monitor, and manage storage</span></b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span><span style="font-size:11.5pt;font-family:Arial;color:#000000;">from
+virtualization management consoles, such as VMware vCenter, as easily as you do
+virtual machines and servers.</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Instantly
+create hypervisor-consistent backups</span></b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span><span style="font-size:11.5pt;font-family:Arial;color:#000000;">to quickly recover VMs and data stores, and implement
+affordable disaster recovery.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<h1 style="margin-left:0cm;background:white;">
+	<span style="font-size:21pt;font-family:Arial;color:#000000;">VDI Storage Solutions</span>
+</h1>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">Nimble Storage hybrid
+arrays provide affordable capacity and performance for virtual desktop (VDI)
+environments based on VMware View and Citrix XenDesktop. With a flexible mix of
+flash and disk storage, Nimble Storage systems provide:</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="font-size:11.5pt;font-family:&quot;color:#555555;"><span style="font-family:Arial;color:#000000;">Adaptive Performance.</span><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span></span></b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Maintain
+a consistent user experience regardless of activity spikes, boot storms, or
+anti-virus scans.</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="font-size:11.5pt;font-family:&quot;color:#555555;"><span style="font-family:Arial;color:#000000;">Efficient Capacity.</span><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span></span></b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Inline
+compression and zero-copy clones reduce footprint by 30 to 75 percent.</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="font-size:11.5pt;font-family:&quot;color:#555555;"><span style="font-family:Arial;color:#000000;">Integrated Data Protection.</span><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span></span></b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Capacity-efficient
+snapshots eliminate backup windows and provide WAN-efficient replication for DR
+and failover..</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b><span style="font-size:11.5pt;font-family:&quot;color:#555555;"><span style="font-family:Arial;color:#000000;">Application-Consistent Management.</span><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span></span></b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Pre-validated
+VDI reference architectures with VMware, Citrix, and Cisco reduce risk and
+accelerate deployments.</span>
+</p>
+<h2 style="margin-left:0cm;background:white;">
+	<span style="font-size:19pt;font-family:Arial;color:#000000;">Nimble Storage SmartStack Solutions for VDI</span><span style="font-size:19.0pt;font-family:&quot;color:#78C73A;font-weight:normal;"></span>
+</h2>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">Nimble Storage hybrid
+systems provide the storage backbone for tested, pre-validated VDI reference
+architectures with leading technology providers. Learn more about Nimble
+Storage SmartStack:</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.5pt;font-family:&quot;color:#555555;"><a href="http://info.nimblestorage.com/rs/nimblestorage/images/nimblestorage-sb-smartstack-vdi.pdf"><span style="color:#000000;font-family:Arial;">SmartStack for VDI with VMware and Cisco</span></a><span style="font-family:Arial;color:#000000;">—VMware
+View and Cisco UCS</span></span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.5pt;font-family:&quot;color:#555555;"><a href="http://www.nimblestorage.com/lp/nimblestorage-smartstack-vdi-citrix-cisco.php"><span style="color:#000000;font-family:Arial;">SmartStack for VDI with Citrix and Cisco</span></a><span style="font-family:Arial;color:#000000;">—Citrix
+XenDesktop and Cisco UCS</span></span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.5pt;font-family:&quot;color:#555555;"><a href="http://info.nimblestorage.com/rs/nimblestorage/images/nimblestorage-cs-oaks-christian-school.pdf"><span style="color:#000000;font-family:Arial;">SmartStack for VDI Case Study:</span></a><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span><span style="font-family:Arial;color:#000000;">Oaks Christian
+ School</span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-family:Arial;color:#000000;">3</span>
+</p>
+<h1 style="margin-left:0cm;background:white;">
+	<span style="font-size:21pt;font-family:Arial;color:#000000;">Hybrid Storage for Microsoft Applications</span>
+</h1>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">Nimble Storage hybrid
+storage solutions are integrated with Microsoft to provide
+application-consistent performance and management.</span>
+</p>
+<p class="MsoNormal" style="background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<h2 style="margin-left:0cm;background:white;">
+	<span style="font-size:19pt;font-family:Arial;color:#000000;">Microsoft Exchange 2010</span><span style="font-size:19.0pt;font-family:&quot;color:#78C73A;font-weight:normal;"></span>
+</h2>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">Nimble
+Storage hybrid systems provide a powerful solution for Microsoft Exchange.
+Because performance is not tied to the number of disk spindles, a single 3U
+Nimble Storage array can support up to 40,000 users — orders of magnitude
+greater than tiered solutions where flash is not integrated into the underlying
+storage architecture.</span>
+</p>
+<p class="MsoNormal">
+	<span style="font-size:12pt;font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<h2 style="margin-left:0cm;background:white;">
+	<span style="font-size:19pt;font-family:Arial;color:#000000;">Microsoft SQL Server</span><span style="font-size:19.0pt;font-family:&quot;color:#78C73A;font-weight:normal;"></span>
+</h2>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">Nimble
+Storage Protection Manager provides an interface between a Nimble Storage array
+and the native VSS interfaces of the Windows operating system. This core
+integration enables instant, application-consistent backups and fast restores.</span>
+</p>
+<p class="MsoNormal">
+	<span style="font-size:12pt;font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<h2 style="margin-left:0cm;background:white;">
+	<span style="font-size:19pt;font-family:Arial;color:#000000;">Nimble Storage SmartStack for Windows Server 2012</span><span style="font-size:19.0pt;font-family:&quot;color:#78C73A;font-weight:normal;"></span>
+</h2>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:&quot;color:#555555;"><a href="http://wwwstage.nimblestorage.com/lp/nimblestorage-smartstack-windows-2012-cisco-ucs.php"><span style="color:#000000;font-family:Arial;">Nimble Storage SmartStack for Windows Server 2012</span></a><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span><span style="font-family:Arial;color:#000000;">provides a tested, pre-validated
+reference architecture developed with Microsoft and Cisco.</span><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span><span style="font-family:Arial;color:#000000;">With Nimble Storage SmartStack for
+Windows Server you can:</span></span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Cost effectively deploy virtualization
+with efficient compute and storage</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Accelerate applications and
+flexibly scale with best-of-breed solutions</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;text-indent:-18.0pt;background:white;" align="left">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Reduce overall deployment risk
+with pre-validated designs</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span></span><span style="font-size:21pt;font-family:Arial;color:#000000;">Nimble Storage Data Protection Solutions</span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">Nimble Storage
+eliminates the need for separate primary storage, backup, and disaster recovery
+systems. Using efficient point-in-time backup snapshots, Nimble Storage systems
+efficiently protect and restore data and create application- and VM-consistent
+backups in minutes.</span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">With Nimble Storage, you
+can efficiently replicate volumes to a secondary array, transferring only
+compressed snapshot backup data to a secondary site—without needing additional
+hardware or software licenses. This means disaster recovery is affordable and
+easy to manage. In fact, Nimble Storage's installed base replicates over 50
+percent of hosted workloads, substantially higher than the industry average.</span>
+</p>
+<h2 style="margin-left:0cm;background:white;">
+	<span style="font-size:19pt;font-family:Arial;color:#000000;">Application and VM Integration for Backup and Restore</span><span style="font-size:19.0pt;font-family:&quot;color:#78C73A;font-weight:normal;"></span>
+</h2>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:&quot;color:#555555;"><span style="font-family:Arial;color:#000000;">Nimble Storage systems
+are deeply integrated with</span><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span><strong><span style="font-family:Arial;color:#000000;">VMware vCenter and Microsoft VSS.</span></strong><span style="font-family:Arial;color:#000000;">Instant
+backups can be taken from vCenter and Microsoft Windows, and application data
+or virtual machines can be restored without needing to go through prolonged
+checkpoints or recovery procedures. Also, Nimble Storage integration with</span><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span><strong><span style="font-family:Arial;color:#000000;">VMware
+Site Recovery Manager</span></strong><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span><span style="font-family:Arial;color:#000000;">(SRM)
+automates disaster recovery by providing failover and failback support.</span></span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:&quot;color:#555555;"></span><br />
+<span style="font-size:11.5pt;font-family:&quot;color:#555555;"></span><span style="font-size:11.5pt;font-family:&quot;color:#555555;"></span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<strong><span style="font-size:11.5pt;font-family:Arial;color:#000000;">On-Demand
+Webinar:</span></strong><span style="font-family:Arial;color:#000000;" class="apple-converted-space"><b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span></b></span><span style="font-size:11.5pt;font-family:&quot;color:#555555;"><br />
+<span style="font-family:Arial;color:#000000;"> VMware Data Protection with Microsoft VSS</span></span>
+</p>
+<p class="MsoNormal">
+	<span style="font-size:11.5pt;font-family:&quot;color:#555555;background:white;"><span style="font-family:Arial;color:#000000;">Nimble Storage is also the first storage array
+to be certified through</span><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span><strong><span style="font-family:Arial;color:#000000;">CommVault's IntelliSnap Connect
+Program</span></strong><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span><span style="font-family:Arial;color:#000000;">(ICP),
+which integrates native Nimble Storage snapshot functionality in to CommVault
+Simpana software. This integration allows you to take efficient and consistent
+backups of a variety of applications such as Microsoft Exchange, and VMware
+vSphere using native Nimble snapshots. You can also store months' worth of
+backups online. This integration also brings CommVault's cataloging
+capabilities and granular recovery of data to Nimble Storage backup snapshots.</span></span><span style="font-size:12.0pt;font-family:宋体;"></span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:&quot;color:#555555;"></span><br />
+<span style="font-size:11.5pt;font-family:&quot;color:#555555;"></span><span style="font-size:11.5pt;font-family:&quot;color:#555555;"></span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<strong><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Product
+Demo:</span></strong><span style="font-family:Arial;color:#000000;" class="apple-converted-space"><b><span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span></b></span><span style="font-size:11.5pt;font-family:&quot;color:#555555;"><br />
+<span style="font-family:Arial;color:#000000;"> Nimble Storage Integration with CommVault SnapProtect</span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><br />
+</span>
+</p>
+<h1 style="margin-left:0cm;background:white;">
+	<span style="font-size:21pt;font-family:Arial;color:#000000;">Hybrid Storage for Oracle Database</span>
+</h1>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:&quot;color:#555555;"><span style="font-family:Arial;color:#000000;">&nbsp;</span><span style="font-family:Arial;color:#000000;">Oracle databases
+support business-critical applications, which makes it critical to have the
+right storage foundation. Your storage solution for Oracle databases needs to
+deliver reliable performance with high levels of availability, protected by an
+efficient data protection solution — all while meeting your budget
+requirements.</span></span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:&quot;color:#555555;"><img src="data/provider/65417CAD-3CF5-06A5-ACED-8BB92D3B3028/9F5444DA-183B-CAC2-E14C-102A3101430A/20130717105238_44008.png" alt="" /><br />
+</span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:Arial;color:#000000;">Nimble Storage systems
+deliver a powerful foundation for your critical databases and applications.</span>
+</p>
+<p style="margin-left:0cm;text-indent:-18.0pt;background:white;">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Adaptive Performance</span></strong><span style="font-size:11.5pt;font-family:&quot;color:#555555;"><span style="font-family:Arial;color:#000000;">:
+Get excellent random and sequential read and write performance for your Oracle
+database with our flash-optimized hybrid</span><span style="font-family:Arial;color:#000000;" class="apple-converted-space">&nbsp;</span><a href="http://www.nimblestorage.com/products/architecture.php"><span style="color:#000000;font-family:Arial;">CASL™ architecture</span><span style="font-family:Arial;color:#000000;" class="apple-converted-space"><span style="color:#000000;text-decoration:none;font-family:Arial;">&nbsp;</span></span></a><span style="font-family:Arial;color:#000000;">— ideal for both transactional and
+analytics workloads.</span></span>
+</p>
+<p style="margin-left:0cm;text-indent:-18.0pt;background:white;">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Integrated Data Protection and
+Enhanced Availability:</span></strong><span style="font-family:Arial;color:#000000;" class="apple-converted-space"><span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span></span><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Take
+more frequent backups without disrupting applications and facilitate quick
+recovery with Nimble Storage snapshots. Deploy affordable disaster recovery
+(DR) and meet the availability needs of storage teams and DBAs, without the
+complexity of traditional solutions.</span>
+</p>
+<p style="margin-left:0cm;text-indent:-18.0pt;background:white;">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Improved Efficiency and
+Scalability:</span></strong><span style="font-family:Arial;color:#000000;" class="apple-converted-space"><span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span></span><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Use
+less storage with inline compression, without any impact to performance. Spend
+less time managing and scaling storage performance and capacity with
+non-disruptive upgrades and scaling.</span>
+</p>
+<p style="margin-left:0cm;text-indent:-18.0pt;background:white;">
+	<span style="font-size:10.0pt;font-family:Symbol;color:#555555;"><span><span style="font-family:Arial;color:#000000;">·</span><span style="font-family:Arial;color:#000000;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><strong><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Simplified Test and
+Development:</span></strong><span style="font-family:Arial;color:#000000;" class="apple-converted-space"><span style="font-size:11.5pt;font-family:Arial;color:#000000;">&nbsp;</span></span><span style="font-size:11.5pt;font-family:Arial;color:#000000;">Quickly
+create replicas of your production environment to help speed up application
+development and testing without duplicating data, using zero-copy clones.&nbsp;</span>
+</p>
+<p style="margin-left:0cm;background:white;">
+	<span style="font-size:11.5pt;font-family:&quot;color:#555555;">&nbsp;</span>
+</p>

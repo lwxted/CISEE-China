@@ -1,0 +1,132 @@
+<div class="tab1 tab_content L0">
+	<h5>
+		<span style="font-size:18px;">Data silos and programming requirements deliver slow, less accurate results</span> 
+	</h5>
+	<p>
+		Traditional analytics environments are complex programming 
+environments separated from the sources of data, leading to costly data 
+movement, cumbersome model deployment, and all of the errors and delays 
+associated with silos of development. This challenge is multiplied with 
+the information volumes associated with Big Data. Enterprises 
+constrained by the limitations of legacy systems experience a severe 
+disadvantage when attempting to collect accurate and actionable results 
+from predictive models. Extracting data from the source database 
+platform with traditional analytics programs is slow and complex, 
+prompting most enterprises to leverage subsets or samples of the 
+available information. While samples are sufficient in certain contexts,
+ enterprises require a platform capable of delivering accurate, 
+actionable, and timely predictive insight no matter the size or the 
+location of the data.
+	</p>
+	<h5>
+		<span style="font-size:18px;">If your analytics team wrestles with getting access to data, how timely are your insights?</span> 
+	</h5>
+	<p>
+		If you are only capable of taking samples, what key trends are you 
+missing? If it takes weeks to deploy analytics workflows, are they still
+ relevant? Are you making incorrect decisions based on an incomplete 
+picture?  Are you missing small but highly valuable subsets of your 
+customer base?  The choice of what data you want to analyze should be 
+dictated by what is required and what is available, not the limitations 
+of your analytics tool.
+	</p>
+	<p>
+		The pace of innovation in today's competitive economy demands answers
+ in real time, not after weeks of analysis. It can take so long to 
+deploy models out of silos, and into operational systems, that analytics
+ projects often become measured in months, revealing insights that are 
+no longer relevant. The best predictions utilize iterative and 
+interactive modeling of the question at hand. However, legacy systems 
+lack the simplicity of an interface designed for business users, 
+resulting in lost productivity for the entire team while updates are 
+made to the model programming.
+	</p>
+	<h5>
+		<span style="font-size:18px;">Predictive Analytics Built for Big Data</span> 
+	</h5>
+	<p>
+		The Pivotal Unified Analytics Platform (UAP) combined with Alpine 
+Data Labs delivers deep insights and models from all your data in a 
+simple web-based application that combines the power of big data 
+processing with the sophistication of predictive analytics.  This 
+solution moves beyond traditional business intelligence by delivering 
+in-database analytics that allow you to unlock the full potential of 
+your data.  More importantly, the platform's accessible and easy-to-use 
+interface allows everyone on the team to participate in the iterative 
+discovery process.
+	</p>
+	<p>
+		<br />
+	</p>
+	<div class="tab2 tab_content L0">
+		<h5>
+			<span style="font-size:18px;">Pivotal and Alpine Deliver Big Data Predictive Analytics</span> 
+		</h5>
+		<p>
+			Combining Alpine's analytics software for data mining and predictive 
+modeling with Pivotal's Unified Analytics Platform. Alpine Predictive 
+Analytics for Pivotal delivers an end-to-end Big Data management and 
+computing infrastructure, enabling simple predictive analytics in real 
+time.
+		</p>
+		<h5>
+			<span style="font-size:18px;">Analytics at Scale with No Data Movement</span> 
+		</h5>
+		<p>
+			The ability to perform analytics within the source data stores, 
+rather than extracting datasets into separate analytics infrastructures,
+ offers a number of benefits:
+		</p>
+		<ul>
+			<li>
+				No data movement required
+			</li>
+			<li>
+				Built-in scalability from the Pivotal MPP architecture
+			</li>
+			<li>
+				One-click model deployment
+			</li>
+			<li>
+				A rapid and iterative approach to data modeling
+			</li>
+			<li>
+				Elimination of data silos
+			</li>
+		</ul>
+		<h5>
+			<span style="font-size:18px;">Enterprise-wide Adoption of Predictive Analytics</span> 
+		</h5>
+		<p>
+			With a lightweight installation and an easy-to-use graphical user 
+interface, your entire team — from business users to data scientists — 
+can go beyond traditional reporting to develop predictive models and 
+deliver deep insights.
+		</p>
+		<ul>
+			<li>
+				Simple to use for every user
+			</li>
+			<li>
+				Collaboration between IT, data scientists, business users and analysts
+			</li>
+			<li>
+				A single environment for developing and deploying advanced analytics
+			</li>
+			<li>
+				Reduces error and lost productivity
+			</li>
+			<li>
+				Empowers your entire organization to reveal predictive insights
+			</li>
+		</ul>
+		<p>
+			Pivotal and Alpine transform what has long been a cumbersome, 
+limited, and time-consuming process performed by specialists into a 
+simple workflow that delivers results in real time.
+		</p>
+	</div>
+	<p>
+		<br />
+	</p>
+</div>

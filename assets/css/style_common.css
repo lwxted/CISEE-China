@@ -1,0 +1,221 @@
+/**
+ * Selection color
+ * all
+ */
+::selection {
+	background: #1f98c7; /* Safari */
+	color: #fff;
+}
+
+::-moz-selection {
+	background: #1f98c7; /* Firefox */
+	color: #fff;
+}
+
+/* Common */
+/**
+ * Common
+ * all
+ */
+* {
+	margin: 0;
+}
+
+html,body {
+	height: 100%;
+}
+
+.footerfix {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -41px;
+}
+
+.push {
+	height: 41px;
+}
+
+.wrapper {
+	margin: 0;
+	padding: 0;
+	border: hidden;
+}
+
+body,h1,h2,h3,h4,h5,h6 {
+	font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.content-chn h1,
+.content-chn h2 {
+	font-family: 'Helvetica Neue', Helvetica, 微软雅黑, 'Microsoft Yahei', sans-serif !important;
+}
+
+
+body {
+	height: 100%;
+	color: #444;
+	background: #fff;
+	font-size: 12px;
+	line-height: 1.35;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	color: #333;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.full-width {
+	width: 100%;
+}
+
+.background-gray {
+	background-color: #f4f4f4;
+}
+
+.background-white {
+	background-color: #fff;
+}
+
+
+/* Footer */
+/*
+ * Footer
+ * all
+ */
+.footer {
+	font-family: 'Helvetica Neue', Helvetica, arial, sans-serif;
+	background: #303030;
+	line-height: 17px;
+	padding: 12px 12px;
+	color: #868686;
+}
+
+/*
+ * Footer
+ * desktop
+ */
+@media (min-width: 1025px) {
+	#wrapper-footer {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+}
+
+/**
+ * Form
+ */
+
+.loading {
+	background: url(../img/loading.gif) no-repeat scroll;
+	/*float: right;*/
+	width: 16px;
+	height: 11px;
+}
+
+.form {
+	padding: 20px 25px 25px 25px;
+	border: 1px solid #bbb;
+	border-radius: 10px;
+	width: 264px;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	margin: 25px auto 25px auto;
+}
+
+.form label {
+	width: auto;
+	font-size: 12px;
+}
+
+.form input[type="text"],
+.form input[type="password"],
+.form input[type="email"] {
+	height: 25px;
+	width: 250px;
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.form .submit {
+	clear: both;
+	font-size: 15px;
+	margin-top: 15px;
+	position: relative;
+}
+
+.form .loading {
+	position: absolute;
+	left: -35px;
+	top: 10px;
+}
+
+.form .form-title {
+	font-size: 30px;
+	margin-top: 5px;
+	font-weight: 300;
+	margin-bottom: 20px;
+}
+
+.form .form-error {
+	text-align: left;
+	margin: 20px 0 20px 0;
+	font-size: 13px;
+}
+
+.form .form-notice {
+	text-align: left;
+	margin: 10px 0 15px 0;
+	font-size: 13px;
+}
+
+.form select {
+	width: 264px;
+	font-weight: 300;
+}
+
+/**
+ * Form
+ * potrait
+ */
+
+@media (max-width: 480px) {
+	.form {
+		width: 200px;
+	}
+
+	.form input[type="text"],
+	.form input[type="password"],
+	.form input[type="email"] {
+		width: 186px;
+		height: 22px;
+		font-size: 15px;
+	}
+
+	.form select {
+		width: 200px;
+		font-size: 15px;
+	}
+
+	.form .form-title {
+		font-size: 22px;
+	}
+
+	.form .submit {
+		font-size: 15px;
+		margin-top: 10px;
+	}
+
+	.form .submit .loading {
+		position: absolute;
+		left: -35px;
+		top: 10px;
+	}
+}

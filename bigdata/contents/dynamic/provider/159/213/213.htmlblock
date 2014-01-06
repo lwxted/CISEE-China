@@ -1,0 +1,55 @@
+<div class="hero" style="padding:55px 90px;background-color:#5C96D2;margin-left:-90px;color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="hero-content">
+		<h1 style="color:#FFFFFF;font-weight:100;font-size:34px;">
+			Web 应用程序
+		</h1>
+		<h4 style="font-size:18px;color:#FFFFFF;">
+			面向云构建的最快方式
+		</h4>
+		<p style="color:#FFFFFF;font-size:16px;">
+			Windows Azure 为各种规模的 Web 应用程序提供安全而灵活的开发、部署和扩展选项。利用现有工具创建和部署应用程序，无需费力管理基础结构。
+		</p>
+	</div>
+</div>
+<div class="benefits section active" style="color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="s1" style="padding:55px 90px;margin-left:-90px;background-color:transparent;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			适合企业
+		</h2>
+		<p>
+			Windows Azure 提供可靠的企业级基础架构，默认情况下通过高可用性安全地托管网站。通过支持 SNI 和基于 IP 的 SSL 证书，轻松保护您的网站。通过访问关键 Windows Azure 服务，如 Active Directory、SQL Database 和 Service Bus，构建可靠、安全的新式业务应用程序。Windows Azure 自动修补您的 Web 服务器和操作系统，从而使您的基础结构保持最新。在全球大量数据中心形成的网络上运行您的网站，并享受有保证的 SLA 和全年无休支持选项。
+		</p>
+	</div>
+	<div class="s2" style="padding:55px 90px;margin-left:-90px;background-color:transparent;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			万维网规模
+		</h2>
+		<p>
+			Windows Azure 网站构建在坚如磐石的基础之上，这个基础支撑着世界上一些最大的企业，无比稳定，并且对于 Internet 标准的支持程度处于行业领先水平。Windows Azure 可应对每天数百万次的请求，将自动按需对请求进行负载平衡，并使您的基础结构保持最新。只需几秒钟即可纵向或横向扩展或自动缩放，无需更改代码且毫不费力，并且只需为您使用的内容付费。
+		</p>
+	</div>
+	<div class="s3" style="padding:55px 90px;margin-left:-90px;background-color:transparent;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			最佳 Visual Studio 体验
+		</h2>
+		<p>
+			发挥 ASP.NET 与 Visual Studio 丰富生态系统的全部功能，只需改动少量代码或完全不改动即可迁移现有 Web 应用程序。导入您的 Azure 订阅信息即可灵活地进行部署和管理。从 Visual Studio 中迅速发布、管理和配置所有 Web 应用程序。通过连接到 Team Foundation Services 项目，可进行团队开发和持续交付。
+		</p>
+	</div>
+	<div class="s4" style="padding:55px 90px;margin-left:-90px;background-color:transparent;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			更快上市
+		</h2>
+		<p>
+			只需几分钟即可自行配置生产 Web 应用程序，无需等待采购、硬件或 IT。由于支持持续集成，因此可轻松部署使用现有常用开发工具创建的内容或使您的网站始终保持最新。灵活的部署选项包括 FTP、Git、GitHub、Bitbucket、CodePlex、TFS 和 DropBox。
+		</p>
+	</div>
+	<div class="s5" style="padding:55px 90px;margin-left:-90px;background-color:transparent;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			开放而灵活
+		</h2>
+		<p>
+			用您选择的语言（包括 ASP.NET、PHP、Node.js、Python 和经典 ASP）创建应用程序。将 Web 应用程序连接到所选的数据库，包括 SQL Database、MySQL 或 Windows Azure 应用商店上的 noSQL 解决方案。或者，首先使用一个应用库，其中包括常用的开源应用程序、框架和模板（包括 WordPress、Umbraco、DotNetNuke、Drupal、Django、CakePHP 和 Express）。
+		</p>
+	</div>
+</div>

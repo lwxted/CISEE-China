@@ -1,0 +1,138 @@
+<div id="c792" class="csc-default">
+	<h1 class="with-space">
+		Software
+	</h1>
+</div>
+<p>
+	Aspera's
+ software moves the world’s data at maximum speed, regardless of file 
+size, transfer distance or network conditions. At the heart of our 
+solutions is our patented <em>fasp</em>™ transport technology – a 
+breakthrough transfer protocol that leverages existing WAN 
+infrastructure and commodity hardware<span style="color:#000000;"> to achieve speeds that are up to 
+hundreds of times faster than FTP and HTTP. Supporting deployments on 
+premise or on public, private and hybrid</span> <a href="http://asperasoft.com/technology/platforms/cloud/"><span style="color:#000000;">cloud platforms</span></a><span style="color:#000000;">, </span>and covering a wide range of server, desktop and mobile operating 
+systems, Aspera software delivers end-to-end security, 100% reliability 
+and exceptional bandwidth control.
+</p>
+<table class="ke-zeroborder" cellpadding="0" cellspacing="0" border="0">
+	<tbody>
+		<tr>
+			<td style="text-align:left;">
+				<a href="http://asperasoft.com/software/transfer-servers/"><img src="http://asperasoft.com/uploads/RTEmagicC_Transfer_Servers.png.png" alt="" height="76" width="100" /></a>
+			</td>
+			<td>
+				<h2>
+					<a href="http://asperasoft.com/software/transfer-servers/" class="internal-link"><span style="color:#000000;">TRANSFER SERVERS</span></a>
+				</h2>
+				<p>
+					Central in a typical Aspera deployment, the transfer servers combine <em>fasp</em> transport with comprehensive transfer and user management for 
+large-scale enterprise data movement. Running on premise or on demand in
+ the cloud, they provide a highly scalable and secure transfer 
+environment that supports files of any size, thousands of concurrent 
+transfers, and an unlimited number of users.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:left;">
+				<br />
+			</td>
+			<td>
+				<h2>
+					<a href="http://asperasoft.com/software/web-applications/" class="internal-link"><span style="color:#000000;">WEB APPLICATIONS</span></a>
+				</h2>
+				<p>
+					Aspera web applications bring high-speed <em>fasp</em> transfers to web browsers enabling diverse business workflows for file 
+collection, distribution, and exchange among geographically dispersed 
+teams and with external customers and partners. Intuitive user 
+interfaces make user adoption fast and easy while providing powerful 
+features supporting the most complex workflows.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:left;">
+				<a href="http://asperasoft.com/software/transfer-clients/"><img src="http://asperasoft.com/uploads/RTEmagicC_Transfer_Clients_01.png.png" alt="" height="77" width="125" /></a>
+			</td>
+			<td>
+				<h2>
+					<a href="http://asperasoft.com/software/transfer-clients/"><span style="color:#000000;">TRANSFER CLIENTS</span></a>
+				</h2>
+				<p>
+					Aspera clients enable <em>fasp</em>-powered
+ transfers on virtually any device, with native applications available 
+for Windows, Mac and Linux operating systems, as well as plug-ins for 
+standard web browsers and an add-in for Microsoft Outlook. Regardless of
+ the selected client option, users can easily initiate secure, 
+high-speed uploads and downloads, as well as monitor and control 
+transfer rates.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:left;">
+				&nbsp;<a href="http://asperasoft.com/software/mobile-apps/"><img src="http://asperasoft.com/uploads/RTEmagicC_mobile_apps_02.png.png" alt="" height="66" width="71" /></a>
+			</td>
+			<td>
+				<h2>
+					<a href="http://asperasoft.com/software/mobile-apps/"><span style="color:#000000;">Mobile Apps</span></a>
+				</h2>
+				<div>
+					<p>
+						Aspera
+ Mobile Apps deliver high-speed&nbsp;upload and download of large files such 
+as images, video, legal documents, and intelligence data on Apple iOS 
+and Google Android devices. Built on our patented <em>fasp</em>™ 
+technology, they can transfer data over Wi-Fi and cellular networks at 
+speeds that are up to 100X faster than traditional mobile transfer 
+technologies. They fully support the&nbsp;<em>fasp</em> security model, 
+incorporate the look and feel of native device apps, and integrate 
+seamlessly with device cameras and photo galleries.
+					</p>
+				</div>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:left;">
+				<a href="http://asperasoft.com/software/management-and-automation/"><img src="http://asperasoft.com/uploads/RTEmagicC_Management___Automation.png.png" alt="" height="66" width="100" /></a>
+			</td>
+			<td>
+				<h2>
+					<a href="http://asperasoft.com/software/management-and-automation/"><span style="color:#000000;">Management &amp; Automation</span></a>
+				</h2>
+				<p>
+					To
+ help organizations make the most out of Aspera's high-speed transport 
+technology, we provide tools that allow automation and centralized 
+management of the Aspera transfer environment, tying together multiple 
+components such as Aspera transfer servers, web applications and 
+transfer clients. Our web-based management application provides 
+management, monitoring, and reporting from a single interface and our 
+workflow automation platform enables complex business workflow 
+orchestration that automates file collection, processing, and 
+distribution with a drag-and-drop UI designer, scalable and robust 
+run-time engine, and a rich library of third-party plug-ins.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:left;">
+				<a href="http://asperasoft.com/software/synchronization/"><img src="http://asperasoft.com/uploads/RTEmagicC_Sync3.png.png" alt="" height="73" width="100" /></a>
+			</td>
+			<td>
+				<h2>
+					<a href="http://asperasoft.com/software/synchronization/"><span style="color:#000000;">Synchronization</span></a>
+				</h2>
+				<p>
+					Aspera
+ Sync is a highly scalable platform for multidirectional file 
+replication and synchronization, able to handle millions of individual 
+files and largest file sizes, at speeds that are 1000X faster than 
+conventional tools like rsync.
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />

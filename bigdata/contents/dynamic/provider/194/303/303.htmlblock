@@ -1,0 +1,99 @@
+<h2 style="color:#003478;font-family:Arial, Helvetica, sans-serif;background-color:#FAFAFA;">
+	Apixio Big Data Technology Stack
+</h2>
+<p style="font-size:14px;color:#333333;font-family:Arial, Helvetica, sans-serif;background-color:#FAFAFA;">
+	<br />
+</p>
+<div class="moduletable" style="color:#333333;font-family:Arial, Helvetica, sans-serif;font-size:14px;background-color:#FAFAFA;">
+	<div id="gk-tabs-440" class="gkTabsGK5">
+		<div class="gkTabsWrap vertical" style="margin:0px;">
+			<ol style="margin-left:0px !important;">
+				<li class="gkTabs-1 active" style="color:#58A618;font-size:13px;margin-left:0px !important;">
+					Core Technology
+				</li>
+				<li class="gkTabs-2" style="color:#5C5C5C;font-size:13px;margin-left:0px !important;">
+					Apixio API
+				</li>
+			</ol>
+			<div class="gkTabsContainer">
+				<div class="gkTabsItem active" style="background-color:#FFFFFF;padding:20px 2px;">
+					<div class="custom">
+						<p>
+							<span style="line-height:1.3em;">The Apixio Technology Stack borrows proven technologies from e-commerce and online advertising to support healthcare organizations in making data-driven decisions. Apixio leverages a high-performance Hadoop-based infrastructure with a proprietary knowledge graph, machine learning algorithms and large volumes of data to create flexible and scalable solutions.</span>
+						</p>
+						<p>
+							The resulting Ap<span style="font-family:helvetica;">ixio d</span>ata model includes queryable and standardized data from a variety of sources available via an API.
+						</p>
+						<p style="text-align:center;">
+							<a href="http://www.apixio.com/images/Misc_Images/apixio%20stack.jpg" class="jcepopup" target="_blank"><span class="jcemediabox-zoom-span" style="vertical-align:baseline;background-color:transparent;"><img src="http://www.apixio.com/images/Misc_Images/apixio%20stack.jpg" alt="" width="347" height="260" style="border:none;" /><span class="jcemediabox-zoom-image" style="vertical-align:baseline;background-color:transparent;"></span></span></a>
+						</p>
+						<p style="text-align:center;">
+							<em>&lt;click image to view&gt;</em>
+						</p>
+						<h3 style="color:#58A618;">
+							Benefits
+						</h3>
+						<p>
+							The Apixio Technology Stack can:
+						</p>
+						<ul>
+							<li>
+								Quickly process large volumes of data
+							</li>
+						</ul>
+						<ul>
+							<li>
+								Handle a variety of healthcare data including: coded, textual, claims, administrative, scanned documents
+							</li>
+						</ul>
+						<ul>
+							<li>
+								Provide instant access to population and patient data
+							</li>
+						</ul>
+						<ul>
+							<li>
+								Allow your organization to use a full range of available data to make decisions and take action
+							</li>
+						</ul>
+						<ul>
+							<li>
+								Tie into and enhance clinical and business intelligence applications
+							</li>
+						</ul>
+						<h3 style="color:#58A618;">
+							Our Technology
+						</h3>
+						<p>
+							<strong>Hadoop Big Data infrastructure</strong>: A high performance, highly scalable big data infrastructure built on top of Hadoop distributed computing technology.
+						</p>
+						<p>
+							<strong>Security and Privacy</strong>: Data protection includes multi-level security and end-to-end HIPAA-compliant AES 256 encryption.
+						</p>
+						<p>
+							<strong>High scale ETL</strong>: High performance extraction and processing of data from available sources including: EHR, PM, billing clearinghouse, HIE, data warehouse, PACS, document folders and CMS RAPS.
+						</p>
+						<p>
+							<strong>OCR of scanned documents</strong>: Optical Character Recognition (OCR) processing of scanned documents for text extraction and utilization of data for quality measures, risk assessment and care coordination.
+						</p>
+						<p>
+							<strong>Flexible data model</strong>: Faithful representation of individual patient healthcare history regardless of data source or type.
+						</p>
+						<p>
+							<strong>MINE™ Technology</strong>: Patent pending Medical Information Navigation Engine (MINE) at the core of Apixio’s Clinical Knowledge Exchange (CKX) platform.
+						</p>
+						<p>
+							<strong>Concept meta-tagging</strong>: Effective and reliable identification, translation or inference of application specific information via event stream generation with meta-tagging of information.
+						</p>
+						<p>
+							<strong>Machine learning algorithms</strong>: Context-sensitive data that reduces information overload and improves the usefulness of clinical information.
+						</p>
+						<p>
+							<strong>CKX Rest API</strong>: High performance patient and population level queries available for business intelligence tools and clinical applications.
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

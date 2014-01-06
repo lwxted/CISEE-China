@@ -1,0 +1,94 @@
+<p>
+	Citus DB is a scalable analytics database that is built on top of PostgreSQL.
+Designed with parallelism in mind, it is the first such database that enables
+running distributed SQL queries on data that's external to the database.
+</p>
+<p>
+	Citus DB gives flexible and fast access to large volumes of data. Datasets that
+are append-only are particularly applicable; and these include user actions,
+event streams, log files, and machine generated data. Citus DB partitions these
+data and the queries that operate on the data; and efficiently executes queries
+that involve look-ups, complex selections, groupings and orderings, and analytic
+functions. Further, Citus DB supports joins between one large and multiple small
+tables.
+</p>
+<p>
+	Citus DB also enables real-time responsiveness. Query run times start at 100ms
+for simple queries, and increase depending on query complexity and the dataset
+size. One feature that is missing from Citus DB involves real-time inserts and
+updates; and the database doesn't yet fully support real-time analytics.
+</p>
+<br />
+<br />
+<h3>
+	High-level Architecture
+</h3>
+<p>
+	At a high level, Citus DB distributes the data across a cluster of nodes, and
+then processes incoming analytic queries in parallel across these nodes. Citus
+DB achieves this by making three particular changes to the underlying database:
+</p>
+<table>
+	<tbody>
+		<tr>
+			<td valign="top">
+				<p>
+					1.&nbsp;&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					Master / worker nodes: The user chooses one of the nodes in the cluster
+	   as the master node, and adds the names of worker nodes to a membership
+	   file on the master node. From that point on, the user interacts with the
+	   master node through standard PostgreSQL interfaces for data loading and
+	   querying. Behind the covers, data and the queries are distributed across
+	   worker nodes in the cluster.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<p>
+					2.&nbsp;&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					Data storage: When the user is loading data into the cluster, data are
+	   split into shards of fixed size, and these shards are then replicated
+	   across multiple worker nodes. Then, metadata and statistics about these
+	   shards are saved on the master node. Further, for users who don't want
+	   to load their data into a database, CitusDB enables efficient SQL querying
+	   through distributed foreign tables.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top">
+				<p>
+					3.&nbsp;&nbsp;
+				</p>
+			</td>
+			<td>
+				<p>
+					Query processing: When the user issues a query, the master node
+	   partitions the query into smaller queries where each smaller query can be
+	   run independently on a shard. The master node then assigns these smaller
+	   queries to worker nodes, oversees their execution, merges their results,
+	   and returns the final result to the user. To ensure that all queries are
+	   executed in a scalable manner, the master node also applies optimizations
+	   that minimize the amount of data transferred across the network.
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	These three changes closely align Citus DB's architecture with that of Hadoop's.
+In fact, they allow us to combine the scalability and fault tolerance of Hadoop
+with the performance and SQL-compliance of databases. Users can easily scale out
+a cluster as more data are added, take advantage of standard data visualization
+tools, and also benefit from performance improvements that databases typically
+employ (indexes, join order optimizations, etc).
+</p>

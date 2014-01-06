@@ -1,0 +1,17 @@
+.main-content {
+	margin: 0 auto 0 auto;
+	width: 1200px;
+	display: table;
+}
+
+.style-one {
+	display: table-cell;
+	width: 500px;
+	padding: 0 50px 0 50px;
+}
+
+.style-two {
+	display: table-cell;
+	width: 500px;
+	padding: 0 50px 0 50px;
+}

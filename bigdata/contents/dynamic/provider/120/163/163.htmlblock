@@ -1,0 +1,54 @@
+<div id="body_0_content_0_rtDescription_Container" class="rich-text">
+	<p>
+		At Lattice, we're helping you create the world's most innovative 
+products. Our FPGA and CPLD solutions are low cost and low power, so you
+ can build the product you need within the time and budget you want. 
+We're 100% committed to getting your ideas off the ground quickly, 
+easily and affordably. Because after all, your ideas inspired our 
+products in the first place. So keep innovating. We're ready.
+	</p>
+</div>
+<ul class="familyMemberList">
+	<li class="familyMemberListItem clearfix">
+		<a href="http://www.latticesemi.com/Products/FPGAandCPLD/iCE40.aspx"> 
+		<div class="memberIcon">
+			<img src="http://www.latticesemi.com/%7E/media/A8736A47DAEA4595B6906B4F8E324087.ashx?w=129&amp;h=109&amp;mw=129&amp;mh=109&amp;bc=transparent&amp;as=1&amp;thn=1" alt="iCE40 Black Chip" height="109" width="129" /> 
+		</div>
+		<div class="familyRightText">
+			<span class="memberTitle"> iCE40 FPGA Family </span> <span class="memberSummary"> With iCE40 FPGAs you can create ingenious mobile
+ products while staying within your cost, power, size and schedule 
+targets. Our iCE40 devices allow rapid innovation by customizing 
+solutions based on off-the-shelf chips. Which means maximum product 
+differentiation with minimum cost and effort. </span> 
+		</div>
+</a> 
+	</li>
+	<li class="familyMemberListItem clearfix">
+		<a href="http://www.latticesemi.com/Products/FPGAandCPLD/MachXO2.aspx"> 
+		<div class="memberIcon">
+			<img src="http://www.latticesemi.com/%7E/media/71E07B1D7B0A401CBA9EFAB679B1D2F3.ashx?w=129&amp;h=109&amp;mw=129&amp;mh=109&amp;bc=transparent&amp;as=1&amp;thn=1" alt="XO2 BGA Chip" height="109" width="129" /> 
+		</div>
+		<div class="familyRightText">
+			<span class="memberTitle"> MachXO2 FPGA Family </span> <span class="memberSummary"> The award-winning instant-on MachXO2 FPGA is the
+ perfect device for quickly implementing system control functions. 
+Reliable and affordable – it’s what all other PLDs aspire to be for 
+routers, base stations, servers, storage, industrial and medical 
+applications. </span> 
+		</div>
+</a> 
+	</li>
+	<li class="familyMemberListItem clearfix">
+		<a href="http://www.latticesemi.com/Products/FPGAandCPLD/LatticeECP3.aspx"> 
+		<div class="memberIcon">
+			<img src="http://www.latticesemi.com/%7E/media/BD871F3D916D4F3DAD3373CFAD09A151.ashx?w=129&amp;h=109&amp;mw=129&amp;mh=109&amp;bc=transparent&amp;as=1&amp;thn=1" alt="LatticeECP3_Chip_Shot" height="109" width="129" /> 
+		</div>
+		<div class="familyRightText">
+			<span class="memberTitle"> LatticeECP3 FPGA Family </span> <span class="memberSummary"> The LatticeECP3 FPGA family was designed from 
+the ground up to offer the best of an efficient FPGA with the benefits 
+of SERDES. Need PCIe, HDMI, CPRI, JESD204, GbE or XAUI?  No problem. 
+When volumes or performance requirements are high, and size, weight or 
+power is constrained, the LatticeECP3 provides a perfect solution. </span> 
+		</div>
+</a> 
+	</li>
+</ul>

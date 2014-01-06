@@ -1,0 +1,154 @@
+<div class="top_info">
+	<h1>
+		Rapid Data Integration
+	</h1>
+	<p class="intro">
+		Free up your IT resources from data plumbing and empower IT and business users to integrate any data source, rapidly.
+	</p>
+</div>
+<ul class="blocks">
+	<li class="wid300">
+		<h3>
+			Liberate your data
+		</h3>
+		<p class="subh3">
+			No ETL
+		</p>
+		<p>
+			Data is the raw materials of insight and the more data you 
+have, the deeper and broader the possible insights.  Not just 
+traditional, transaction data but all types of data so that you can get a
+ complete view of your customers, better understand business processes 
+and improve business performance.
+		</p>
+		<p>
+			Datameer ignores the limitations of ETL and static schemas to empower
+ business users to integrate data from any source into Hadoop.  
+Pre-built data connector wizards for all common structured and 
+unstructured data sources means that data integration is an easy, three 
+step process of where, what and when.
+		</p>
+	</li>
+	<li class="last">
+		<p class="subh3">
+			Structured
+		</p>
+		<ul class="table">
+			<li class="first">
+				Oracle, DB2, MS SQL, MySQL, etc.
+			</li>
+			<li>
+				Teradata, Greenplum, etc.
+			</li>
+			<li>
+				XML, JSON, CSV, etc
+			</li>
+			<li class="last">
+				HBase, Cassandra
+			</li>
+		</ul>
+	</li>
+	<li class="last">
+		<p class="subh3">
+			Unstructured
+		</p>
+		<ul class="table">
+			<li class="first">
+				Twitter, Facebook, LinkedIn, Jive, etc
+			</li>
+			<li>
+				Email
+			</li>
+			<li>
+				LogFiles
+			</li>
+			<li class="last">
+				SaaS - CRM, GitHub, Jira, Zendesk, etc
+			</li>
+		</ul>
+	</li>
+	<div style="text-align:center;">
+		<a href="http://fast.wistia.net/embed/iframe/h8evez2nzc?autoPlay=true&amp;controlsVisibleOnLoad=true&amp;playerColor=0091d0&amp;plugin%5BpostRoll-v1%5D%5Bimage%5D=http%3A%2F%2Fembed.wistia.com%2Fdeliveries%2F819a2ee5aa7538b90f8efaf1172553fbf76d8605.jpg%3Fimage_crop_resized%3D920x518&amp;plugin%5BpostRoll-v1%5D%5Blink%5D=http%3A%2F%2Fwww.datameer.com%2Fdownload.html%3Futm_source%3DWistia%26utm_medium%3DVideo%26utm_content%3DData%252BIntegration%26utm_campaign%3DProduct%252BPages&amp;plugin%5BpostRoll-v1%5D%5Bstyle%5D%5BbackgroundColor%5D=%23000000&amp;plugin%5BpostRoll-v1%5D%5Bstyle%5D%5Bcolor%5D=%23303030&amp;plugin%5BpostRoll-v1%5D%5Bstyle%5D%5BfontFamily%5D=Gill%20Sans%2C%20Helvetica%2C%20Arial%2C%20sans-serif&amp;plugin%5BpostRoll-v1%5D%5Bstyle%5D%5BfontSize%5D=36px&amp;plugin%5Bsocialbar-v1%5D%5Bbuttons%5D=email-twitter-linkedIn-googlePlus-facebook&amp;plugin%5Bsocialbar-v1%5D%5BtweetText%5D=Check%20out%20this%20video%20from%20%40Datameer%20%20%23BigData&amp;popover=true&amp;version=v1&amp;videoHeight=518&amp;videoWidth=920&amp;volumeControl=true" class="wistia-popover[height=546,playerColor=0091d0,width=920]"><img src="http://embed.wistia.com/deliveries/8fe540d04c8ef6f8da10cf40d58658367cd0f02f.jpg?image_play_button=true&amp;image_play_button_color=0091d0e0&amp;image_crop_resized=400x225" alt="Data Integration" class="shadow" /></a> 
+	</div>
+</ul>
+<ul class="blocks">
+	<li class="wid500">
+		<h3>
+			Import any data type
+		</h3>
+		<p class="subh3">
+			Import Jobs
+		</p>
+		<p>
+			Datameer loads all data in raw format directly into 
+Hadoop.  The process is optimized and supported with robust sampling, 
+parsing, scheduling and data retention tools that make it simple and 
+efficient for any user to get the data they need quickly.
+		</p>
+	</li>
+	<li>
+		<img src="http://www.datameer.com/images/product/data_integration/diag-dataimport.png" alt="Import Jobs importing unstructured and structured data into Hadoop | Datameer" /> 
+	</li>
+</ul>
+<ul class="blocks">
+	<li class="wid500">
+		<h3>
+			Endless correlations on any data
+		</h3>
+		<p class="subh3">
+			Data Links
+		</p>
+		<p>
+			Some use cases, such as analyzing constantly changing 
+user data, lend themselves to streaming the data into Hadoop as 
+analytics are run.  This ensures that user data is always up to data.  
+Datameer provides data links to any data source for just that purpose.
+		</p>
+	</li>
+	<li>
+		<img src="http://www.datameer.com/images/product/data_integration/diag-datalink.png" alt="Data Links | Datameer" /> 
+	</li>
+</ul>
+<ul class="blocks">
+	<li class="wid540">
+		<h3>
+			An open data platform
+		</h3>
+		<p class="subh3">
+			Data Export
+		</p>
+		<p>
+			The beauty of Datameer’s unique integration and 
+analytics capabilities is that their results can be exported to other 
+data stores, such as a databases, remote file servers, data warehouses, 
+or a third-party BI (business intelligence) software packages. You can 
+initiate a one-time manual export, configure the job to run each time 
+the workbook is updated, or at a specific time interval.
+		</p>
+	</li>
+	<li class="wid300">
+		<img src="http://www.datameer.com/images/product/data_integration/img-ship.jpg" alt="Data Export | Datameer" /> 
+	</li>
+</ul>
+<br />
+<ul class="blocks">
+	<li class="wid500">
+		<img src="http://www.datameer.com/images/product/data_integration/RestAPI.jpg" alt="Rest API | Datameer" /> 
+	</li>
+	<li class="wid480">
+		<h3>
+			REST API access to your data
+		</h3>
+		<p class="subh3">
+			Get, Post, Put, Delete
+		</p>
+		<p>
+			Some use cases, such as embedded analytics as part of a broader 
+CRM application, require access to Datameer data without using the web 
+interface.  Datameer’s REST API enables remote applications to access 
+Datameer data via command line tools.  The API  can be used by scripts 
+or with a monitoring tool. Requests are made using a URL and a command 
+and responses are returned in JSON format.
+		</p>
+	</li>
+</ul>

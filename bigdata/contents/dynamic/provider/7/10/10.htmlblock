@@ -1,0 +1,156 @@
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Deployment
+Automation</span></b>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Get up and running quickly with
+OpenStack Swift. SwiftStack automates the installation of OpenStack Swift.</span>
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Deployment
+     of availability zones based on hardware topology</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Disk
+     discovery and inventory</span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;"><img src="data/provider/EE8F0C23-E597-BE05-7F93-34A06AFA7703/2208D36B-F4E7-EBCC-90CF-F382A7E33D67/20130628150354_99733.png" alt="" /><br />
+</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Centralized
+management</span></b>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">The <a href="http://www.swiftstack.com/product/architecture/">SwiftStack Nodes</a> are
+also instrumented at every layer to provide diagnostics, monitoring data and
+alerts to the <a href="http://www.swiftstack.com/product/controller/">Controller</a>,
+which significantly shortens the time to resolve potential bottlenecks and
+hardware failures. By providing the metrics you need to make informed decisions
+on how to manage and scale your cluster and the operational tools to manage it,
+the Controller Cluster lets you do more with fewer resources.</span>
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Visibility
+     into and control over every part of the storage system</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Managed
+     updates to storage system</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Cluster,
+     node and networking configuration management</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Extensive
+     graphs of monitoring data</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Alerts
+     dashboard</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Easy to
+     use management UI</span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Capacity
+Management</span></b>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">SwiftStack orchestrates capacity
+additions and removals. When it is time to add storage capacity, it can be done
+safely without service interruption. Likewise, when a failing drive is
+identified or when decommissioning a node, data can be slowly migrated off of
+the device.</span>
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Safely add
+     additional capacity on a live cluster</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Gradually
+     remove failing drives</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Gradually
+     decommission storage nodes</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Monitor
+     cluster capacity</span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;"><br />
+</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Monitoring</span></b>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">SwiftStack
+provides an integrated monitoring specifically designed for OpenStack Swift.
+SwiftStack provides extensive visibility into your Swift cluster. Over 500 data
+points are collected about each node. Visualizing these data points allows
+operators to quickly diagnose issues in the cluster. </span>
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">SwiftStack monitors 500+ data points per node</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Monitoring dashboard</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Quickly select time-range and apply across all graphs</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Alerts dashboard</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Integrates with Ganglia and Nagios</span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Support delivered 24x7</span></b>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">SwiftStack
+is backed by SwiftStack support services, which are delivered either 9x5 or
+24x7 by OpenStack Swift experts and core development team members. Solution
+architecture, tuning and integration assistance can be provided on a
+professional services basis.</span>
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">9x5 and 24x7 support options</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Emergency fixes and updates</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Configuration and tuning assistance</span>
+	</li>
+</ul>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Solution architecture services</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Integration and implementation services</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Web and classroom training</span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">&nbsp;</span>
+</p>

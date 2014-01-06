@@ -1,0 +1,89 @@
+<h1>
+	<span style="color:#000000;font-family:Arial;">Our Approach to Big Data</span>
+</h1>
+<p>
+	<img class="alignright img01" alt="image description" src="http://www.infochimps.com/wp-content/themes/infochimps/images/img01.png" height="313" width="388" />
+</p>
+<h2>
+	<span style="color:#000000;font-family:Arial;">Big Data is big, fast and complex</span>
+</h2>
+<p>
+	<span style="color:#000000;font-family:Arial;">Big Data exceeds the capacity and structures of conventional 
+databases. It’s too big, comes too fast and it’s too complex. To gain 
+the value you seek from Big Data, you must process it in a new way.</span>
+</p>
+<h2>
+	<span style="color:#000000;font-family:Arial;">Big Data is more than Hadoop</span>
+</h2>
+<p>
+	<span style="color:#000000;font-family:Arial;">Our approach to Big Data is built around </span><a href="http://www.infochimps.com/infochimps-cloud/overview"><span style="color:#000000;font-family:Arial;">Infochimps™ Cloud for Big Data:</span></a><span style="color:#000000;font-family:Arial;"> three essential cloud services that deliver the full analytic 
+capabilities needed to address any enterprise Big Data problem. 
+Infochimps Cloud makes it faster and far less complex to develop and 
+deploy Big Data applications.</span>
+</p>
+<ul>
+	<li>
+		<strong><span style="color:#000000;font-family:Arial;">Real-time analytics.</span></strong><span style="color:#000000;font-family:Arial;"> We believe that turning data 
+into value requires that enterprises operationalize their insights in 
+real-time. To truly win, companies, must take advantage of the 
+customer’s state of mind in the moment. Take action now with </span><a href="http://www.infochimps.com/infochimps-cloud/cloud-services/cloud-streams"><span style="color:#000000;font-family:Arial;">Infochimps Cloud::Streams</span></a><span style="color:#000000;font-family:Arial;"> — a stream processing cloud service that provides in-memory, real-time 
+analytics, distributed ETL and complex event processing (CEP), all in a 
+single cloud service.</span>
+	</li>
+	<li>
+		<strong><span style="color:#000000;font-family:Arial;">Ad hoc analytics.</span></strong><span style="color:#000000;font-family:Arial;"> We also believe that your 
+enterprise needs the ability to explore your data to discover new 
+insights. Business users need the ability to perform ad hoc queries of 
+the data in “query-response” time. This is addressed with </span><a href="http://www.infochimps.com/infochimps-cloud/cloud-services/cloud-queries"><span style="color:#000000;font-family:Arial;">Infochimps Cloud::Queries</span></a><span style="color:#000000;font-family:Arial;"> — an advanced NoSQL cloud service that provides the ability to interact with and analyze billions of data elements.</span>
+	</li>
+	<li>
+		<strong><span style="color:#000000;font-family:Arial;">Batch analytics.</span></strong><span style="color:#000000;font-family:Arial;"> We believe that your enterprise 
+needs to understand how your entire business operates quarter to 
+quarter, season to season, year to year, by analyzing all operations 
+holistically — sales, marketing, engineering, operations, finance, HR, 
+etc. — over any and all periods of time. Finding the truth of how the 
+business is running can only be done with the power of simplified batch 
+analytics delivered by </span><a href="http://www.infochimps.com/infochimps-cloud/cloud-services/cloud-queries"><span style="color:#000000;font-family:Arial;">Infochimps Cloud::Hadoop</span></a><span style="color:#000000;font-family:Arial;">.</span>
+	</li>
+</ul>
+<p>
+	<span style="color:#000000;font-family:Arial;">And, Infochimps Cloud lets you deploy your Big Data applications wherever your data is — in </span><a href="http://www.infochimps.com/infochimps-cloud/deployment-options"><span style="color:#000000;font-family:Arial;">public, private or virtual private clouds</span></a><span style="color:#000000;font-family:Arial;">.</span>
+</p>
+<h2>
+	<span style="color:#000000;font-family:Arial;">The Infochimps Difference</span>
+</h2>
+<p>
+	<strong><span style="color:#000000;font-family:Arial;">Speed + Focus = Value</span></strong><br />
+<span style="color:#000000;font-family:Arial;"> Achieve your Big Data goals faster with rapid infrastructure deployment 
+and application development tools and accelerators. Our cloud services 
+subscription provides managed infrastructure, so your enterprise can 
+focus on business value, not herding complex machines.</span>
+</p>
+<p>
+	<strong><span style="color:#000000;font-family:Arial;">Developer-Friendly, Enterprise Proven</span></strong><br />
+<span style="color:#000000;font-family:Arial;"> Leverage the skills and people you already have. Cloud scale and agility meets enterprise-ready.</span>
+</p>
+<p>
+	<strong><span style="color:#000000;font-family:Arial;">Real-time, Interactive Big Data</span></strong><br />
+<span style="color:#000000;font-family:Arial;"> The world’s best applications are driven by interactive queries and 
+fresh data. We couple Hadoop with Storm and Kafka for real-time stream 
+processing — plus a variety of NoSQL and SQL databases for interactive 
+querying. Data is live, and queries are quick. By cleaning and 
+processing data on the way in, your data lands in data stores 
+analytics-ready.</span>
+</p>
+<p>
+	<strong><span style="color:#000000;font-family:Arial;">All Your Data, A Single Cloud</span></strong><br />
+<span style="color:#000000;font-family:Arial;"> Tap into virtually any data source or application you need, both 
+internal and external to your enterprise. Our HTTP, Syslog, and Batch 
+Upload integration connectors provide flexible interfaces for massive 
+collection and processing of inbound data.</span>
+</p>
+<p>
+	<strong><span style="color:#000000;font-family:Arial;">Cloud Flexibility and Mobility</span></strong><br />
+<span style="color:#000000;font-family:Arial;"> Multiple deployment options let you deploy to where you data is. 
+Leverage hybrid cloud environments or geographically distributed 
+deployments. Get a development system running quickly in the public 
+cloud then transition to a production system in your own data center. 
+Never worry about cloud lock-in again.</span>
+</p>

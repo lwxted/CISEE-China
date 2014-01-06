@@ -1,0 +1,21 @@
+<h3>
+	Signal Ingestion
+</h3>
+<p>
+	Gravity processes more than 100 million tweets and status 
+updates, tens of thousands of articles from the Wordpress firehose, 
+thousands of RSS feeds, and hundreds of millions of user actions each 
+day. To keep pace with these large, high-volume data feeds, Gravity has 
+designed a fault-tolerant ingestion pipeline for handling, normalizing, 
+sanitizing, and routing incoming data for real-time behavioral and 
+content processing.
+</p>
+<p>
+	<img src="data/provider/0EAE1FEA-9656-4734-CEDB-12AB969EFA03/295DDB5A-D556-33F0-AE14-D4C8EA880DC7/20130716102007_81279.jpg" alt="" />
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<img src="data/provider/0EAE1FEA-9656-4734-CEDB-12AB969EFA03/295DDB5A-D556-33F0-AE14-D4C8EA880DC7/20130716102020_28349.jpg" alt="" />
+</p>

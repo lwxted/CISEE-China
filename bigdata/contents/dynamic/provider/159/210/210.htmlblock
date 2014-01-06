@@ -1,0 +1,50 @@
+<p>
+	<p>
+		<h1 style="color:#FFFFFF;font-weight:100;font-size:34px;">
+			<div class="hero" style="padding:55px 90px;background-color:#552B80;margin-left:-90px;color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+				<div class="hero-content">
+					<h1 style="color:#FFFFFF;font-weight:100;font-size:34px;">
+						媒体
+					</h1>
+					<h4 style="font-size:18px;color:#FFFFFF;">
+						随处播放任意设备上的任意媒体
+					</h4>
+					<p style="color:#FFFFFF;font-size:16px;">
+						通过 Windows Azure 媒体服务，可构建规模可变并具成本效益的端到端媒体分发解决方案，这些方案可将媒体流式传输到 Adobe Flash、Android、iOS、Windows 以及其他设备和平台。
+					</p>
+				</div>
+			</div>
+			<div class="scenarios section active" style="color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+				<div class="s1" style="padding:55px 90px;margin-left:-90px;">
+					<h2 style="color:#505050;font-weight:100;font-size:36px;">
+						高级视频点播服务
+					</h2>
+					<p>
+						经营您自己的视频点播 (VOD) 服务所需的一切。Windows Azure 媒体服务包括应对媒体处理、交付和消费所需的所有工具和服务。
+					</p>
+<br />
+				</div>
+				<div class="s2" style="padding:55px 90px;margin-left:-90px;">
+					<h2 style="color:#505050;font-weight:100;font-size:36px;">
+						在线视频平台 (OVP)
+					</h2>
+					<p>
+						通过与 Azure 媒体服务集成，可构建您的在线视频平台和内容管理系统 (CMS) 及改变其规模。利用预建和可用的服务，如编码、打包和以任意格式流式播放到任何设备。通过从集成的第一方或第三方服务中进行选择，使您的服务平台与时俱进。利用 Azure 媒体服务在全球的影响力，使您的业务遍及全球，同时节省成本并扩大规模。
+					</p>
+					<p class="quote" style="font-style:italic;font-size:12px;">
+						“我们选择了 Microsoft，因为它在提供端到端体验方面备受赞誉”<span class="author" style="font-style:normal;">NBC Sports Group，数字媒体高级副总裁，Rick Cordella</span>
+					</p>
+				</div>
+				<div class="s3" style="padding:55px 90px;margin-left:-90px;">
+					<h2 style="color:#505050;font-weight:100;font-size:36px;">
+						提供端到端媒体解决方案
+					</h2>
+					<p>
+						使用 Microsoft 或第三方扩展轻松构建安全的端到端媒体工作流，从内容插入直到编码、打包和保护。定位于多种设备，包括 Web、Windows、Android、iOS、电视机、游戏主机等。
+					</p>
+				</div>
+			</div>
+<br />
+		</h1>
+	</p>
+</p>

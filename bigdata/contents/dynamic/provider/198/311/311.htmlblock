@@ -1,0 +1,230 @@
+<div class="row">
+	<div class="item _page">
+		<h3 id="tracks">
+			<a class="" href="http://www.neo4j.org/learn/tracks"><span style="color:#000000;font-family:Arial;">Neo4j learning tracks</span></a>
+		</h3>
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">This is the starting point for a number of 
+different tracks to learn more about Neo4j. Follow a track that you are 
+interested in to learn more about different aspects of Neo4j.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/learn/tracks"><span style="color:#000000;font-family:Arial;">Choose your track »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="drivers">
+			<a class="" href="http://www.neo4j.org/develop/drivers"><span style="color:#000000;font-family:Arial;">Language Drivers</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/drivers"><img class="preview" src="http://assets.neo4j.org/img/still/neo4j_drivers.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">Friends of Neo4j speak many languages, and work in many frameworks.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/drivers"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="import">
+			<a class="" href="http://www.neo4j.org/develop/import"><span style="color:#000000;font-family:Arial;">Importing data into Neo4j</span></a>
+		</h3>
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">The first thing you need to get started is 
+to import data from various sources into Neo4j. Fortunately there are a 
+number of ways to do that.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/import"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="tools">
+			<a class="" href="http://www.neo4j.org/develop/tools"><span style="color:#000000;font-family:Arial;">Tools and Resources</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/tools"><img class="preview" src="http://assets.neo4j.org/img/still/cypher.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">There are a lot of tools and resources around Neo4j.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/tools"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+</div>
+<div class="row">
+	<div class="item _page">
+		<h3 id="cloud">
+			<a class="" href="http://www.neo4j.org/develop/cloud"><span style="color:#000000;font-family:Arial;">Neo4j in the Cloud</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/cloud"><img class="preview" src="http://assets.neo4j.org/img/neo4j/neo4j_cloud.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">Neo4j can be run in various cloud scenarios and on a number of cloud stacks.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/cloud"><span style="color:#000000;font-family:Arial;">Neo4j in the Cloud »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="ops">
+			<a class="" href="http://www.neo4j.org/develop/ops"><span style="color:#000000;font-family:Arial;">Neo4j in Production - Operations</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/ops"><img class="preview" src="http://assets.neo4j.org/img/still/secrets.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">To run Neo4j in production, these resources will help you get going.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/ops"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+	<div class="item default">
+		<h3 id="java">
+			<a class="" href="http://www.neo4j.org/develop/java"><span style="color:#000000;font-family:Arial;">Neo4j for Java devs</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/java"><img class="preview" src="http://assets.neo4j.org/img/languages/java.jpg" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">The Java track covers the Neo4j Core-API as well as interacting with the Neo4j Server from Java and other JVM languages.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/java"><span style="color:#000000;font-family:Arial;">Start »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="javascript">
+			<a class="" href="http://www.neo4j.org/develop/javascript"><span style="color:#000000;font-family:Arial;">Neo4j and Javascript</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/javascript"><img class="preview" src="http://assets.neo4j.org/img/languages/js.gif" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">Javascript and friends are the new love-child of developers. That's why people love to use Neo4j from Node.js and the browser.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/javascript"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+</div>
+<div class="row">
+	<div class="item _page">
+		<h3 id="spring">
+			<a class="" href="http://www.neo4j.org/develop/spring"><span style="color:#000000;font-family:Arial;">Spring Data Neo4j</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/spring"><img class="preview" src="http://assets.neo4j.org/img/languages/sdn.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">Spring Data Neo4j was the founding project of Spring Data and integrates Neo4j very well with the Spring Framework.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/spring"><span style="color:#000000;font-family:Arial;">Go ahead »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="ruby">
+			<a class="" href="http://www.neo4j.org/develop/ruby"><span style="color:#000000;font-family:Arial;">Neo4j and Ruby</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/ruby"><img class="preview" src="http://assets.neo4j.org/img/languages/ruby.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">Neo4j and Ruby have been close friends for a
+ long time. You can use Neo4j embedded via neo4j.rb (JRuby) or Neo4j 
+server via neography and other drivers</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/ruby"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="spatial">
+			<a class="" href="http://www.neo4j.org/develop/spatial"><span style="color:#000000;font-family:Arial;">Neo4j Spatial - Spatial Search and GIS Integration</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/spatial"><img class="preview" src="http://assets.neo4j.org/img/apps/spatial.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/spatial"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="dotnet">
+			<a class="" href="http://www.neo4j.org/develop/dotnet"><span style="color:#000000;font-family:Arial;">Neo4j and .net</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/dotnet"><img class="preview" src="http://assets.neo4j.org/img/languages/dotnet.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">Thanks to our partners at readify, the .net story for Neo4j is much better than everyone who sees the 4j suffix would imagine.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/dotnet"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+</div>
+<div class="row">
+	<div class="item _page">
+		<h3 id="python">
+			<a class="" href="http://www.neo4j.org/develop/python"><span style="color:#000000;font-family:Arial;">Neo4j and Python</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/python"><img class="preview" src="http://assets.neo4j.org/img/languages/python.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">Python rocks and so does Python and Neo4j. There are many ways of interacting with Neo4j from Python</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/python"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="scala">
+			<a class="" href="http://www.neo4j.org/develop/scala"><span style="color:#000000;font-family:Arial;">Neo4j and Scala</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/scala"><img class="preview" src="http://assets.neo4j.org/img/languages/scala.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">Parts of Neo4j, esp. the Cypher query engine are written in Scala, the more we're happy about the great Scala support</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/scala"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="php">
+			<a class="" href="http://www.neo4j.org/develop/php"><span style="color:#000000;font-family:Arial;">Neo4j and Php</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/php"><img class="preview" src="http://assets.neo4j.org/img/languages/php.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">The easy web language can access Neo4j via the the Neo4j Server or Remote APIs</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/php"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="clojure">
+			<a class="" href="http://www.neo4j.org/develop/clojure"><span style="color:#000000;font-family:Arial;">Neo4j with Clojure</span></a>
+		</h3>
+<a class="" href="http://www.neo4j.org/develop/clojure"><img class="preview" src="http://assets.neo4j.org/img/languages/clojure.png" /></a> 
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">Clojure is a great language and fits very well with the graph concepts and lazy evaluation</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/clojure"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+</div>
+<div class="row">
+	<div class="item _page">
+		<h3 id="linked_data">
+			<a class="" href="http://www.neo4j.org/develop/linked_data"><span style="color:#000000;font-family:Arial;">Linked Data: RDF and SparQL with Neo4j</span></a>
+		</h3>
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">The core engine of Neo4j supports the </span><a href="http://www.neo4j.org/learn/graphdatabase"><span style="color:#000000;font-family:Arial;">property graph model</span></a><span style="color:#000000;font-family:Arial;">. This model can easily be adapted to support the LinkedData </span><a target="_blank" href="http://en.wikipedia.org/wiki/Resource_Description_Framework"><span style="color:#000000;font-family:Arial;">RDF model</span></a><span style="color:#000000;font-family:Arial;">,
+ consisting of Triples.This turns Neo4j into a full triple store, or you
+ can just import and use LinkedData resources from e.g. </span><a target="_blank" href="http://dbpedia.org/"><span style="color:#000000;font-family:Arial;">DBPedia</span></a><span style="color:#000000;font-family:Arial;"> and others.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/linked_data"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+	<div class="item _page">
+		<h3 id="jee">
+			<a class="" href="http://www.neo4j.org/develop/jee"><span style="color:#000000;font-family:Arial;">Neo4j for Java Enterprise Edition developers</span></a>
+		</h3>
+		<div>
+			<p class="introText">
+				<span style="color:#000000;font-family:Arial;">For JEE developers, there are number of projects making Neo4j avaiable in JEE environments.</span>
+			</p>
+		</div>
+<a class="link action" href="http://www.neo4j.org/develop/jee"><span style="color:#000000;font-family:Arial;">Learn more »</span></a> 
+	</div>
+</div>

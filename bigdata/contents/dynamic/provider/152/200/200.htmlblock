@@ -1,0 +1,94 @@
+<div style="margin-left:250px;">
+	<h2>
+		<span style="font-size:24px;">Products and Solutions</span>
+	</h2>
+</div>
+<div id="left_wrapper_secondary">
+	<br />
+</div>
+<span class="subhead"> Simply put: VoltDB is a wicked fast NewSQL 
+database system. It is specifically designed to run on modern scale-out 
+architectures – fast, inexpensive servers connected via high-speed data 
+networks.</span> 
+<p>
+	<span style="font-family:Arial;">VoltDB delivers breakthrough performance with integrated features 
+that simplify highly scalable database development and operation. VoltDB
+ automatically handles the tasks of managing a distributed database 
+infrastructure, freeing you to focus on delivering high-performance 
+applications and supporting your users.</span>
+</p>
+<p>
+	<span style="font-family:Arial;">VoltDB is available in two distributions – Enterprise Edition and 
+Community Edition. Enterprise Edition is provided under VoltDB's 
+commercial license and is intended for organizations that are deploying 
+VoltDB applications into production. Community Edition is open source 
+and geared specifically toward developers who are building, testing, and
+ tuning VoltDB applications.</span>
+</p>
+<br />
+<p class="blue">
+	<strong><span style="font-family:Arial;font-size:18px;">VoltDB Enterprise Edition</span></strong>
+</p>
+<p>
+	<span style="font-family:Arial;">Designed from the ground up to power ultra-high-throughput systems,
+ VoltDB Enterprise Edition provides everything you need in a single, 
+integrated RDBMS solution:</span>
+</p>
+<ul>
+	<li>
+		<span style="font-family:Arial;">In-memory database with SQL and ACID transaction support</span>
+	</li>
+	<li>
+		<span style="font-family:Arial;">Fully durable with built-in high availability and database crash recovery</span>
+	</li>
+	<li>
+		<span style="font-family:Arial;">Automatic scale-out on commodity servers</span>
+	</li>
+	<li>
+		<span style="font-family:Arial;">Database replication for disaster recovery, hot standby, and workload optimization</span>
+	</li>
+	<li>
+		<span style="font-family:Arial;">Professional VoltDB Enterprise Manager management consoles and APIs</span>
+	</li>
+	<li>
+		<span style="font-family:Arial;">Online operations, included schema update and node re-join</span>
+	</li>
+	<li>
+		<span style="font-family:Arial;">Out-of-the-box Hadoop and OLAP database integration</span>
+	</li>
+	<li>
+		<span style="font-family:Arial;">Includes VoltDB Studio and other developer tools</span>
+	</li>
+</ul>
+<p>
+	<span style="font-family:Arial;">VoltDB Enterprise Edition applications are easy to build,
+ incredibly resilient, easy to manage, and easy to integrate with other 
+components in your data infrastructure.</span>
+</p>
+<br />
+<p class="blue">
+	<strong><span style="font-family:Arial;font-size:18px;">VoltDB Community Edition</span></strong>
+</p>
+<p>
+	<span style="font-family:Arial;">For open source developers who need ultra-fast database speed, VoltDB Community Edition is the hands-down RDBMS of choice</span>
+</p>
+<ul>
+	<li>
+		<span style="font-family:Arial;">In-memory database with SQL and ACID transaction support</span>
+	</li>
+	<li>
+		<span style="font-family:Arial;">Automatic scale-out on commodity servers</span>
+	</li>
+	<li>
+		<span style="font-family:Arial;">Built-in high availability</span>
+	</li>
+	<li>
+		<span style="font-family:Arial;">Includes VoltDB Studio and other developer tools</span>
+	</li>
+</ul>
+<p>
+	<span style="font-family:Arial;">VoltDB Community Edition is an ideal starting point for 
+POCs and product evaluations because it supports database clustering. 
+Thus, developers can test their applications at scale before building 
+the final application on the VoltDB Enterprise Edition.</span>
+</p>

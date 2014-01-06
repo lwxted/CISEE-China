@@ -1,0 +1,20 @@
+<h2 style="vertical-align:baseline;font-weight:400;color:#333333;font-family:droid-sans, sans-serif;background-color:#20282D;">
+	<span style="color:#FFFFFF;">Advanced Analytics</span>
+</h2>
+<p style="vertical-align:baseline;color:#666666;font-family:droid-sans, sans-serif;background-color:#20282D;">
+	<span style="color:#FFFFFF;">When analyzing machine data, modern enterprises consistently face challenges revolving around the human limitation in knowing what to ask of the data. Many organizations do not recognize that there are two types of machine data analytics, and that distinguishing between the two is essential for successful troubleshooting and monitoring of your IT infrastructure:</span>
+</p>
+<ul style="vertical-align:baseline;color:#666666;font-family:droid-sans, sans-serif;background-color:#20282D;">
+	<li style="font-size:14px;vertical-align:baseline;">
+		<strong><span style="color:#FFFFFF;">Analyzing and answering questions you know to ask about your infrastructure.</span></strong><span style="color:#FFFFFF;">&nbsp;This is the “known unknowns” problem, the resolution to which involves functions like iterative search, alerting, reporting and dashboard visualization.</span>
+	</li>
+	<li style="font-size:14px;vertical-align:baseline;">
+		<strong><span style="color:#FFFFFF;">Gaining insights even when you don't know what questions to ask -- the “unknown unknowns” problem.</span></strong><span style="color:#FFFFFF;">&nbsp;Fundamentally people can’t glean insights from machine data when they don’t know where to look or what to look for. The difficult “unknown unknowns” problem is where machine learning comes in, as only modern machine data science, with automated, algorithm-driven predictive analytics, can reach beyond human limitations to extract insights from massive volumes of Big Data.</span>
+	</li>
+</ul>
+<p class="center" style="vertical-align:baseline;text-align:center;color:#666666;font-family:droid-sans, sans-serif;background-color:#20282D;">
+	<span style="color:#FFFFFF;"></span><img src="http://www.sumologic.com/_media/machine-data-graphic.png" alt="" style="border:0px;" /><span style="color:#FFFFFF;"></span>
+</p>
+<p style="vertical-align:baseline;color:#666666;font-family:droid-sans, sans-serif;background-color:#20282D;">
+	<span style="color:#FFFFFF;">Sumo Logic focuses on combining the best of human-based interactions (searches, alerts, dashboards, etc.) with machine learning (LogReduce, anomaly detection) to enable enterprises to succeed in both types of machine data analytics. In doing so, the Sumo Logic service provides insights from machine data to satisfy both business and operational requirements. As a result, Sumo Logic enables enterprises to successfully extract “signal” from growing amounts of machine data, rather than being inundated by “noise”. Integrating these capabilities into a single cloud-based service provides not just the benefits of the analytics but also lower TCO and faster time-to-value.</span>
+</p>

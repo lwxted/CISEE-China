@@ -1,0 +1,40 @@
+<h2 style="vertical-align:baseline;font-weight:400;color:#333333;font-family:droid-sans, sans-serif;background-color:#20282D;">
+	<span style="color:#FFFFFF;">Security DNA</span>
+</h2>
+<div class="span-10" style="margin:0px 30px 0px 0px;padding:0px;border:0px;vertical-align:baseline;color:#666666;font-family:droid-sans, sans-serif;background-color:#20282D;">
+	<p style="font-size:14px;vertical-align:baseline;">
+		<span style="color:#FFFFFF;">Securing customer data is not only an imperative at Sumo Logic, it’s in our DNA. The company’s heritage is steeped in the security culture. Our founders and employees are veterans of some of the most respected security companies in the industry.</span>
+	</p>
+	<p style="font-size:14px;vertical-align:baseline;">
+		<span style="color:#FFFFFF;">Our focus on security is embedded throughout the Sumo Logic platform, which is designed from the ground up as a secure, highly available, massively scalable multi-tenant log management and log data analytics platform. All user interactions use EV SSL Certificates for secure communications between a browser and the Sumo Logic service, and all log data is sent through SSL encrypted sessions.</span>
+	</p>
+	<p style="font-size:14px;vertical-align:baseline;">
+		<span style="color:#FFFFFF;">At rest, all log data is securely separated by customer in a highly available data store and encrypted using customer-specific rotating keys.</span>
+	</p>
+	<p style="font-size:14px;vertical-align:baseline;">
+		<span style="color:#FFFFFF;">The Sumo Logic log management service consists of multiple clusters with individual nodes. Each node is maintained in a hardened and well-protected system at the network and application layers.</span>
+	</p>
+	<p style="font-size:14px;vertical-align:baseline;">
+		<span style="color:#FFFFFF;">Access to the production cluster is only allowed to Sumo Logic employees with a need to access the service, and only through a highly secure, two-factor authentication mechanism utilizing centrally managed and tracked IronKeys.</span>
+	</p>
+	<h3 style="vertical-align:baseline;color:#333333;">
+		<span style="color:#FFFFFF;">Security Certifications / Examinations</span>
+	</h3>
+	<ul style="font-size:14px;vertical-align:baseline;">
+		<li style="font-size:14px;vertical-align:baseline;">
+			<span style="color:#FFFFFF;">Successful completion of SOC 2 examination. Completion of the SOC 2 Type 1 examination comes following a thorough review process of Sumo Logic’s security architecture, business processes and policies.</span>
+		</li>
+		<li style="font-size:14px;vertical-align:baseline;">
+			<span style="color:#FFFFFF;">Successful completion of Health Insurance Portability and Accountability Act (HIPAA) Type 1 attestation examination, validating that the company’s log management and analytics service meets the stringent data security requirements of federal healthcare regulations.</span>
+		</li>
+		<li style="font-size:14px;vertical-align:baseline;">
+			<span style="color:#FFFFFF;">US-EU Safe Harbor certification</span>
+		</li>
+		<li style="font-size:14px;vertical-align:baseline;">
+			<span style="color:#FFFFFF;">PCI, FISMA, ISO27001, and FIPS 140-2 certification for all data centers running the Sumo Logic service</span>
+		</li>
+	</ul>
+	<p style="font-size:14px;vertical-align:baseline;">
+		<span style="color:#FFFFFF;">The examination and service auditing was performed by an independent CPA firm, BrightLine CPAs &amp; Associates, Inc.</span>
+	</p>
+</div>

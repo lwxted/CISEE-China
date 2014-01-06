@@ -1,0 +1,211 @@
+<div class="ui-cols" style="padding:0px;font-size:18px;margin:0px auto;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+	<div class="ui-col-10" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+		<p class="rj-description" style="font-size:1.3em;background-color:transparent;color:#5E5E5E;">
+			<strong>Experiment, measure, iterate, grow.</strong>&nbsp;Running a high-growth online business requires a deep understanding of your data. RJMetrics provides the metrics you need to measure every step along the way.
+		</p>
+	</div>
+</div>
+<div class="ui-cols" style="padding:0px;font-size:18px;margin:0px auto;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+	<div class="ui-col-12" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+		<div class="rj-bar-left" style="padding:1px 0px;font-size:1em;margin:2em 0px;background-color:transparent;">
+			<h3 style="font-size:1.5em;color:#555555;">
+				METRICS
+			</h3>
+		</div>
+	</div>
+</div>
+<br />
+<div class="rj-panels" style="padding:0px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+	<div class="rj-panel rj-metric-container" style="padding:0px;font-size:1em;margin:0px;background-color:transparent;">
+		<div class="ui-cols" style="padding:0px;font-size:1em;margin:0px auto;background-color:transparent;">
+			<div class="ui-col-2" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<img width="150" height="103" src="https://rjmetrics.com/wp-content/uploads/2013/06/clv-150x103.png" class="attachment-thumbnail" alt="clv" style="height:auto;" />
+			</div>
+			<div class="ui-col-7" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+					Customer Lifetime Value
+				</h4>
+				<p style="font-size:1em;background-color:transparent;">
+					Customer Lifetime Value is the single most important metric for understanding your customers. RJMetrics gives you up-to-date CLV to use for your marketing and product strategy.
+				</p>
+			</div>
+			<p>
+				<br />
+			</p>
+			<p style="font-size:1em;background-color:transparent;">
+				<br />
+			</p>
+			<p style="font-size:1em;background-color:transparent;">
+				<br />
+			</p>
+			<p>
+				<br />
+			</p>
+		</div>
+	</div>
+	<div class="rj-panel rj-metric-container" style="padding:0px;font-size:1em;margin:0px;background-color:transparent;">
+		<div class="ui-cols" style="padding:0px;font-size:1em;margin:0px auto;background-color:transparent;">
+			<div class="ui-col-2" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<img width="150" height="102" src="https://rjmetrics.com/wp-content/uploads/2013/07/cohorts-150x102.png" class="attachment-thumbnail" alt="cohorts" style="height:auto;" />
+			</div>
+			<div class="ui-col-7" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+					Cohort Analysis
+				</h4>
+				<p style="font-size:1em;background-color:transparent;">
+					There are some things that a simple average will tell you.&nbsp;<strong>For everything else, there’s cohort analysis.</strong>&nbsp;Identify trends over time, measure the impact of changes in your business, and impress investors with your sophistication.
+				</p>
+			</div>
+			<p>
+				<br />
+			</p>
+			<p style="font-size:1em;background-color:transparent;">
+				<br />
+			</p>
+			<p style="font-size:1em;background-color:transparent;">
+				<br />
+			</p>
+			<p>
+				<br />
+			</p>
+		</div>
+	</div>
+	<div class="rj-panel rj-metric-container" style="padding:0px;font-size:1em;margin:0px;background-color:transparent;">
+		<div class="ui-cols" style="padding:0px;font-size:1em;margin:0px auto;background-color:transparent;">
+			<div class="ui-col-2" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<img width="115" height="130" src="https://rjmetrics.com/wp-content/uploads/2013/07/roi.png" class="attachment-thumbnail" alt="roi" style="height:auto;" />
+			</div>
+			<div class="ui-col-7" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+					Marketing ROI
+				</h4>
+				<p style="font-size:1em;background-color:transparent;">
+					Digital marketing can be a gold mine for your business. It can also cause you to waste piles of cash with little to show for it.&nbsp;<strong>Make sure you have the right analytics in place&nbsp;</strong>before over-investing in marketing campaigns.
+				</p>
+			</div>
+			<p>
+				<br />
+			</p>
+			<p style="font-size:1em;background-color:transparent;">
+				<br />
+			</p>
+			<p style="font-size:1em;background-color:transparent;">
+				<br />
+			</p>
+			<p>
+				<br />
+			</p>
+		</div>
+	</div>
+	<div class="rj-panel rj-metric-container" style="padding:0px;font-size:1em;margin:0px;background-color:transparent;">
+		<div class="ui-cols" style="padding:0px;font-size:1em;margin:0px auto;background-color:transparent;">
+			<div class="ui-col-2" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<img width="108" height="108" src="https://rjmetrics.com/wp-content/uploads/2013/07/rpr.png" class="attachment-thumbnail" alt="rpr" style="height:auto;" />
+			</div>
+			<div class="ui-col-7" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+					Repeat Purchase Rate
+				</h4>
+				<p style="font-size:1em;background-color:transparent;">
+					Increasing repeat purchases is the most profitable way to increase your ecommerce revenue.&nbsp;<strong>The best online stores get more than 50% of their revenue from returning customers.</strong>&nbsp;RJMetrics shows you what you need to do to get there.
+				</p>
+			</div>
+			<p>
+				<br />
+			</p>
+			<p style="font-size:1em;background-color:transparent;">
+				<br />
+			</p>
+			<p style="font-size:1em;background-color:transparent;">
+				<br />
+			</p>
+			<p>
+				<br />
+			</p>
+		</div>
+	</div>
+	<div class="rj-panel rj-metric-container" style="padding:0px;font-size:1em;margin:0px;background-color:transparent;">
+		<div class="ui-cols" style="padding:0px;font-size:1em;margin:0px auto;background-color:transparent;">
+			<div class="ui-col-2" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<img width="130" height="115" src="https://rjmetrics.com/wp-content/uploads/2013/07/revenue.png" class="attachment-thumbnail" alt="revenue" style="height:auto;" />
+			</div>
+			<div class="ui-col-7" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+					Revenue Analytics
+				</h4>
+				<p style="font-size:1em;background-color:transparent;">
+					Sometimes the simplest metrics can be the most important and the hardest to calculate. Revenue is the most important financial metric for your high-growth online business,&nbsp;<strong>but does everyone in your organization agree on what it is</strong>?
+				</p>
+			</div>
+			<p>
+				<p style="font-size:1em;background-color:transparent;">
+					<br />
+				</p>
+				<p style="font-size:1em;background-color:transparent;">
+					<br />
+				</p>
+			</p>
+		</div>
+	</div>
+	<div class="rj-panel rj-metric-container" style="padding:0px;font-size:1em;margin:0px;background-color:transparent;">
+		<div class="ui-cols" style="padding:0px;font-size:1em;margin:0px auto;background-color:transparent;">
+			<div class="ui-col-2" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<img width="149" height="110" src="https://rjmetrics.com/wp-content/uploads/2013/07/churn.png" class="attachment-thumbnail" alt="churn" style="height:auto;" />
+			</div>
+			<div class="ui-col-7" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+					Churn Rate
+				</h4>
+				<p style="font-size:1em;background-color:transparent;">
+					Even the best businesses with the best products still lose customers. You will too.&nbsp;<strong>Knowing what customers churn and why is one of the most valuable insights your growing business can have.</strong>
+				</p>
+			</div>
+			<p>
+				<p style="font-size:1em;background-color:transparent;">
+					<br />
+				</p>
+				<p style="font-size:1em;background-color:transparent;">
+					<br />
+				</p>
+			</p>
+		</div>
+	</div>
+	<div class="rj-panel rj-metric-container" style="padding:0px;font-size:1em;margin:0px;background-color:transparent;">
+		<div class="ui-cols" style="padding:0px;font-size:1em;margin:0px auto;background-color:transparent;">
+			<div class="ui-col-2" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<img width="108" height="90" src="https://rjmetrics.com/wp-content/uploads/2013/07/aov2.png" class="attachment-thumbnail" alt="aov" style="height:auto;" />
+			</div>
+			<div class="ui-col-7" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+					Average Order Value
+				</h4>
+				<p style="font-size:1em;background-color:transparent;">
+					Many ecommerce businesses focus on growing revenue by increasing purchase volume, but focusing on average order value is equally important.&nbsp;<strong>Make sure you’re not under-optimized for this critical metric.</strong>
+				</p>
+			</div>
+			<p>
+				<p style="font-size:1em;background-color:transparent;">
+					<br />
+				</p>
+				<p style="font-size:1em;background-color:transparent;">
+					<br />
+				</p>
+			</p>
+		</div>
+	</div>
+	<div class="rj-panel rj-metric-container" style="padding:0px;font-size:1em;margin:0px;background-color:transparent;">
+		<div class="ui-cols" style="padding:0px;font-size:1em;margin:0px auto;background-color:transparent;">
+			<div class="ui-col-2" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<img width="122" height="97" src="https://rjmetrics.com/wp-content/uploads/2013/07/custom2.png" class="attachment-thumbnail" alt="custom" style="height:auto;" />
+			</div>
+			<div class="ui-col-7" style="padding:0px 20px;font-size:1em;margin:0px;background-color:transparent;">
+				<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+					Your Custom Metrics
+				</h4>
+				<p style="font-size:1em;background-color:transparent;">
+					RJMetrics is a data analysis platform, not a series of canned reports. Every business needs something different to succeed, and our platform can accommodate almost any analysis you want to do.&nbsp;<strong>If you have the data, we have the insights.</strong>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>

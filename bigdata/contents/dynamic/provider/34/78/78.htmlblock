@@ -1,0 +1,796 @@
+<p class="MsoNormal" style="margin-left:0cm;">
+	<b><span style="font-size:14px;font-family:Arial;">Product
+Tour</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<b><span style="font-size:14px;font-family:Arial;">For
+Administrators </span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Leverage industry standard models
+for network, storage and user administration for familiar and intuitive cluster
+management.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Failure Detection and Self-Healing all
+the way to the hardware</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">Complete visibility and protection from
+the software down to the hardware. Visually monitor node health and also setup
+alerts and alarms from the MapR Control System (MCS). Benefit from MapR’s
+failure detection and self-healing.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Instant Node Recovery</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">Support applications with zero downtime
+by doing nothing. Data from a failed node becomes instantly available
+automatically.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Self-Recovery from multiple failures</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Run Hadoop in a
+lights out data center. There are no NameNodes to manage or jobs that need to
+be re-started. Self-healing protects from multiple failures across system
+components.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Snapshots</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">Perform point-in-time recovery of files
+and tables to overcome user or application created errors. Also configure
+different snapshot frequencies for different volumes.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Mirroring</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Set up disaster
+recovery for all data – both files and tables. Also leverage mirroring to
+replicate data between production and research environments or between
+on-premise and cloud infrastructures.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Granular Job and Task Diagnostics</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Zoom into
+cluster usage and performance metrics for jobs and tasks with colorful line
+charts and histograms. All MCS operations are also available through the MapR
+CLI and REST APIs.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Volume Based Data Management</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">MapR supports
+volumes to make it easy to apply policies across directories and file contents
+without managing individual files. These policies include data protection,
+retention, snapshots, and access privileges. Setup quotas for users. Save time
+with centralized configuration and logging. Also leverage NFS capabilities to
+access and monitor the cluster.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Multi-tenancy</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Share the
+cluster. Exploit volumes to create isolated environments for users, groups and
+applications with different security, hardware or network requirements. Use
+labels and queues to better manage job execution.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Simple Migrations</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Migrate to and
+from a MapR distribution with full binary compatibility. Never worry about
+having to recompile code to migrate.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Rolling Upgrades</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Eliminate
+planned downtimes. Perform maintenance or software upgrades on your cluster,
+few nodes at a time.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<b><span style="font-size:14px;font-family:Arial;">For Developers </span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Enjoy the best set of accessibility
+features and design scalability for development.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Complete Hadoop Distribution</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Have the
+complete feature set including HBase, Hive, Pig, Mahout and the rest of the
+Apache Hadoop ecosystem at your disposal. Make changes to open-source code and
+no matter what you do, benefit from the underlying performance, reliability and
+ease of use.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Simplified MapReduce and Database
+Design</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">With a unified
+namespace for files and tables, design MapReduce operations more effectively.
+Decide on the best application workflow for integrating structured and
+unstructured data with the flexibility to create and delete files and tables on
+the fly.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Unlimited Scale</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">Run up to 10,000 nodes, store over 120
+PB of data, create over a trillion files, create over a trillion tables, create
+up to 64 database column families per table and design for gigabyte cell sizes.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">NFS Access</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Mount the
+cluster as a volume, have browser access to view files and enable any file
+based application to perform random read-write operations on cluster data. Use
+scripts, standard enterprise and UNIX tools to access and manipulate data.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">ODBC Connectivity</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">Integrate with SQL data sources
+directly without special connectors. Create automated flows between your RDBMS
+systems and the Hadoop cluster, making it completely transparent to the
+business user.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<b><span style="font-size:14px;font-family:Arial;">For
+Business Users </span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Deploy Hadoop and NoSQL capabilities
+together on one easy, dependable and fast platform.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Full Feature Set</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">Take advantage of the full set of Hadoop
+capabilities that have been made easier, faster and reliable through
+groundbreaking engineering innovation.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Mission</span></b><b><span style="font-size:14px;font-family:Arial;"> Critical Applications</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">Run mission critical applications at
+99.999% availability. Run lights out data center with self healing of all critical
+services, data protection, disaster recovery, rolling upgrades and instant node
+recovery.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">24/7 Support and No Vendor Lock-in</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">MapR delivers full binary compatibility
+and support for industry standard APIs, as well as the ability to port data in
+and out of the distribution without any code changes or lock-ins. And our
+support staff is available 24/7 to meet your needs.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Broader Set of Use Cases</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">Perform any Hadoop operation, from
+offline batch analytics to real time analytics or light weight OLTP transactions.
+Run a wide variety of workloads using data placement control and support for
+heterogeneous hardware.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Easy BI and Data Warehouse Integration</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">Leverage industry standard APIs such as
+NFS and ODBC to connect different data sources seamlessly. Create new business
+intelligence workflows that include Hadoop while continuing to use existing
+scripts and applications.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Better ROI</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">Run your cluster at 2-5 times better
+performance than other distributions. Better hardware utilization provides you
+with greater ROI.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Tested and Proven Cloud Deployment</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">Deploy Hadoop in the cloud or in a
+hybrid-cloud setup with industry leaders such as Amazon Web Services and Google
+Compute Engine.</span> 
+</p>
+<h1 style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Why MapR</span> 
+</h1>
+<h1 style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">MapR Distribution for Apache Hadoop Advantages</span> 
+</h1>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;font-size:14px;">MapR
+makes Hadoop easy to use, dependable, and fast.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<b><span style="font-size:14px;font-family:Arial;">Easy </span></b> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Mount</span><span style="font-size:14px;font-family:Arial;"> Hadoop</span><span style="font-size:14px;font-family:Arial;"> with
+     Direct Access NFS™</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Easy
+     graphical provisioning and planning tools</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Built-in
+     monitoring with heatmaps, alerts and alarms</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Usage
+     tracking and quotas</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Complete
+     distribution with Apache HBase™, Pig™, Hive™, Cascading, Mahout™, and more</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">100% API
+     compatibility with Hadoop</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Integrated
+     and hardened with the latest patches</span> 
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<b><span style="font-size:14px;font-family:Arial;">Dependable </span></b> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">JobTracker
+     HA for no lost jobs</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">No
+     NameNode HA™ eliminates downtime and data loss</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Multi-node
+     Direct Access NFS™</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Support
+     for unlimited number of files</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Mirroring
+     for disaster recovery and cluster synchronization</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Snapshots
+     for point-in-time recovery</span> 
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Fast </span></b> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Runs
+     faster with half the hardware than other distributions</span> 
+	</li>
+</ul>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Higher
+     MapReduce and HBase throughput (2X)</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Optimized
+     shuffle</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Higher
+     random I/O (5X to 100X)</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Automatic
+     and transparent compression reduces network overhead and disk footprint</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Scales
+     linearly with number of cores and nodes</span> 
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Unique
+Features of MapR Platform for Apache Hadoop</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">MapR is the only Apache
+Hadoop&nbsp;distribution that provides full data protection, no single points
+of failure, improved performance, and dramatic ease of use advantages. Below
+are a dozen capabilities that are only possible with MapR's industry-leading
+Hadoop distribution.</span> 
+</p>
+<table class="MsoNormalTable ke-zeroborder" style="width:472.55pt;" border="0" cellpadding="0" cellspacing="0" width="630">
+	<tbody>
+		<tr>
+			<td>
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:14px;font-family:Arial;">&nbsp;</span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/expresslane"><span style="color:windowtext;font-size:14px;">Finish small jobs quickly with MapR ExpressLane</span></a></span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/namenode-ha"><span style="color:windowtext;font-size:14px;">Eliminate downtime and performance bottlenecks with
+  No NameNode HA</span></a><a href="http://www.mapr.com/products/only-with-mapr/direct-access-nfs"><span style="color:windowtext;font-size:14px;">™</span></a></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:14px;font-family:Arial;">&nbsp;</span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/direct-access-nfs"><span style="color:windowtext;font-size:14px;">Mount your Hadoop cluster with Direct Access NFS™</span></a></span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/ha-jobtracker"><span style="color:windowtext;font-size:14px;">Eliminate lost jobs with JobTracker HA</span></a></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:14px;font-family:Arial;">&nbsp;</span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/realtime-flows"><span style="color:windowtext;font-size:14px;">Enable realtime data flows</span></a></span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/snapshots"><span style="color:windowtext;font-size:14px;">Enable point-in-time recovery with MapR Snapshots</span></a></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:14px;font-family:Arial;">&nbsp;</span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/heatmap"><span style="color:windowtext;font-size:14px;">Use the MapR Heatmap,™ alerts, and alarms to monitor
+  your cluster</span></a></span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/data-mirroring"><span style="color:windowtext;font-size:14px;">Synchronize data across clusters with Mirroring</span></a></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:14px;font-family:Arial;">&nbsp;</span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/volumes"><span style="color:windowtext;font-size:14px;">Manage your data easily with Volumes</span></a></span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/cloud"><span style="color:windowtext;font-size:14px;">Let multiple jobs safely share your Hadoop cluster</span></a></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:14px;font-family:Arial;">&nbsp;</span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/scalable"><span style="color:windowtext;font-size:14px;">Scale up and create an unlimited number of files</span></a></span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/data-placement-control"><span style="color:windowtext;font-size:14px;">Control data placement for improved performance,
+  security or manageability</span></a></span> 
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:14px;font-family:Arial;">&nbsp;</span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.mapr.com/products/only-with-mapr/faster"><span style="color:windowtext;font-size:14px;">Get jobs done faster with less hardware</span></a></span> 
+				</p>
+			</td>
+			<td width="49%">
+				<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+					<span style="font-size:14px;font-family:Arial;">&nbsp;</span> 
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<b><span style="font-size:14px;font-family:Arial;">&nbsp;</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;">Three Great
+Editions</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">MapR
+Technologies offers three versions of its groundbreaking unified Big Data
+platform for Hadoop: The M3, M5 and M7 Editions.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<img src="data/provider/EBDBED07-52F5-EB2D-C3F4-A364BE852989/DE0AF91A-5658-A1D4-A2EF-F4BF40FAD675/20130626153108_89755.png" alt="" /><img src="data/provider/EBDBED07-52F5-EB2D-C3F4-A364BE852989/DE0AF91A-5658-A1D4-A2EF-F4BF40FAD675/20130626153648_34359.png" alt="" /><br />
+<span style="font-size:12.0pt;font-family:Arial;"></span><b><span style="font-size:12.0pt;font-family:Arial;"></span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;"></span><b><span style="font-size:12.0pt;font-family:Arial;"></span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">MapR is a complete distribution that
+includes Apache HBase™, Pig, Hive, Mahout, Cascading, Sqoop, Flume and more.
+MapR’s distribution is 100% API compatible with Apache Hadoop™ (MapReduce, HDFS
+and HBase™). MapR Technologies has significantly advanced Hadoop by making it
+easy, dependable, and fast.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<b><span style="font-size:14px;font-family:Arial;color:#00467F;">Instant intuitive
+insight from MapR Heatmap™</span></b><span style="font-size:12.0pt;font-family:Arial;"><br />
+<span style="font-size:14px;"> MapR’s unique control system provides complete access and power tools to help
+you understand and operate your Hadoop cluster with ease. Intuitive views into
+the most critical issues are automatically provided along with tools to allow
+provisioning a single node or thousands. Of course we also provide CLI acces. </span></span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Feature Spotlight</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<b><span style="font-family:Arial;color:#00467F;font-size:14px;">Revolutionary Direct Access NFS™ for realtime dataflows</span></b><span style="font-family:Arial;"><br />
+<span style="font-size:14px;"> MapR enables you to simply mount the cluster as an NFS volume. That means
+Hadoop finally has a read-write filesystem making it easier, and faster to get
+big data in and results out. That’s why we call it Direct Access NFS™.&nbsp; It
+also enables incremental data loads making it possible to run jobs on streaming
+data.</span></span> 
+</p>
+<p style="margin-left:0cm;">
+	<b><span style="font-family:Arial;color:#00467F;font-size:14px;">Provision jobs, users &amp; groups and do capacity planning</span></b><span style="font-family:Arial;"><br />
+<span style="font-size:14px;"> MapR is the first to implement volumes. This concept coupled with the ability
+to provision around users and groups simplifies management. We even integrated NIS and LDAP. Key to
+provisioning is the ability to set and track quotas and usage. This helps you
+do capacity planning for the future while automated advisory alerts draw your
+attention to potential problem areas.</span></span> 
+</p>
+<p style="margin-left:0cm;">
+	<b><span style="font-family:Arial;color:#00467F;font-size:14px;">Share the Hadoop cluster safely with multiple jobs</span></b><span style="font-family:Arial;"><br />
+<span style="font-size:14px;"> We started by protecting the core system by isolating it from user jobs to
+ensure that a runaway job can’t bring down your entire cluster. Safely sharing
+the cluster also means higher utilization. Setting quotas for users and then
+tracking capacity usage is made easy whether you are managing one node or
+thousands. Automated alerts on alarms provides a built-in assistant for you to
+rely on as you manage the Hadoop environment.</span></span> 
+</p>
+<p style="margin-left:0cm;">
+	<b><span style="font-family:Arial;color:#00467F;font-size:14px;">MapR’s innovative Lockless Storage Services™ architecture</span></b><span style="font-family:Arial;"><br />
+<span style="font-size:14px;"> MapR’s architecture was designed by anticipating the growth of big data over
+the next decade. MapR makes possible unlimited number of files, provides vastly
+greater headroom for growth, and gets out of your way with a minimal footprint
+design so your jobs get done faster.</span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;"></span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;"><img src="data/provider/EBDBED07-52F5-EB2D-C3F4-A364BE852989/DE0AF91A-5658-A1D4-A2EF-F4BF40FAD675/20130626153130_10041.png" alt="" /><img src="data/provider/EBDBED07-52F5-EB2D-C3F4-A364BE852989/DE0AF91A-5658-A1D4-A2EF-F4BF40FAD675/20130626153700_48303.png" alt="" /><br />
+</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">MapR M5 is an enterprise-grade
+platform for Apache Hadoop™ that includes Apache HBase™, Pig, Hive, Mahout,
+Cascading, Sqoop, Flume and more. MapR’s distribution is 100% API compatible
+with Hadoop (MapReduce, HDFS and HBase™). The M5 Edition includes advanced high
+availability and data protection features such as JobTracker HA, No NameNode
+HA, Snapshots and Mirroring. The M5 Edition, available on a subscription basis,
+is fully supported for the most demanding enterprise, mission-critical
+deployments.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:14px;font-family:Arial;color:#00467F;">MapR’s breakthrough
+innovations</span></b><span style="font-size:12.0pt;font-family:Arial;"></span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Architecture
+     designed specifically for high availability </span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Built-in
+     user controlled data protection and point-in-time recovery </span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">MapR
+     mirroring to synchronize data across clusters </span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Realtime
+     data flows with Direct Access NFS™ </span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Patent
+     pending storage service for faster job execution and greater scalability </span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Instant
+     insight from MapR Heatmap™ </span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">MapR
+     Volumes for easier security, placement, retention, and quota management </span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">No
+     NameNode architecture for unlimited files support </span> 
+	</li>
+</ul>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Feature Spotlight</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<b><span style="font-family:Arial;color:#00467F;font-size:14px;">High Availability</span></b><span style="font-family:Arial;"><br />
+<span style="font-size:14px;"> With JobTracker HA and Distributed NameNode HA™, MapR’s Lockless Storage
+Services™ architecture was designed with no single points of failure.
+Distributed high-availability is also built-in throughout the entire system.
+The M5 Edition’s JobTracker HA prevents lost jobs and painful restarts. Our
+Distributed NameNode HA™ eliminates one of the most frustrating failure modes
+of all other Hadoop distributions and provides both scale and performance
+advantages.</span></span> 
+</p>
+<p style="margin-left:0cm;">
+	<b><span style="font-family:Arial;color:#00467F;font-size:14px;">Mirroring for Business Continuity.</span></b><span style="font-family:Arial;"><br />
+<span style="font-size:14px;"> The M5 Edition makes disaster recovery easy and built-in. Going far beyond
+replication, MapR’s mirroring means you can set policies around your Recovery
+Time objectives (RTO) and mirror your data automatically within your cluster,
+between two clusters or between two data centers.</span></span> 
+</p>
+<p style="margin-left:0cm;">
+	<b><span style="font-family:Arial;color:#00467F;font-size:14px;">Protect your data and set point-in-time recovery with snapshots.</span></b><span style="font-family:Arial;"><br />
+<span style="font-size:14px;"> Replication cannot protect data from application errors or deletion. Serious
+applications require the ability to recover to a specific point in time. MapR’s
+Snapshots require very low overhead and can be done on a frequent interval.
+Recovery is as easy as copying a directory or files from the snapshot directory
+to the current directory. You can also drag and drop from any file browser
+supporting NFS.</span></span> 
+</p>
+<p style="margin-left:0cm;">
+	<b><span style="font-family:Arial;color:#00467F;font-size:14px;">Share the Cluster Safely with multiple jobs.</span></b><span style="font-family:Arial;"><br />
+<span style="font-size:14px;"> We protect the core system by isolating it from user jobs so runaway jobs can’t
+bring down your entire cluster. Safely sharing the cluster also means higher
+utilization. Setting quotas for users and then tracking capacity usage is made
+easy whether you are managing one node or thousands. Automated alerts provide a
+built-in assistant for you to rely on as you manage the Hadoop environment.</span></span> 
+</p>
+<p style="margin-left:0cm;">
+	<b><span style="font-family:Arial;color:#00467F;font-size:14px;">Provision Jobs, Users and Groups and perform capacity planning.</span></b><span style="font-family:Arial;"><br />
+<span style="font-size:14px;"> MapR is the first to implement volumes. Volumes allow you to frame your
+application’s business requirements in Hadoop. Elements such as application
+Recovery Time Objectives, Recovery Point Objectives, required CPU and data
+resources, expected capacity growth and security requirements can all be
+defined at the volume level.</span></span> 
+</p>
+<p style="margin-left:0cm;">
+	<b><span style="font-family:Arial;color:#00467F;font-size:14px;">Revolutionary Direct Accss NFS™ for realtime dataflows.</span></b><span style="font-family:Arial;"><br />
+<span style="font-size:14px;"> MapR enables you to simply mount the cluster as an NFS volume giving Hadoop a
+full read/write storage system to support multiple readers and writers as well
+as full random read and write. Our patent pending NFS access allows
+applications to load data directly into Hadoop and realtime access to Hadoop
+results.</span></span> 
+</p>
+<p style="margin-left:0cm;">
+	<b><span style="font-family:Arial;color:#00467F;font-size:14px;">Instant intuitive insight from MapR Heatmap™.</span></b><span style="font-family:Arial;"><br />
+<span style="font-size:14px;"> MapR provides insight, complete access and power tools to help you understand
+and operate your Hadoop cluster with ease. Intuitive views into the most
+critical issues are automatically provided along with tools to easily provision
+a single node or thousands. Our graphical and programmatic interfaces are
+designed to scale to the largest clusters, and of course, we provide CLI and
+REST access as well.</span></span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;"></span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;"><img src="data/provider/EBDBED07-52F5-EB2D-C3F4-A364BE852989/DE0AF91A-5658-A1D4-A2EF-F4BF40FAD675/20130626153146_61053.png" alt="" /><img src="data/provider/EBDBED07-52F5-EB2D-C3F4-A364BE852989/DE0AF91A-5658-A1D4-A2EF-F4BF40FAD675/20130626153713_19961.png" alt="" /><br />
+</span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;font-size:14px;">MapR
+M7 provides ease of use, dependability and performance advantages for NoSQL and
+Apache Hadoop™ applications. MapR M7 has removed the trade-offs organizations
+face when looking to deploy a NoSQL solution. M7 provides scale, strong
+consistency, reliability and continuous low latency.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;"><span style="font-size:14px;">MapR
+M7 is architected from the ground up to deliver reliability and performance
+without requiring compactions or background consistency checks to work
+smoothly. M7 delivers performance of over one million operations/sec with a
+ten-node cluster that can scale linearly. M7 provides dramatic scalability
+advantages with support for up to one trillion tables across thousands of
+nodes. M7 also provides instant recovery from failures, ensuring 99.999%
+availability for Apache HBase</span><span style="color:#555555;font-size:14px;">™</span><span style="font-size:14px;"> and Hadoop
+applications.</span></span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;font-size:14px;">With
+M7, there are no RegionServers, additional processes, or any redundant layer
+between the application and the data residing in the cluster. M7’s zero-administration approach includes
+automatic region splits and self-tuning with no downtime required for any
+operation including schema changes.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;font-size:14px;">Making
+HBase Applications Enterprise
+Grade</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Patent pending architecture for
+     a unified data platform for tables and files</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">No RegionServers eliminates
+     complexity and unreliability</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">No manual administrative tasks
+     such as table merges or splits</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Instant recovery from failures</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Full data protection and
+     disaster recovery</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Consistent performance with no
+     compactions</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">High throughput with low
+     latency</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:14px;font-family:Arial;">Unprecedented scale</span> 
+	</li>
+</ul>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:14px;font-family:Arial;">Feature Spotlight</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<strong><span style="font-family:Arial;color:#00467F;font-size:14px;">No Downtime with Instant Recovery</span></strong><span style="font-family:Arial;"></span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;font-size:14px;">M7
+delivers database high availability. Instead of requiring thirty minutes or
+more of downtime to reassign the region when a node goes down that HBase
+running on other Hadoop distributions requires, M7 enables Instant Recovery
+from data replicated in the cluster.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<strong><span style="font-family:Arial;color:#00467F;font-size:14px;">Zero HBase Administration</span></strong><span style="font-family:Arial;"></span> 
+</p>
+<p class="p1" style="margin-left:0cm;">
+	<span style="font-family:Arial;font-size:14px;">M7’s simplified architecture eliminates manual
+operations related to HBase administration with automated operations including
+region splits and self-tuning.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<strong><span style="font-family:Arial;color:#00467F;font-size:14px;">Continuous Low Latency</span></strong><span style="font-family:Arial;"></span> 
+</p>
+<p class="p1" style="margin-left:0cm;">
+	<span style="font-family:Arial;font-size:14px;">MapR
+M7 provides consistent low latency by avoiding garbage collections or
+compactions that affect performance. Low disk I/O coupled with smaller disk
+footprint makes database operations on disk fast and predictable.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<strong><span style="font-family:Arial;color:#00467F;font-size:14px;">Full Data Protection</span></strong><span style="font-family:Arial;"></span> 
+</p>
+<p class="p1" style="margin-left:0cm;">
+	<span style="font-family:Arial;font-size:14px;">M7
+delivers full data protection for HBase applications. Snapshots enable
+point-in-time recovery of tables to protect against user or application errors.
+M7 expands Snapshots to include all data - both files and tables. With M7,
+tables can be read directly from Snapshots and recovered directly without the
+downtime required to restore HBase tables in other distributions.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<strong><span style="font-family:Arial;color:#00467F;font-size:14px;">Business Continuity with Mirroring</span></strong><span style="font-family:Arial;"></span> 
+</p>
+<p class="p1" style="margin-left:0cm;">
+	<span style="font-family:Arial;font-size:14px;">Mirroring
+allows users to automatically replicate differential data in real-time across
+clusters. This could be employed to create disaster recovery solutions for
+databases or leveraged to provide read-only access to data from multiple
+locations. Because M7 does not require RegionServers to be reconstructed,
+databases can be brought up instantly on the mirrored site if the active site
+goes down.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<strong><span style="font-family:Arial;color:#00467F;font-size:14px;">Share the Cluster Safely with Multiple Jobs</span></strong><span style="font-family:Arial;"></span> 
+</p>
+<p class="p1" style="margin-left:0cm;">
+	<span style="font-family:Arial;font-size:14px;">MapR
+protects the core system by isolating it from user jobs so runaway jobs can't
+bring down your entire cluster. Features such as ExpressLane, data placement
+and job placement control mean you can run multiple jobs with different
+requirements without conflict.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<strong><span style="font-family:Arial;color:#00467F;"><span style="font-size:14px;">Revolutionary Direct Access NFS</span><sup><span style="font-size:14px;">TM</span></sup><span style="font-size:14px;"> for Realtime
+Dataflows</span></span></strong><span style="font-family:Arial;"></span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;font-size:14px;">MapR
+enables you to simply mount the cluster as an NFS volume giving Hadoop a full
+read/write storage system to support multiple readers and writers as well as
+full random read and write. Our patent pending NFS access allows applications
+to load data directly into Hadoop and realtime access to Hadoop results.</span> 
+</p>

@@ -1,0 +1,567 @@
+<ul>
+	<li>
+		<span style="font-size:14.0pt;font-family:Wingdings;"><span><span></span></span></span><b><span style="font-size:14.0pt;font-family:Arial;">Energy &amp; Utilities</span></b>
+	</li>
+</ul>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">4+ million
+homes save hundreds of millions of dollars on energy bills through power usage
+analytics enabled by Cloudera.</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">With the introduction of the smart
+grid, smart meters, and the inclusion of external factors such as weather data
+in energy consumption analysis, we're better positioned than ever to curb
+energy use. But traditional systems cannot keep pace with the volume, variety
+and velocity of energy-related data that needs to be ingested to make that goal
+possible.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Cloudera solves this problem by
+accommodating real-time data streams of multi-structured data in a scalable and
+cost-effective manner. That data can be stored long term and made available for
+speed-of-thought analysis.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Seismic Data
+Processing</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Parallel processing systems make it
+more efficient to make sense of vast seismic data, and Apache Hadoop is the
+most cost-effective, scalable parallel processing system today. Cloudera helps
+energy and utilities companies deploy and manage seismic data processing
+solutions on Hadoop so they can ask bigger questions in order to find and
+maximize energy resources.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Smart Meter
+Analytics</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">If the massive volumes of
+machine-generated data from smart meters can be captured for speed-of-thought
+analysis and efficient long-term storage, utilities can use that data to detect
+patterns and make recommendations to customers. The end result: more efficient
+energy distribution and improved customer relationships.&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Cloudera offers the most cost-effective
+platform to store, process and flexibly analyze massive volumes of
+multi-structured data.</span>
+</p>
+<ul>
+	<li>
+		<b><span style="font-size:14.0pt;font-family:Arial;">Financial Services</span></b>
+	</li>
+</ul>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">3 of the top 5
+banks run Cloudera.</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">The digital revolution has dramatically
+changed the financial services industry, making it business-critical for
+financial services companies to collect, store and analyze massive volumes of
+data.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Many of today’s top financial service
+firms rely on Cloudera to create central data hubs that combine large volumes
+of diverse and detailed data, allowing them to ask bigger questions that drive
+competitive advantage in several key business applications. The result: they
+can better serve their customers, understand their risk exposure and reduce
+incidents of fraud.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Consumer &amp;
+Market Risk Modeling</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">While financial services companies have
+more access to customer data than ever, they know less about those customers
+than before. Cloudera enables the large-scale data ingestion that is necessary
+to keep pace with today’s digital world, capturing and analyzing all customer
+interactions.&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Similarly, access to ever-increasing
+sources of data presents an opportunity as the sophistication of market risk
+modeling increases. By utilizing information from internal trading systems,
+logs from trade execution systems and external sources such as social media
+data and news feeds, financial services companies can have access to larger
+volumes and richer data than ever before. Cloudera helps financial services
+companies continuously model and refine consumer groups while maintaining
+higher quality risk profiles.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Personalization
+&amp; Recommendations</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">With the move
+from in-person to online banking and financial services, firms have been able
+to offer more convenient, functional services to customers digitally while
+sacrificing the personal touch. However, Cloudera opens the door to a more
+personalized online experience: By tracking user interactions across systems
+and channels in real time, firms can categorize customers dynamically and
+experiment with uniquely targeted offers and advice for a better and more
+personalized client experience. Cloudera Enterprise will be embedded into
+Logica’s Applied Customer Insights (ACI) solution.<br />
+<b>Fraud Detection &amp; Anti-Money Laundering</b></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Financial services companies are
+challenged to create a balance between increasing service offerings while
+reducing exposure to perpetrators. As new systems and features are rolled out
+to customers, perpetrators are constantly adapting to fraud prevention
+techniques. Sophisticated firms are using Cloudera to perfect their fraud
+detection models. These companies can compare experimental results with
+simulations that leverage actual recorded data. They also deploy large testing
+sandboxes for research and development and real-time fraud detection engines to
+catch bad behavior in flight. JPMorgan Chase uses Hadoop technology for a
+growing number of purposes, including fraud detection, IT risk management and
+self service.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Portfolio
+Valuations</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">In order to forecast mortgage portfolio
+valuations, organizations build out and continuously adjust predictive models.
+These models produce enormous data volumes that must then be cross-compared
+with actual market behavior.&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Cloudera helps financial services firms
+store longer consumer history, payment data, structured external credit data
+sources, and unstructured sources such as property valuation sites, local
+consumer offers, crime report data and public sentiment data. By combining this
+data geographically and aligning it chronologically, they can enrich the
+attributes related to particular mortgages and apply more data to their models.</span>
+</p>
+<ul>
+	<li>
+		<span style="font-size:14.0pt;font-family:Wingdings;"><span><span></span></span></span><b><span style="font-size:14.0pt;font-family:Arial;">Government</span></b>
+	</li>
+</ul>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">100% of the top
+5 US
+intelligence agencies run Cloudera.</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">On average, government agencies store
+1.6 petabytes of data and expect to have 2.6 petabytes by 2014. One third of
+that data is unstructured. If government agencies could effectively analyze
+these petabytes of data, society would reap the benefits. But budgets are
+limited, and the technical requirements to analyze petabyte-scale data surpass
+the limits of today's supercomputers.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Apache Hadoop addresses this problem by
+distributing parallel processing across low-cost, industry standard servers.
+Cloudera makes it easier for government organizations to adopt Hadoop via
+training, software, and expert support and services. And as a member of
+TechAmerica Foundation’s Big Data Commission, Cloudera has worked alongside
+industry leaders to publish a <a href="http://www.cloudera.com/content/cloudera/en/about/press-center/press-releases/release.html?ReleaseID=1747793">comprehensive
+report</a> that demystifies the term “Big Data” for government agencies by
+defining key terms, explaining the underlying technology in simple terms, and
+identifying best practices and lessons learned from early efforts.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Cyber Security
+&amp; Fraud Detection</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">To prevent
+cyber attacks, government organizations must collect and analyze all detailed
+data produced during network-based interactions. The largest, most
+comprehensive data set will produce the most accurate, precise and predictive
+result. Cloudera helps agencies cost-effectively store and manage data of all
+shapes and formats in a single place for more comprehensive and flexible
+analytics that help to identify fraudulent activity before it happens. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Geospatial,
+Image &amp; Video Processing</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">One third of all the data that
+government organizations collect is unstructured, comprised largely of spatial,
+image and video data. But processing this unstructured data and making it
+available for analysis is complex.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Hadoop makes data processing of massive
+volumes of multi-structured data fast, flexible and affordable, and Cloudera
+helps government organizations put Hadoop into production quickly and reliably.</span>
+</p>
+<ul>
+	<li>
+		<span style="font-size:14.0pt;font-family:Wingdings;"><span><span></span></span></span><b><span style="font-size:14.0pt;font-family:Arial;">Healthcare &amp; Life Sciences</span></b>
+	</li>
+</ul>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">40+ billion
+clinical and operational data points about 13 million patients are analyzed
+using Cloudera.</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">In traditional IT environments,
+clinical, operational and financial data are managed in data silos. Meanwhile,
+with the movement from paper-based to electronic health records systems and the
+increase in usage of machines and medical devices that produce a steady stream
+of data, the volume and variety of information that organizations in the health
+and life sciences space want to capture and analyze have skyrocketed.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Cloudera allows healthcare companies to
+process and manage this data while saving IT infrastructure costs via training,
+software (CDH and Cloudera Manager), and expert support and services.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Genome
+Processing &amp; DNA Sequencing</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;"><a href="http://www.genome.gov/sequencingcosts/">According to the National Human
+Genome Research Institute</a>, it costs about US$10,000 to sequence one genome
+using standard technology, and this process generates about 100GB of compressed
+data. Apache Hadoop has made it affordable for scientists to process and store
+this data, helping to reduce the cost of sequencing a genome to less than
+US$100.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Cloudera makes it possible for life
+sciences organizations to process DNA information cost-effectively and at scale
+by simplifying Hadoop deployment and management.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Clinical
+Quality &amp; Cost Analysis</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">If healthcare and life sciences
+companies can integrate patient data, drug effects data, clinical data, R&amp;D
+data and financial records, they're more likely to identify patterns that drive
+better, more proactive healthcare. Furthermore, if healthcare companies can
+share blinded patient data and integrate social media content into their data
+management systems, they'll have an even deeper pool of information from which
+correlations can be made.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Cloudera offers a solution that makes
+it easier for these organizations to bring together large volumes of detailed
+data from numerous sources, in a variety of formats, into a single, flexible
+and scalable system for long-term storage and analysis.</span>
+</p>
+<ul>
+	<li>
+		<b><span style="font-size:14.0pt;font-family:Arial;">Media &amp; Entertainment</span></b>
+	</li>
+</ul>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">3 of the top 5
+media companies run Cloudera.</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Apache Hadoop technology was born from
+the needs of large-scale web companies like Google and Yahoo! to efficiently
+store and process massive volumes of digital data in near real time. The
+open-source platform was quickly adopted by other web giants such as Facebook,
+LinkedIn and eBay.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Today, Hadoop is recognized as a staple
+in the businesses of media, gaming and entertainment. In fact, many of these
+organizations have bet their businesses on Hadoop by deploying the system as
+their core <a href="http://www.cloudera.com/content/cloudera/en/solutions/applications/example-applications.html#data">data
+hub</a>. Those same companies rely on Cloudera as their partner to ensure
+smooth deployment, ongoing success and 24x7 reliability of their Hadoop
+systems.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Search &amp;
+Recommendation Optimization</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Companies that are successful at
+aligning search results with what their users are actually looking for will
+achieve greater success through more satisfied users. Similarly, if web
+companies can detect web browsing patterns and correlated relationships, they
+can make more accurate recommendations.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Hadoop's ability to ingest and analyze
+the digital data exhaust generated by users' web behaviors at low cost has made
+it the de facto data management standard for media companies. These companies
+rely on Cloudera to keep their mission-critical Hadoop infrastructures running
+around the clock at peak performance.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">User Engagement
+&amp; Digital Content Analysis</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">In the world of media and
+entertainment, the longer you can keep your customers engaged, the more
+successful you'll be. If companies can harness the data from today’s
+"digital fire hose," they are better equipped to tailor services to
+their clients at a personal level.&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Cloudera allows media and entertainment
+companies to track user interactions across systems and channels in real time —
+to personalize the user experience, improve website stickiness and increase
+customer loyalty.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Ad/Offer
+Targeting</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Advertising
+campaigns in the digital space can be monitored, measured and tweaked in real
+time to optimize response and maximize ROI. It's no wonder that Hadoop has
+taken the industry by storm, offering a fast, flexible, scalable and low-cost
+platform. And companies that have made a business of online advertising — from
+agencies to media buying platforms to ad exchanges to publishers — trust
+Cloudera to ensure their data management systems operate efficiently and
+reliably. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Sentiment &amp;
+Social Media Analysis</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Companies that
+sift through social media and user-generated content (UGC) data to better
+understand customer sentiments can respond to those customers in a more
+personal manner, and establish strong customer loyalty. Hadoop provides a
+scalable, cost-effective platform that can easily ingest unstructured social
+media data, and Cloudera ensures successful adoption and ongoing deployment of
+Hadoop. <a href="http://blog.cloudera.com/blog/2012/05/treato-analyzes-health-related-big-data-with-hadoop/"><br />
+</a></span>
+</p>
+<ul>
+	<li>
+		<b><span style="font-size:14.0pt;font-family:Arial;">Retail, eCommerce &amp; Consumer Products</span></b>
+	</li>
+</ul>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">3 of the top 5
+retailers run Cloudera.</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">“One of the challenges retailers and
+e-commerce providers face today is maintaining customer loyalty while reducing
+email opt-outs. At Macys.com, we collect and analyze large amounts of data from
+our customers 24x7. It’s important to have a 'single view' that ensures we can
+offer the best personalized customer care possible, as if actually in-store.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Both best-of-breed technologies, we
+chose Cloudera’s Platform for Big Data for its unparalleled Hadoop management
+and SAS analytics systems for their deep insight into our data. These combined
+technologies make our customer interactions more aligned to their preferences
+which leads to improved satisfaction. Ultimately, working with these two
+industry leaders allows my team and me to have more time to focus on more
+strategic initiatives through automated processes instead of manually collating
+reports for our business stakeholders.”</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">-- Kerem Tomak, vice president,
+analytics, Macys.com</span></b><span style="font-size:12.0pt;font-family:Arial;"></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">360-Degree
+Customer View</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Retail data is often stored in silos,
+so it's difficult to correlate data about customer purchases, marketing
+campaign results, and online browsing behavior. The retailers that figure out
+how to bring all that information together into a single, multi-channel view
+will come out on top.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Cloudera makes it easier for retailers
+to integrate online and offline customer data for a 360-degree view of each
+customer.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Loyalty Program
+Management</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">The internet has made it easy for
+consumers to search for a particular product and find the lowest price
+available instead of basing purchase decisions on store preference, brand or
+locality. But by harnessing Big Data to offer focused, relevant promotions and
+to engage in social interactions with customers, today's retailers can
+establish strong customer loyalty.&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Hadoop provides a scalable,
+cost-effective platform that can easily ingest multi-structured data, and
+Cloudera ensures its successful adoption and ongoing deployment.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Merchandising
+&amp; Supply Chain Analysis </span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Traditionally, retailers with multiple
+stores use a data model to forecast overall demand for each SKU and distribute
+that inventory between stores. But this methodology doesn't take into account
+detailed information such as geography, demographics, local trends and events.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Today's leading retailers are
+leveraging Big Data to capture store-level transaction data over long periods
+of history to drive more accurate merchandising and supply chain decisions at
+the store level. They rely on Cloudera's open-source Hadoop distribution,
+management software and expert support to implement an effective Big Data
+platform.</span>
+</p>
+<ul>
+	<li>
+		<span style="font-size:14.0pt;font-family:Wingdings;"><span><span></span></span></span><b><span style="font-size:14.0pt;font-family:Arial;">Technology</span></b>
+	</li>
+</ul>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">4 of the top 5
+technology companies run Cloudera.</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">The introduction of Apache Hadoop to
+the technology space has brought about a whole new industry of start-ups that
+are building their businesses around making Big Data more manageable for
+enterprises. Meanwhile, the largest existing technology vendors have also
+embraced Hadoop technology - to optimize their own internal operations and add
+new products and services to their product portfolios.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Tech start-ups and dominant industry
+mainstays have one thing in common: they've selected Cloudera as their
+strategic partner and/or vendor to provide a stable and reliable Hadoop
+foundation from which they can grow their businesses.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Geospatial,
+Image &amp; Video Processing</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Demands to process and analyze the
+massive influx of unstructured data - such as spatial information, image and
+video - have never been higher. Companies that successfully learn to leverage
+these data types open the door to brand new insights.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Companies in this space like Concurrent
+Computers, Nokia, and Skybox Imaging have turned to Cloudera for a scalable,
+reliable and flexible Hadoop-based Platform for Big Data.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Product
+Research &amp; Development</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Product R&amp;D is critical to any
+technology company's business, and most of those products today produce a
+steady and voluminous stream of machine-generated data. Traditional infrastructures
+cannot effectively capture and process this data.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Hadoop's scalable, massively parallel
+infrastructure is the perfect solution, and it's incredibly cost effective
+because Hadoop runs on industry-standard hardware. Cloudera makes it possible
+for technology companies to build mission-critical R&amp;D data management
+platforms on Hadoop.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Cyber Security
+&amp; Fraud Detection</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">In the race to continuously innovate
+and collect data from devices in the field, technology companies are challenged
+to create a balance between increasing service offerings and maximizing data
+collection for R&amp;D while reducing exposure to perpetrators. &nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Sophisticated firms are using Cloudera
+to secure their networks and prevent threats; with the ability to capture and
+process detailed data, these companies are able to compare experimental results
+with simulations that leverage actual recorded data. They also deploy large
+testing sandboxes for research and development and real-time fraud detection
+engines to catch bad behavior in flight.</span>
+</p>
+<ul>
+	<li>
+		<b><span style="font-size:14.0pt;font-family:Arial;">Telecommunications</span></b>
+	</li>
+</ul>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">3 of the top 5
+telecommunications and mobile providers run Cloudera.</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Communications service providers are
+some of the biggest collectors of data today. Cell phones have evolved into
+mobile devices that literally serve as consumers' personal assistants and
+sidekicks. Each of their many functions generates its own, constant stream of
+multi-structured data, and all of that data must be efficiently captured,
+processed and analyzed.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Today's leading telecommunications
+providers have turned to Apache Hadoop to keep pace with these massive volumes
+of data, and Cloudera helps them efficiently deploy Hadoop in mission-critical
+applications. With Cloudera, companies can reduce their infrastructure costs
+while maximizing average-revenue-per-user and preventing churn.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Customer Churn
+Prevention</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">In traditional
+environments, customer information is captured in different systems and
+combining it quickly and efficiently for analysis is very difficult. That's why
+today's top telecommunications companies have turned to Cloudera to help deploy
+Big Data systems enabling large-scale data processing and analysis. This lets
+them address customer satisfaction issues as they arise and take preventative
+action to keep customers happy. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Network
+Capacity Trending &amp; Management</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">With network data volumes on the rise,
+it is imperative for telecom companies to keep a close watch on their networks
+to keep them functioning at peak performance, which is the key to retaining
+customers. Relying on data samples or aggregations isn't an option.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Hadoop is the only system that can
+scale to accommodate these data volumes at a reasonable cost. Cloudera's
+Platform for Big Data allows telecommunications providers to run
+mission-critical Hadoop environments with peace of mind.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<b><span style="font-size:12.0pt;font-family:Arial;">Product
+Research &amp; Development</span></b>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Today's mobile
+devices produce a steady and voluminous stream of machine-generated data, which
+traditional R&amp;D infrastructures cannot effectively capture and process.
+Hadoop's scalable, massively parallel infrastructure is the perfect solution, and
+it's incredibly cost effective because Hadoop runs on industry-standard
+hardware. Cloudera makes it possible for technology companies to build
+mission-critical R&amp;D data management platforms on Hadoop. </span>
+</p>

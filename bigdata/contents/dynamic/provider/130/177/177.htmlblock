@@ -1,0 +1,262 @@
+<h1 class="entry-title">
+	<span style="color:#000000;font-family:Arial;">Hortonworks Data Platform (HDP)</span>
+</h1>
+<hr />
+<div class="subheader">
+	<span style="color:#000000;font-family:Arial;">True 100% Open Source Apache Hadoop Distribution</span>
+</div>
+<p>
+	<img title="HDP Component Structure" alt="" src="http://hortonworks.com/wp-content/uploads/unversioned/diagrams/hdp-model.png" width="300" />
+</p>
+<p class="page_summary">
+	<span style="color:#000000;font-family:Arial;">Hortonworks Data Platform (HDP) is an enterprise
+ grade, hardened Hadoop distribution. HDP combines the most useful and 
+stable versions of Apache Hadoop and its related projects into a single 
+tested and certified package. It offers the latest innovations from the 
+open source community with the testing and quality you expect from 
+enterprise quality software</span>
+</p>
+<p>
+	<span style="color:#000000;font-family:Arial;">All Releases :</span>
+</p>
+<ul class="buttons clearfix">
+	<li>
+		<a class="blue_btn" href="http://hortonworks.com/products/hdp/hdp-1-3/"><span style="color:#000000;font-family:Arial;">HDP 1.3</span></a>
+	</li>
+	<li>
+		<a class="blue_btn" href="http://hortonworks.com/partners/microsoft/"><span style="color:#000000;font-family:Arial;">HDP for Windows</span></a>
+	</li>
+	<li>
+		<a class="blue_btn w_subtext" href="http://hortonworks.com/products/hdp/hdp-2-0-ctp"><span style="color:#000000;font-family:Arial;">HDP 2</span><span style="color:#000000;font-family:Arial;" class="subtext">Community Preview</span></a>
+	</li>
+</ul>
+<table class="three hitters">
+	<tbody>
+		<tr>
+			<td>
+				<h3>
+					<span style="color:#000000;font-family:Arial;">Reliable</span>
+				</h3>
+				<p>
+					<span style="color:#000000;font-family:Arial;">By the time HDP sees any customer environment it has been validated 
+and tested on some of the largest clusters in the world at Yahoo!, which
+ has the richest and most mature test suite for Hadoop known. HDP is in 
+production and relied upon by some of the largest organizations in the 
+world, processing some of the largest data sets ever collected.</span>
+				</p>
+			</td>
+			<td>
+				<h3>
+					<span style="color:#000000;font-family:Arial;">Open</span>
+				</h3>
+				<p>
+					<span style="color:#000000;font-family:Arial;">HDP is 100% complete, open source and free software available to the 
+community without proprietary license. Hortonworks is committed to 
+contributing all code, patches &amp; bug fixes back to the Apache Hadoop
+ community.</span>
+				</p>
+			</td>
+			<td>
+				<h3>
+					<span style="color:#000000;font-family:Arial;">Ecosystem Endorsed</span>
+				</h3>
+				<p>
+					<span style="color:#000000;font-family:Arial;">HDP is architected to interoperate and extend your existing 
+investments in applications, tools and processes with the power of 
+Hadoop. This approach encourages a thriving ecosystem of big data driven
+ solutions and leaders such as Microsoft and Teradata have looked to 
+Hortonworks to help deliver Hadoop-based applications.</span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<h2>
+	<span style="color:#000000;font-family:Arial;">HDP : The Most Complete Distribution</span>
+</h2>
+<p>
+	<span style="color:#000000;font-family:Arial;">HDP packages the most stable and up to date releases of Hadoop 1.0 or
+ the Hadoop 2.0 code trunks. It is the closest distribution to the main 
+Apache code trunks available. Community patches and innovations are all 
+included without vendor lock.</span>
+</p>
+<p>
+	<span style="color:#000000;font-family:Arial;">HDP delivers the cost-effectiveness of Hadoop and the advanced 
+services required in the open for enterprise deployments, including Data
+ Services , Operational Services and the Platform Services which are 
+required to make Hadoop Enterprise grade.</span>
+</p>
+<table class="services">
+	<tbody>
+		<tr>
+			<td class="service">
+				<h3 class="title">
+					<span style="color:#000000;font-family:Arial;">Operational Services</span>
+				</h3>
+				<p>
+					<span style="color:#000000;font-family:Arial;">HDP includes all the key features to implement and maintain a cluster in an enterprise environment.</span>
+				</p>
+				<p>
+					<span style="color:#000000;font-family:Arial;">HDP includes the latest versions of:</span>
+				</p>
+				<ul>
+					<li>
+						<a href="http://hortonworks.com/hadoop/ambari/"><span style="color:#000000;font-family:Arial;">Apache Ambari</span></a>
+					</li>
+					<li>
+						<a href="http://hortonworks.com/blog/project-falcon-tackling-hadoop-data-lifecycle-management-via-community-driven-open-source/"><span style="color:#000000;font-family:Arial;">Apache Falcon</span></a>
+					</li>
+					<li>
+						<a href="http://hortonworks.com/hadoop/oozie/"><span style="color:#000000;font-family:Arial;">Apache Oozie</span></a>
+					</li>
+				</ul>
+			</td>
+			<td class="service">
+				<h3 class="title">
+					<span style="color:#000000;font-family:Arial;">Data Services</span>
+				</h3>
+				<p>
+					<span style="color:#000000;font-family:Arial;">Data Services in HDP allow you to work with data, analyze and access data in Hadoop.</span>
+				</p>
+				<p>
+					<span style="color:#000000;font-family:Arial;">HDP includes the latest versions of:</span>
+				</p>
+				<ul>
+					<li>
+						<a href="http://hortonworks.com/hadoop/pig"><span style="color:#000000;font-family:Arial;">Apache Pig</span></a>
+					</li>
+					<li>
+						<a href="http://hortonworks.com/hadoop/hive"><span style="color:#000000;font-family:Arial;">Apache Hive</span></a>
+					</li>
+					<li>
+						<a href="http://hortonworks.com/hadoop/hbase"><span style="color:#000000;font-family:Arial;">Apache HBase</span></a>
+					</li>
+					<li>
+						<a href="http://hortonworks.com/hadoop/squoop"><span style="color:#000000;font-family:Arial;">Apache Sqoop</span></a>
+					</li>
+					<li>
+						<a href="http://hortonworks.com/hadoop/flume"><span style="color:#000000;font-family:Arial;">Apache Flume</span></a>
+					</li>
+				</ul>
+			</td>
+			<td class="service">
+				<h3 class="title">
+					<span style="color:#000000;font-family:Arial;">Platform Services</span>
+				</h3>
+				<p>
+					<span style="color:#000000;font-family:Arial;">In order for Hadoop to be trusted and reliable in the enterprise it needs to provide key platform services.</span>
+				</p>
+				<p>
+					<span style="color:#000000;font-family:Arial;">HDP includes the latest versions of:</span>
+				</p>
+				<ul>
+					<li>
+						<a href="http://hortonworks.com/hadoop/zookeeper"><span style="color:#000000;font-family:Arial;">Apache Zookeeper</span></a>
+					</li>
+					<li>
+						<a href="http://hortonworks.com/hadoop/knox-gateway"><span style="color:#000000;font-family:Arial;">Apache Knox</span></a>
+					</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td class="features">
+				<span style="color:#000000;font-family:Arial;">Operational Services features include:</span>
+				<div class="feature">
+					<h4>
+						<span style="color:#000000;font-family:Arial;">Cluster Management</span>
+					</h4>
+					<p>
+						<span style="color:#000000;font-family:Arial;">Apache Ambari allows you to easily provision, manage and monitor a 
+cluster of any size. Ambari uses existing, well-known protocols for 
+simplified integration with your existing management and monitoring 
+tools.</span>
+					</p>
+				</div>
+				<div class="feature">
+					<h4>
+						<span style="color:#000000;font-family:Arial;">Rolling Upgrades</span>
+					</h4>
+					<p>
+						<span style="color:#000000;font-family:Arial;">With Hadoop 2, HDP introduces rolling upgrades so that uptime is never sacrificed during a software upgrade.</span>
+					</p>
+				</div>
+				<div class="feature">
+					<h4>
+						<span style="color:#000000;font-family:Arial;">Capacity Scheduling</span>
+					</h4>
+					<p>
+						<span style="color:#000000;font-family:Arial;">HDP is the only distribution to provide multi-tenancy and both fair &amp; capacity scheduling for a Hadoop cluster.</span>
+					</p>
+				</div>
+			</td>
+			<td class="features">
+				<span style="color:#000000;font-family:Arial;">Highlight Data Services features include:</span>
+				<div class="feature">
+					<h4>
+						<span style="color:#000000;font-family:Arial;">SQL “IN” Hadoop</span>
+					</h4>
+					<p>
+						<span style="color:#000000;font-family:Arial;">Apache Hive 0.11 offers a 50x improvement in performance for queries 
+and broadens the range of SQL semantics supported in Hadoop as part of 
+the Stinger Initiative</span>
+					</p>
+				</div>
+				<div class="feature">
+					<h4>
+						<span style="color:#000000;font-family:Arial;">Metadata Services</span>
+					</h4>
+					<p>
+						<span style="color:#000000;font-family:Arial;">HCatalog provides metadata services so that schema can be share both 
+in and out of Hadoop and a REST interface for interaction with your 
+existing tools.</span>
+					</p>
+				</div>
+				<div class="feature">
+					<h4>
+						<span style="color:#000000;font-family:Arial;">ODBC Done Right</span>
+					</h4>
+					<p>
+						<span style="color:#000000;font-family:Arial;">The Hortonworks Hive ODBC Driver is a free high-performance ODBC 
+driver that includes a SQL engine so you can interact with nearly every 
+BI tool, including all SQL-92 interfaces.</span>
+					</p>
+				</div>
+			</td>
+			<td class="features">
+				<span style="color:#000000;font-family:Arial;">Platform Services features include:</span>
+				<div class="feature">
+					<h4>
+						<span style="color:#000000;font-family:Arial;">High Availability</span>
+					</h4>
+					<p>
+						<span style="color:#000000;font-family:Arial;">Hortonworks is the only vendor to deliver High Availability on both 
+Hadoop 1.0 and Hadoop 2.0. HA ensures business continuity across all 
+data including the namenode.</span>
+					</p>
+				</div>
+				<div class="feature">
+					<h4>
+						<span style="color:#000000;font-family:Arial;">Deployment Options</span>
+					</h4>
+					<p>
+						<span style="color:#000000;font-family:Arial;">HDP is available for Linux and is the ONLY distribution available for
+ Windows Server. You can also deploy in the cloud with Rackspace, 
+Microsoft Azure and OpenStack or as an appliance with Teradata.</span>
+					</p>
+				</div>
+				<div class="feature">
+					<h4>
+						<span style="color:#000000;font-family:Arial;">Security</span>
+					</h4>
+					<p>
+						<span style="color:#000000;font-family:Arial;">Delivering security to the Hadoop ecosystem is a critical community 
+project and essential for enterprise users. Security needs to be woven 
+into the very fabric of Hadoop in order to be effective, and the Knox 
+gateway project will accomplish that.</span>
+					</p>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>

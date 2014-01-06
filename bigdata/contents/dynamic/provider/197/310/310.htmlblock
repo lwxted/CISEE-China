@@ -1,0 +1,67 @@
+<br />
+<br />
+<div class="pricing">
+	<div class="row-fluid">
+		<div class="span4 orange-box">
+			<h1>
+				SwiftStack Storage System
+			</h1>
+			<ul class="list">
+				<li>
+					SwiftStack Nodes - a tested and integrated runtime stack for OpenStack Swift.
+				</li>
+				<li>
+					SwiftStack Controller - provides the deployment, management 
+and operations tools required to run a mission-critical storage system.
+				</li>
+			</ul>
+		</div>
+		<div class="span8">
+			<img src="http://www.swiftstack.com/assets/img/architecture-diagram1.png" /> 
+		</div>
+	</div>
+	<div class="row-fluid">
+		<div class="span4">
+			<img src="http://www.swiftstack.com/assets/img/architecture-nodes.png" /> 
+		</div>
+		<div class="span4 white-box">
+			<h1>
+				SwiftStack Nodes
+			</h1>
+			<p>
+				SwiftStack Nodes is an integrated stack to enable an operator to 
+get up and running quickly. Once installed, a SwiftStack Node connects 
+to the SwiftStack Controller, where it receives its configuration.
+			</p>
+			<h3>
+				SwiftStack Nodes:
+			</h3>
+			<ul class="list">
+				<li>
+					Includes the latest, stable OpenStack Swift 1.7.5
+				</li>
+				<li>
+					Installs on Ubuntu 12.04 LTS
+				</li>
+				<li>
+					Includes management and monitoring agents, load balancing, SSL-termination and authentication/authorization components
+				</li>
+			</ul>
+		</div>
+		<div class="span4 white-box">
+			<h1>
+				SwiftStack Controller
+			</h1>
+			<p>
+				The SwiftStack Controller manages SwiftStack nodes from initial 
+deployment to production. The SwiftStack Controller automatically 
+configures and deploys availability zones based on hardware topology and
+ preferences. The SwiftStack Nodes are instrumented to provide 
+diagnostic monitoring data to the Controller, which significantly 
+shortens the time to resolve potential bottlenecks and hardware 
+failures.  
+     The SwiftStack controller is <a href="http://www.swiftstack.com/product/controller">provided two ways: in the cloud or on-premise</a>.
+			</p>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,399 @@
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-OS (Operating System) </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span><span style="font-size:12.0pt;font-family:&quot;">Secure </span></span><span><span><span style="font-size:12.0pt;font-family:&quot;">Mobile</span></span></span><span><span><span style="font-size:12.0pt;font-family:&quot;"> Middleware</span></span></span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span><span><span style="font-size:12.0pt;font-family:&quot;"><img src="data/provider/6A65B00E-7086-C471-B886-85664953C15B/097A9353-72DE-5F3D-0513-B7FB5B28C84D/20130715174843_87264.png" alt="" /><br />
+</span></span></span></span>
+</p>
+<span></span><span></span> 
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span style="font-size:12.0pt;font-family:&quot;"><br />
+</span></span><span><span style="font-size:12.0pt;font-family:&quot;"></span></span>
+</p>
+<span></span> 
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-OS Secure Mobile
+Middleware</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">protects against security threats from</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">your mobile apps.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-OS Secure Mobile
+Middleware</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span></span><span><span><span><span><span>Secures cryptographic functions and keys without
+the need for costly hardware security modules</span></span></span></span></span><span><span><span><span> </span></span></span></span><span><span></span></span></span>
+</p>
+<span></span><span></span> 
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span></span><span>Protects
+encryption keys and sensitive information against malwaer on vulnerable
+end-user devices instantly across different mobile platforms </span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span></span><span>Features
+seamless developer integration through V-Guard for easy wrapping of
+applications on a wide variety of mobile platform </span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span><span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span></span></span>
+</p>
+<span></span><span></span> 
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span style="font-size:12.0pt;font-family:&quot;">Mobile devices can be exploited and hardware security
+elements such as the SIM card or NFC chip are only able to secure cryptographic
+keys on the element. </span></span><span style="font-size:12.0pt;font-family:&quot;">This still leaves
+your mobile application vulnerable if the mobile device is compromised or lost. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-OS is a secure sandboxed middleware for mobile devices
+that enables applications to be secured, despite the underlying mobile
+operating systems being insecure. Mobile applications with V-OS can now be used
+as trusted and secured devices, protecting <span>the user’s sensitive
+information and transactions</span> even if the mobile device itself is
+compromised or hacked into. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span style="font-size:12.0pt;font-family:&quot;">V-OS implements a secure sandbox to perform sensitive
+processing and cryptographic operations.</span></span><span style="font-size:12.0pt;font-family:&quot;"> This provides a trusted platform for <span>mobile integrity checks</span>,
+as well as cryptographic keys and data to be processed and stored in the
+software securely. <span>This prevents an attacker with control of the
+underlying software environment to attack the mobile application. </span></span>
+</p>
+<span></span><span></span> 
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span style="font-size:12.0pt;font-family:&quot;">Within V-OS, a tamper-proof virtual layer provides
+mechanisms to protect the application from both hackers and trojans.</span></span><span style="font-size:12.0pt;font-family:&quot;"> The mechanisms include binary code morphing,
+anti-reverse engineering, trojan detection mechanisms, and device checks, as
+well as techniques to respond to attempted tampering when detected. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-Guard </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Mobile Application Protection<img src="data/provider/6A65B00E-7086-C471-B886-85664953C15B/097A9353-72DE-5F3D-0513-B7FB5B28C84D/20130715174950_35224.png" alt="" /></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><br />
+</span><span style="font-size:12.0pt;font-family:&quot;"></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span style="font-size:12.0pt;font-family:&quot;">The world’s first mobile application intrusion, </span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span><span style="font-size:12.0pt;font-family:&quot;">detection and protection system</span></span></span>
+</p>
+<span></span><span></span> 
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-Guard Mobile
+Application Protection</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span></span><span>Secure
+your applications against advanced persistent threats</span> </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span></span>Ensure device,
+application, and <span>network integrity </span>in your customers'
+and employees' mobile devices </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Secure
+application data and safeguard user privacy even if the mobile device is lost
+or compromised </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Detect and block
+fraudulent transactions in your applications </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Mobile devices can be exploited by malicious
+applications, or malware, to <span><span><span>compromise</span></span></span><span><span> user
+information</span></span> and <span>exploit </span><span><span><span>implicit trust</span></span></span><span><span> in the
+mobile devices.</span></span></span>
+</p>
+<span></span><span></span> 
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-Key has invented a secure sandbox, V-Guard, which wraps
+around mobile applications to secure them against advanced persistent threats.
+V-Guard is built on top of V-OS to ensure the integrity of customers’ and
+employees’ mobile devices, applications, and networks. Mobile devices with
+V-Guard can now be used as trusted devices, securing the user’s sensitive
+information and transactions even if the mobile device itself is lost or
+compromised. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-Guard implements multi-layered security mechanisms to
+secure the application from both hackers and trojans. These include binary code
+morphing, anti-reverse engineering, trojan detection mechanisms, and <span>device
+integrity checks</span>, as well as tamper-detection and response
+mechanisms. <span>These mechanisms have been developed based on
+V-Key’s extensive research into cutting-edge mobile attacks and defences.</span> </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">This allows mobile applications to secure their data and
+safeguard their users’ privacy. Should an attacker gain control of the
+underlying software environment, they are still unable to steal information
+from the application or user. <span>V-Guard also redirects </span><span><span><span>insecure
+functions </span></span></span><span><span>to secure replacements. </span></span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span><span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span></span></span>
+</p>
+<span></span><span></span> 
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V!VA</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span style="font-size:12.0pt;font-family:&quot;">Secured Communications</span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span style="font-size:12.0pt;font-family:&quot;"><img src="data/provider/6A65B00E-7086-C471-B886-85664953C15B/097A9353-72DE-5F3D-0513-B7FB5B28C84D/20130715175104_48388.png" alt="" /><br />
+</span></span>
+</p>
+<span></span><span></span> 
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><br />
+</span><span style="font-size:12.0pt;font-family:&quot;"></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Secure channel communication suite encompassing</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span style="font-size:12.0pt;font-family:&quot;">messaging, email
+and broadcast</span></span><span style="font-size:12.0pt;font-family:&quot;">.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V!VA Secured Communications</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp;</span>Secure
+collaboration with your employees and customers </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Broadcast
+messages and receive responses from partners and customers</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Reduce total
+cost of ownership and maximize security </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Broad mobile
+platform support for extending enterprise-wide messaging and collaboration </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;text-indent:24.0pt;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Freedom in Digital Communication</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Corporations around the world today employ multiple
+channels: emails, SMSes and<span> instant messaging functions</span>. <span>Using
+the V!VA integrated secure mobile communication suite, corporations can
+simplify and unify </span><span><span><span><span>an array of</span></span></span></span><span><span><span><span> complementary capabilities</span></span></span></span><span><span> to
+securely connect people and information to <span>strengthen the overall
+mobile experience</span>.</span></span></span>
+</p>
+<span></span><span></span> 
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span style="font-size:12.0pt;font-family:&quot;">Two-way Customer Communication</span></span>
+</p>
+<span></span><span></span> 
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V!VA’s <span><span><span>enterprise
+dashboard</span></span></span><span><span> </span></span>allows both broadcasting of
+enterprise-wide messages and customer-specific event-activated messages. The
+dashboard provides a convenient web-based interface for two-way communications
+and can be integrated with existing messaging solutions.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-Tap</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Advanced Mobile
+Authentication</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><img src="data/provider/6A65B00E-7086-C471-B886-85664953C15B/097A9353-72DE-5F3D-0513-B7FB5B28C84D/20130715175247_13688.png" alt="" /><br />
+</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><br />
+</span><span style="font-size:12.0pt;font-family:&quot;"></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span style="font-size:12.0pt;font-family:&quot;">World’s first mobile secure token</span></span><span style="font-size:12.0pt;font-family:&quot;">.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Provides secure and convenient authentication</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">on your mobile devices.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-Tap Advanced Mobile
+Authentication</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Provide secure
+and convenient mobile authentication to employees and customers. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Ensure the
+security of your users’ mobile devices before they connect to your networks and
+data. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Allow advanced
+authentication without the inconvenience and cost of SMSes or <span>legacy
+hardware tokens</span> </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Detect and block
+fraudulent transactions in your applications </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">With the rock-solid V-OS and V-Guard’s Mobile Application
+Protection as a security foundation, V-Tap Advanced Authentication provides a
+secure tamper-proof mobile authentication solution. Unlike other mobile
+software tokens, V-Tap is fully threat-aware and contains in-depth
+multi-layered defences against numerous advanced persistent threats on the
+mobile device. V-Tap is available either as a stand-alone mobile token
+application, or as a library for enterprises to integrate into their own mobile
+applications for seamless authentication. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">By<span> wrapping the token</span> using the
+V-Guard Mobile Application Protection, V-Tap is able to secure the
+cryptographic element used for authentication from both hackers and trojans.
+Additional layers of protections are also implemented in V-OS to secure the
+cryptographic data and processing. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-Tap can also be integrated into existing VPN or
+intranet mobile applications to provide transparent second-factor
+authentication for users. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal">
+	<span style="font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-Track</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Threat Intelligence and Management</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><img src="data/provider/6A65B00E-7086-C471-B886-85664953C15B/097A9353-72DE-5F3D-0513-B7FB5B28C84D/20130715175333_34842.png" alt="" /><br />
+</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><br />
+</span><span style="font-size:12.0pt;font-family:&quot;"></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Gather intelligence on the threats facing your</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">mobile applications and manage your risks.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-Track Threat Intelligence and Management</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Identify <span>enterprise-wide</span> mobile threats efficiently </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Attest to the
+compliance of your mobile security policies </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><span>&nbsp; </span>Manage the
+mobile risks in your applications </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Mobile Threat Intelligence</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">V-Key's suite of products securing your mobile
+applications feed intelligence into the V-Track server, allowing you to quickly
+identify up-to-date threats your mobile applications may be facing. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">The V-Track server is able to generate compliance reports
+and verify the effectiveness of your current mobile security strategy. </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Mobile Threat Management</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span><span><span><span style="font-size:12.0pt;font-family:&quot;">Push down</span></span></span></span><span><span><span style="font-size:12.0pt;font-family:&quot;"> security
+configurations and updates to mobile applications, allowing enterprise
+applications to effectively roll out and maintain enterprise-wide mobile
+security policies to protect data in the end user’s mobile applications.</span></span></span><span style="font-size:12.0pt;font-family:&quot;"> </span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Enterprises will be able to decide on how applications
+will respond to mobile threats facing their end users. </span>
+</p>
+<p class="MsoNormal">
+	<span style="font-family:&quot;">&nbsp;</span>
+</p>

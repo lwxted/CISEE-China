@@ -1,0 +1,133 @@
+<h1 class="title" id="page-title">
+	<span style="color:#000000;font-family:Arial;">Big Data</span>
+</h1>
+<p>
+	<a href="http://www.10gen.com/big-data" target="_blank"><span style="color:#000000;font-family:Arial;">Big Data</span></a><span style="color:#000000;font-family:Arial;"> is creating new opportunities for organizations to serve customers and 
+markets —&nbsp;while also creating and extracting value —&nbsp;in new ways. 
+MongoDB's </span><a href="http://www.10gen.com/nosql" target="_blank"><span style="color:#000000;font-family:Arial;">NoSQL database</span></a><span style="color:#000000;font-family:Arial;"> provides the foundation for many of these systems, not only as a 
+real-time, operational data store but in offline capacities as well. 
+Traditionally, the work of capturing and analyzing data has required 
+different technologies, different infrastructure and redundant costs. 
+With MongoDB, organizations are serving more data, more users, more 
+insight with greater ease —&nbsp;and creating more value worldwide.</span>
+</p>
+<h2>
+	<span style="color:#000000;font-family:Arial;">Challenges</span>
+</h2>
+<p>
+	<span style="color:#000000;font-family:Arial;">Big Data refers to the massive growth in the volume, variety and 
+velocity of data being produced and the set of applications that 
+generate, store, process and monetize this data. While this trend 
+represents a tremendous opportunity for organizations across all 
+industries, delivering on the promise of Big Data is no easy task.</span>
+</p>
+<ul>
+	<li>
+		<p>
+			<strong><span style="color:#000000;font-family:Arial;">Massive Data Volumes. </span></strong><span style="color:#000000;font-family:Arial;">Applications can go viral 
+overnight. The database must support rapid spikes in data volume and 
+throughput without downtime, without custom code and without delay.</span>
+		</p>
+	</li>
+	<li>
+		<p>
+			<strong><span style="color:#000000;font-family:Arial;">Real-Time Demands. </span></strong><span style="color:#000000;font-family:Arial;">Applications should not only be 
+able to capture Big Data, but also to provide analysis in-place, in 
+real-time, without moving the data to separate systems. It is no longer 
+sufficient to conduct batch analytics in offline settings. Lightweight 
+analytics should be delivered to serve content dynamically, enable 
+interactivity and improve user experience.</span>
+		</p>
+	</li>
+	<li>
+		<p>
+			<strong><span style="color:#000000;font-family:Arial;">Rapid Evolution. </span></strong><span style="color:#000000;font-family:Arial;">Organizations must be agile, able 
+to incorporate new features into applications quickly and easily. Those 
+that can adapt to change more quickly will succeed.</span>
+		</p>
+	</li>
+	<li>
+		<p>
+			<strong><span style="color:#000000;font-family:Arial;">Flexible Deployment. </span></strong><span style="color:#000000;font-family:Arial;">Organizations should be able to
+ deploy on premise, in the cloud or in hybrid environments so they can 
+benefit from the economics of deployment models best suited to their 
+needs.</span>
+		</p>
+	</li>
+</ul>
+<p>
+	<span style="color:#000000;font-family:Arial;">Traditional technologies struggle to accommodate the velocity, 
+variety and volume of Big Data. Relational databases were designed for a
+ static data model in which data volumes were small, queries defined 
+upfront and the database lived on a single server in one data center. 
+NoSQL databases such as MongoDB are built for today's applications.</span>
+</p>
+<h2>
+	<span style="color:#000000;font-family:Arial;">MongoDB Solution</span>
+</h2>
+<ul>
+	<li>
+		<p>
+			<strong><span style="color:#000000;font-family:Arial;">Dynamic Schemas.</span></strong><span style="color:#000000;font-family:Arial;"> Application requirements change 
+quickly. MongoDB's dynamic schema provides a simple way to incorporate 
+changes to the database without affecting existing data or application 
+code, and without incurring downtime.</span>
+		</p>
+	</li>
+	<li>
+		<p>
+			<strong><span style="color:#000000;font-family:Arial;">Operational Intelligence.</span></strong><span style="color:#000000;font-family:Arial;"> MongoDB's native 
+Map/Reduce and aggregation framework enable applications to provide 
+insights in real-time, going beyond the capabilities of batch analytics 
+technologies like Hadoop and traditional BI tools.</span>
+		</p>
+	</li>
+	<li>
+		<p>
+			<strong><span style="color:#000000;font-family:Arial;">Deployment Flexibility. </span></strong><span style="color:#000000;font-family:Arial;">MongoDB was built for 
+commodity hardware and cloud architectures. Further, data is localized 
+for queries to ensure that performance is robust and predictable 
+regardless of deployment size.</span>
+		</p>
+	</li>
+	<li>
+		<p>
+			<strong><span style="color:#000000;font-family:Arial;">Simple Scale-Out. </span></strong><span style="color:#000000;font-family:Arial;">Unlike legacy relational 
+technologies, MongoDB is designed to be scaled across commodity server 
+clusters. As data volumes and throughput grow, organizations just add 
+more nodes to their clusters, and MongoDB balances the data seamlessly 
+and automatically in the background.</span>
+		</p>
+	</li>
+</ul>
+<h2>
+	<span style="color:#000000;font-family:Arial;">Benefits</span>
+</h2>
+<ul>
+	<li>
+		<p>
+			<strong><span style="color:#000000;font-family:Arial;">Deliver Big Data Experiences. </span></strong><span style="color:#000000;font-family:Arial;">Leverage Big Data for 
+new types of applications, features and monetization opportunities. 
+MongoDB delivers superior experiences at any scale, and can provide 
+real-time insight into data trends like user behavior and potential 
+security threats.</span>
+		</p>
+	</li>
+	<li>
+		<p>
+			<strong><span style="color:#000000;font-family:Arial;">Accelerated Time-to-Market. </span></strong><span style="color:#000000;font-family:Arial;">Users demand new 
+features and applications faster than ever before. MongoDB allows 
+development teams to be agile, keeping users engaged and enthusiastic 
+—&nbsp;and helping businesses gain competitive advantages.</span>
+		</p>
+	</li>
+	<li>
+		<p>
+			<strong><span style="color:#000000;font-family:Arial;">Lower Costs. </span></strong><span style="color:#000000;font-family:Arial;">New technologies and methods are 
+driving down costs and providing new avenues for organizations to 
+capitalize on their Big Data investments. The MongoDB NoSQL database 
+enables organizations to leverage lower-cost options like commodity 
+servers, </span><a href="http://www.10gen.com/cloud-computing" target="_blank"><span style="color:#000000;font-family:Arial;">cloud computing</span></a><span style="color:#000000;font-family:Arial;"> and </span><a href="http://www.10gen.com/agile" target="_blank"><span style="color:#000000;font-family:Arial;">agile development</span></a><span style="color:#000000;font-family:Arial;">, helping them decrease their total cost of ownership while also increasing the value they capture from their data.</span>
+		</p>
+	</li>
+</ul>

@@ -1,0 +1,82 @@
+<h1 style="background:white;">
+	<span style="font-size:19.5pt;font-family:Arial;color:#0067B0;">SKYTREE SERVER</span> 
+</h1>
+<h2 style="background:white;">
+	<a name="skytree-server"></a><span style="font-size:13.5pt;font-family:Arial;color:#444444;font-weight:normal;">Skytree Server is
+the first general purpose<span class="apple-converted-space">&nbsp;</span></span><strong><span style="font-size:13.5pt;font-family:Arial;color:#444444;">Machine
+Learning</span></strong><span class="apple-converted-space"><span style="font-size:13.5pt;font-family:Arial;color:#444444;font-weight:normal;">&nbsp;</span></span><span style="font-size:13.5pt;font-family:Arial;color:#444444;font-weight:normal;">and<span class="apple-converted-space">&nbsp;</span></span><strong><span style="font-size:13.5pt;font-family:Arial;color:#444444;">advanced
+analytics system</span></strong><span style="font-size:13.5pt;font-family:Arial;color:#444444;font-weight:normal;">, designed to<span class="apple-converted-space">&nbsp;</span></span><strong><span style="font-size:13.5pt;font-family:Arial;color:#444444;">accurately</span></strong><span class="apple-converted-space"><span style="font-size:13.5pt;font-family:Arial;color:#444444;font-weight:normal;">&nbsp;</span></span><span style="font-size:13.5pt;font-family:Arial;color:#444444;font-weight:normal;">process<span class="apple-converted-space">&nbsp;</span></span><strong><span style="font-size:13.5pt;font-family:Arial;color:#444444;">massive
+datasets</span></strong><span class="apple-converted-space"><span style="font-size:13.5pt;font-family:Arial;color:#444444;font-weight:normal;">&nbsp;</span></span><span style="font-size:13.5pt;font-family:Arial;color:#444444;font-weight:normal;">at<span class="apple-converted-space">&nbsp;</span></span><strong><span style="font-size:13.5pt;font-family:Arial;color:#444444;">high speeds</span></strong><span style="font-size:13.5pt;font-family:Arial;color:#444444;font-weight:normal;">.</span> 
+</h2>
+<p class="MsoNormal" style="background:white;">
+	<span style="font-size:10.0pt;font-family:Arial;color:#222222;"></span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="color:#666666;text-align:left;background:#EFEFEF;">
+		<b><span style="font-size:10.0pt;font-family:Arial;"><a href="http://www.skytree.net/products-services/skytree-server/#tabs-1871-0-0"><span style="background:#5E5E5E;text-decoration:none;">Data Setup</span></a></span></b> 
+	</li>
+	<li class="MsoNormal" style="color:#666666;text-align:left;background:#EFEFEF;">
+		<b><span style="font-size:10.0pt;font-family:Arial;"><a href="http://www.skytree.net/products-services/skytree-server/#tabs-1871-0-1"><span style="text-decoration:none;">Modeling &amp; Exploration</span></a></span></b> 
+	</li>
+	<li class="MsoNormal" style="color:#666666;text-align:left;background:#EFEFEF;">
+		<b><span style="font-size:10.0pt;font-family:Arial;"><a href="http://www.skytree.net/products-services/skytree-server/#tabs-1871-0-2"><span style="text-decoration:none;">Specs &amp; Architecture</span></a></span></b> 
+	</li>
+</ul>
+<p>
+	<br />
+</p>
+<ul>
+	<li class="MsoNormal" style="color:#666666;text-align:left;background:#EFEFEF;">
+		<b><span style="font-size:10.0pt;font-family:Arial;"><span style="text-decoration:none;"><a href="http://www.skytree.net/products-services/skytree-server/#tabs-1871-0-3">Datasheet</a></span></span></b> 
+	</li>
+	<li class="MsoNormal" style="color:#666666;text-align:left;background:#EFEFEF;">
+		<b><span style="font-size:10.0pt;font-family:Arial;"><img src="data/provider/93B94440-BEEB-1F23-CCA8-BB4C2F1BB823/3F791C34-CB53-E0C3-03B0-EF8C568918E3/20130716120521_10815.png" alt="" /><br />
+</span></b> 
+	</li>
+	<li class="MsoNormal" style="color:#666666;text-align:left;background:#EFEFEF;">
+		<b><span style="font-size:10.0pt;font-family:Arial;"> 
+		<h3 style="margin-left:0cm;background:white;">
+			Data Setup
+		</h3>
+		<p style="background:white;">
+			Skytree
+Server is designed to connect quickly and easily with the existing IT
+infrastructure, making data setup a breeze. It can be configured to accept data
+streams from multiple sources and compute near-instantaneous results (including
+real-time queries) on each one. The resulting analytics are returned through
+the same channels.
+		</p>
+		<h3 style="background:#FFA038;">
+			Standard
+data sources include both structured and unstructured data from:&nbsp;
+		</h3>
+		<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+			§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Relational Databases (RDBMS)
+		</p>
+		<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+			§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Hadoop Systems (HDFS)
+		</p>
+		<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+			§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Flat Files (e.g. CSV)
+		</p>
+		<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+			§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Common Statistical Packages
+		</p>
+		<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+			§&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Machine Learning Libraries
+		</p>
+		<p class="MsoNormal">
+			<span>&nbsp;</span> 
+		</p>
+<br />
+</span></b> 
+	</li>
+</ul>
+<p>
+	<br />
+</p>

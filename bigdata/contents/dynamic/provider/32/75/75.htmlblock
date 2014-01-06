@@ -1,0 +1,65 @@
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">&nbsp;</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span></span><span style="font-size:12.0pt;font-family:Arial;">Hadapt’s flagship product is the
+Adaptive Analytical Platform, which brings a native implementation of SQL to
+the Apache Hadoop open-source project. By combining the robust and scalable
+architecture of Hadoop with a hybrid storage layer that incorporates a
+relational data store, Hadapt allows interactive SQL-based analysis of massive
+data sets. Hadapt 2.0 delivers the industry’s first interactive applications on
+Hadoop, via Hadapt Interactive Query; the Hadapt Development Kit™ (HDK) for
+custom analytics; and integration with Tableau Software.</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;"><img src="data/provider/ECB76143-BB57-5CA3-0469-CD34068F6928/0AAC0571-39EB-7EF1-5CEF-CF892AC7DCD3/20130626111956_79851.png" alt="" /><br />
+</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;"><br />
+</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;"><a href="http://hadapt.com/assets/had_graphic_large.jpg"><span style="text-decoration:none;"></span></a></span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Hadapt’s patent-pending technology
+features a hybrid architecture that brings the latest advances in relational
+database research to the Apache Hadoop platform. RDBMS technology has advanced
+significantly over the past several decades, but current analytic solutions
+were designed prior to the advent of Hadoop and the paradigm shift from
+appliance-based computing to distributed computing on clusters of inexpensive
+commodity hardware. Hadapt is based on Hadoop from the ground up, and offers an
+all-in-one system for structured, unstructured, and multi-structured data.</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">In contrast to the “Hadoop Connector”
+strategy employed by many MPP analytic database vendors, Hadapt uses Hadoop as
+the parallelization layer for its </span><span style="font-size:12.0pt;font-family:&quot;"> </span><span style="font-size:12.0pt;font-family:Arial;">query processing, with each</span><span style="font-size:12.0pt;font-family:&quot;"> </span><span style="font-size:12.0pt;font-family:Arial;"> node’s structured and</span><span style="font-size:12.0pt;font-family:&quot;"> </span><span style="font-size:12.0pt;font-family:Arial;"> unstructured data stored in</span><span style="font-size:12.0pt;font-family:&quot;"> </span><span style="font-size:12.0pt;font-family:Arial;"> a
+RDBMS and in HDFS, respectively. Consolidating data </span><span style="font-size:12.0pt;font-family:&quot;"> </span><span style="font-size:12.0pt;font-family:Arial;">into a single
+platform drastically</span><span style="font-size:12.0pt;font-family:&quot;"> </span><span style="font-size:12.0pt;font-family:Arial;"> reduces TCO, eliminates data </span><span style="font-size:12.0pt;font-family:&quot;"> </span><span style="font-size:12.0pt;font-family:Arial;">silos, and
+allows for richer analytics through consumption of diverse data
+types.&nbsp;Additionally, Hadapt’s unified architecture and flexible schema
+capabilities reduce the complexities associated with emerging analytic use
+cases – including graph analysis, clustering, and classification – while
+dramatically increasing performance and scale.</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;"><br />
+</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">The HDK empowers analysts to create
+advanced SQL analytic functions that can be used for campaign analysis, full
+text search, funnel analysis, sentiment analysis, pattern matching and
+predictive modeling. In addition, Hadapt consulting services can help organizations
+address challenges in data integration and analytics, as well as identify
+opportunities to monetize their data, such as deploying and integrating Hadapt
+with other data analysis tools, developing the business logic and user
+interface required to complement the Hadapt product, and forming an end-to-end
+business solution.</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">&nbsp;</span>
+</p>
+<br />

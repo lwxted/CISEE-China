@@ -1,0 +1,131 @@
+<h1 class="title" id="page-title">
+	<span style="font-family:Arial;color:#000000;line-height:1;">ActiveStor Appliances</span> 
+</h1>
+<div id="node-299" class="node node-page view-mode-full clearfix">
+	<div class="content">
+		<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+			<div class="field-items">
+				<div class="field-item even">
+					<p>
+						<span style="font-family:Arial;color:#000000;line-height:1;">Panasas®
+ ActiveStor™ is the world's fastest parallel storage system, bringing 
+plug-and-play simplicity to large scale storage deployments. Based on a 
+unique storage blade architecture and the Panasas® </span><a href="https://www.panasas.com/products/panfs"><span style="font-family:Arial;color:#000000;line-height:1;">PanFS™ storage operating system</span></a><span style="font-family:Arial;color:#000000;line-height:1;">,
+ ActiveStor delivers unmatched parallel file system performance in 
+addition to the scalability, manageability, reliability, and value 
+required by demanding technical computing organizations in the finance, 
+bioscience, manufacturing, media, energy, government, and other research
+ sectors.</span> 
+					</p>
+					<h3>
+						<span style="font-family:Arial;color:#000000;line-height:1;">Introducing ActiveStor 14</span> 
+					</h3>
+					<p>
+						<img src="https://www.panasas.com/sites/default/files/uploads/panasas_as14_twoblades_800px.png" alt="Panasas ActiveStor Appliances" height="215" align="right" width="268" /><span style="font-family:Arial;color:#000000;line-height:1;">The
+ world's fastest parallel storage system just got faster with Panasas 
+ActiveStor 14. By accelerating small file performance with leading-edge 
+Solid State Drive (SSD) technology, ActiveStor&nbsp;14 delivers extreme 
+performance, accelerating time-to-results for the technical computing 
+and big data workloads commonly found in HPC and technical computing 
+environments.</span> 
+					</p>
+					<p>
+						<br />
+					</p>
+					<h2>
+						<span style="font-family:Arial;color:#000000;line-height:1;">Which ActiveStor Appliance is Right for You?</span> 
+					</h2>
+					<p>
+						<a href="https://www.panasas.com/products/activestor-14"><span style="font-family:Arial;color:#000000;line-height:1;">ActiveStor 14</span></a><span style="font-family:Arial;color:#000000;line-height:1;"> appliances provide exceptional performance at an affordable price, 
+storing large files on high capacity SATA drives while leveraging SSD 
+technology to accelerate small file and metadata performance for 
+lightning-fast response times. ActiveStor 14 combines high density with 
+exceptional throughput (GB/s) while the turbocharged ActiveStor 14T 
+leverages larger cache and SSD capacity to maximize small file IOPS 
+performance. </span><a href="https://www.panasas.com/products/activestor-11-12"><span style="font-family:Arial;color:#000000;line-height:1;">ActiveStor 12</span></a><span style="font-family:Arial;color:#000000;line-height:1;"> delivers high single file system throughput in a SATA-only system. </span><a href="https://www.panasas.com/products/activestor-11-12"><span style="font-family:Arial;color:#000000;line-height:1;">ActiveStor 11</span></a><span style="font-family:Arial;color:#000000;line-height:1;"> offers a high performance, value-priced alternative for customers with 
+tight budget constraints or those with smaller capacity requirements.</span> 
+					</p>
+					<table class="generalTables ke-zeroborder" cellpadding="0" cellspacing="0" border="0" width="540">
+						<tbody>
+							<tr>
+								<th class="firstCellTH" style="font-size:9px;">
+									<span style="font-family:Arial;color:#000000;line-height:1;">&nbsp;</span> 
+								</th>
+								<th style="font-size:9px;">
+									<span style="font-family:Arial;color:#000000;line-height:1;">ActiveStor 14T</span> 
+								</th>
+								<th style="font-size:9px;">
+									<span style="font-family:Arial;color:#000000;line-height:1;">ActiveStor 14</span> 
+								</th>
+								<th style="font-size:9px;">
+									<span style="font-family:Arial;color:#000000;line-height:1;">ActiveStor 12</span> 
+								</th>
+								<th class="lastCellTH" style="font-size:9px;">
+									<span style="font-family:Arial;color:#000000;line-height:1;">ActiveStor 11</span> 
+								</th>
+							</tr>
+							<tr>
+								<td class="firstCell even">
+									<span style="font-family:Arial;color:#000000;line-height:1;">Performance</span> 
+								</td>
+								<td class="even">
+									<span style="font-family:Arial;color:#000000;line-height:1;">Highest IOPS and Highest throughput</span> 
+								</td>
+								<td class="even">
+									<span style="font-family:Arial;color:#000000;line-height:1;">High IOPS and Highest throughput</span> 
+								</td>
+								<td class="even">
+									<span style="font-family:Arial;color:#000000;line-height:1;">Very high throughput</span> 
+								</td>
+								<td class="lastCell even">
+									<span style="font-family:Arial;color:#000000;line-height:1;">High throughput</span> 
+								</td>
+							</tr>
+							<tr>
+								<td class="firstCell odd">
+									<span style="font-family:Arial;color:#000000;line-height:1;">Capacity</span> 
+								</td>
+								<td class="odd">
+									<span style="font-family:Arial;color:#000000;line-height:1;">40TB - 4PB</span> 
+								</td>
+								<td class="odd">
+									<span style="font-family:Arial;color:#000000;line-height:1;">80TB - 8PB</span> 
+								</td>
+								<td class="odd">
+									<span style="font-family:Arial;color:#000000;line-height:1;">40TB - 6PB</span> 
+								</td>
+								<td class="lastCell odd">
+									<span style="font-family:Arial;color:#000000;line-height:1;">40TB - 6PB</span> 
+								</td>
+							</tr>
+							<tr>
+								<td class="firstCell even">
+									<span style="font-family:Arial;color:#000000;line-height:1;">Suitability</span> 
+								</td>
+								<td class="even">
+									<span style="font-family:Arial;color:#000000;line-height:1;">Finance, Enterprise IT, Media</span> 
+								</td>
+								<td class="even">
+									<span style="font-family:Arial;color:#000000;line-height:1;">BioIT, Energy, Manufacturing, Media, Government, Academic Research</span> 
+								</td>
+								<td class="even">
+									<span style="font-family:Arial;color:#000000;line-height:1;">Expansion of existing ActiveStor systems</span> 
+								</td>
+								<td class="lastCell even">
+									<span style="font-family:Arial;color:#000000;line-height:1;">Academic Research, smaller configurations, expansion of existing ActiveStor systems</span> 
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<p>
+						<span style="font-family:Arial;color:#000000;line-height:1;">All ActiveStor models offer excellent investment protection, 
+increased storage utilization rates and simplified management at an 
+affordable price. As a result, ActiveStor delivers an attractive total 
+cost of ownership while fully addressing the big data requirements of 
+even the most I/O intensive computing applications.</span> 
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

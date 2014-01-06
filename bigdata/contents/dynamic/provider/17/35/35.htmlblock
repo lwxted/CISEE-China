@@ -1,0 +1,500 @@
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;"><span style="font-family:Arial;font-size:14px;">CDH (Cloudera’s
+Distribution Including Apache Hadoop) is the world’s most complete, tested, and
+widely deployed distribution of Apache Hadoop. CDH is 100% open source and is
+the only Hadoop solution to offer </span><a href="http://www.cloudera.com/content/cloudera/en/products/cdh/hdfs-and-mapreduce.html" target="_blank"><span style="font-family:Arial;font-size:14px;">batch processing</span></a><span style="font-family:Arial;font-size:14px;">, </span><a href="http://www.cloudera.com/content/cloudera/en/products/cdh/impala.html" target="_blank"><span style="font-family:Arial;font-size:14px;">interactive SQL </span></a><span style="font-family:Arial;font-size:14px;">and </span><a href="http://www.cloudera.com/content/cloudera/en/products/cdh/search.html" target="_blank"><span style="font-family:Arial;font-size:14px;">interactive search </span></a><span style="font-family:Arial;font-size:14px;">as well as enterprise-grade continuous
+availability. More enterprises have downloaded CDH than all other distributions
+combined.</span></span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:14px;font-family:Arial;">This powerful
+management automation tool offers the fastest and easiest way to get your
+Hadoop cluster up and running so you can explore your first use cases.This
+combination means you can be sure that your Hadoop project will be deployed
+faster and with greater success if you go with Cloudera.</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;"><img src="data/provider/71D6C972-2A9C-8CE4-B6B1-135DF2131C8D/FA456245-AAC3-113D-7725-FE51794D84CB/20130626102147_86234.png" alt="" /><br />
+</span>
+</p>
+<p class="MsoNormal" style="text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;"><br />
+</span>
+</p>
+<p class="MsoNormal">
+	<span style="font-size:12.0pt;font-family:Arial;"></span>
+</p>
+<h2>
+	<span style="font-size:12.0pt;font-family:Arial;">Key
+Capabilities</span>
+</h2>
+<p>
+	<span style="font-family:Arial;"><span style="font-family:Arial;">CDH delivers the core elements of
+Hadoop – scalable storage and distributed computing – as well as all of the
+necessary enterprise capabilities such as security, high availability and </span><a href="http://www.cloudera.com/content/cloudera/en/partners/partners-listing.html" target="_blank"><span style="font-family:Arial;">integration with a broad range of hardware and software
+solutions</span></a><span style="font-family:Arial;">.</span></span>
+</p>
+<p>
+	<span style="font-family:Arial;">All the integration work is done
+for you, and the entire solution is thoroughly tested and fully documented. By
+taking the guesswork out of building out your Hadoop deployment, CDH gives you
+a streamlined path to success in solving real business problems.</span>
+</p>
+<h4>
+	<span style="font-size:12pt;line-height:156%;font-family:Arial;">Flexible</span>
+</h4>
+<p>
+	<span style="font-family:Arial;">Store any type of data and
+prosecute it with an array of different computation frameworks including batch
+processing, interactive SQL, free text search, machine learning and statistical
+computation.</span>
+</p>
+<h4>
+	<span style="font-size:12pt;line-height:156%;font-family:Arial;">Integrated</span>
+</h4>
+<p>
+	<span style="font-family:Arial;">Get up and running quickly on a
+complete, packaged, Apache Hadoop platform.</span>
+</p>
+<h4>
+	<span style="font-size:12pt;line-height:156%;font-family:Arial;">Secure</span>
+</h4>
+<p>
+	<span style="font-family:Arial;">Process and control sensitive
+data and facilitate multi-tenancy.</span>
+</p>
+<h4>
+	<span style="font-size:12pt;line-height:156%;font-family:Arial;">Scalable &amp; Extensible</span>
+</h4>
+<p>
+	<span style="font-family:Arial;">Enable a broad range of
+applications and scale them with your business.</span>
+</p>
+<h4>
+	<span style="font-size:12pt;line-height:156%;font-family:Arial;">Highly Available</span>
+</h4>
+<p>
+	<span style="font-family:Arial;">Run mission-critical workloads
+with confidence.</span>
+</p>
+<h4>
+	<span style="font-size:12pt;line-height:156%;font-family:Arial;">Open</span>
+</h4>
+<p>
+	<span style="font-family:Arial;">Benefit from rapid innovation
+without proprietary vendor lock-in.</span>
+</p>
+<h4>
+	<span style="font-size:12pt;line-height:156%;font-family:Arial;">Compatible</span>
+</h4>
+<p>
+	<span style="font-family:Arial;">Extend and leverage existing IT
+investments.</span>
+</p>
+<h1>
+	<span style="font-size:12.0pt;font-family:Arial;">CDH Projects
+and Versions</span>
+</h1>
+<p>
+	<span style="font-family:Arial;">CDH is Cloudera’s 100% open
+source platform distribution, including Apache Hadoop and built specifically to
+meet enterprise demands. CDH delivers everything you need for enterprise use
+right out of the box. By integrating Apache Hadoop with more than a dozen other
+critical open source projects, Cloudera has created a functionally advanced
+system that helps you perform end-to-end Big Data workflows.</span>
+</p>
+<p>
+	<span style="font-family:Arial;">Here you will find all the details
+about which open source projects, and what version of each project, is included
+in the current version of CDH. </span>
+</p>
+<table class="MsoNormalTable" style="width:432.75pt;" border="1" cellpadding="0" cellspacing="0" width="577">
+	<tbody>
+		<tr>
+			<td width="271">
+				<h3>
+					<span style="font-size:10.5pt;line-height:173%;font-family:Arial;">Project</span>
+				</h3>
+			</td>
+			<td width="138">
+				<h3>
+					<span style="font-size:10.5pt;line-height:173%;font-family:Arial;">CDH3u6</span>
+				</h3>
+			</td>
+			<td width="168">
+				<h3>
+					<span style="font-size:10.5pt;line-height:173%;font-family:Arial;">CDH4.3</span>
+				</h3>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache Hadoop</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Reliable, scalable distributed storage and computing</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.20.2 +923.475</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v2.0.0 +1357 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">HDFS</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Hadoop Distributed File System – scalable, distributed, fault tolerant data
+  storage</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.20.2 +923.475</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v2.0.0 +1357 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Fuse-DFS</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Module for mounting HDFS as a traditional file system</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.20.2 +923.475</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v2.0.0 +1357 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">MapReduce</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Distributed computing framework for Apache Hadoop</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.20.2 +923.475</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.20.2 +1357 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">MapReduce 2 (YARN)</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> The next generation of the MapReduce framework</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">--</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal" style="margin-left:0cm;">
+					<span style="font-family:Arial;">v2.0.0
+  +1357 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache Flume</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Distributed framework for collecting and aggregating log and event data and
+  streaming it into HDFS or HBase in real time</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;"><span style="font-family:Arial;">v0.9.4 +25.49,</span><br />
+<span style="font-family:Arial;"> v1.2.0 +24.78</span></span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v1.3.0 +159 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache HBase</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Scalable record and table storage with real-time read/write access</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.90.6 +84.89</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.94.6 +96 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache Hive</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Metadata repository with SQL-like interface and ODBC/JDBC drivers for
+  connecting BI applications to Hadoop</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.7.1 +42.61</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.10.0 +121 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache HCatalog</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> A table and storage management service for data stored in Hadoop</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">--</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.5.0 +9 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache Mahout</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Library of machine learning algorithms for Hadoop</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.5 +9.11</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.7 +16 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache Oozie</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Workflow engine to coordinate Hadoop activities</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v2.3.2 +27.30</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v3.3.2 +49 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache Pig</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> High-level data flow language for processing data stored in Hadoop</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.8.1 +28.47</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.11.0 +28 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache Sqoop</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Data transport engine for integrating Hadoop with relational databases</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v1.3.0 +5.95</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v1.4.3 +34 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache Sqoop 2</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> The next generation of Apache Sqoop</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">--</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v1.4.3 +34 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache Whirr</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Library for deploying and running Hadoop in the cloud</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.5.0 +4.17</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.8.2 +10 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Apache ZooKeeper</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Highly reliable distributed coordination service</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v3.3.5 +19.11</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v3.4.5 +19 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">DataFu</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Library of User Defined Functions (UDFs) for Apache Pig</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">--</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.0.4 +15 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Cloudera Hue</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Browser-based desktop interface for Hadoop</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v1.2.0.0 +114.45</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v2.3.0 +136 </span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Cloudera Impala</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Real-time, SQL-based query engine for data stored in HDFS or HBase</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">--</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v1.0</span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td valign="top" width="271">
+				<p class="MsoNormal">
+					<strong><span style="font-family:Arial;">Cloudera Search (Beta)</span></strong><span style="font-family:Arial;"><br />
+<span style="font-family:Arial;"> Free text and faceted search for data stored in HDFS or HBase</span></span>
+				</p>
+			</td>
+			<td valign="top" width="138">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">--</span>
+				</p>
+			</td>
+			<td valign="top" width="168">
+				<p class="MsoNormal">
+					<span style="font-family:Arial;">v0.1.5</span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p class="MsoNormal">
+	<span style="font-size:12.0pt;font-family:Arial;">&nbsp;</span>
+</p>
+<br />

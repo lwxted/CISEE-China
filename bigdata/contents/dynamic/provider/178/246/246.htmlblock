@@ -1,0 +1,91 @@
+<div class="page-header landing-header center" style="margin:0px;border:none;text-align:center;color:#565E66;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;background-color:#FFFFFF;">
+	<div class="row" style="margin-left:-20px;">
+		<div class="span12" style="margin-left:20px;">
+			<h1 style="font-family:inherit;font-weight:200;color:#444444;font-size:32px;">
+				Global Products Data
+			</h1>
+			<h2 style="font-family:inherit;font-weight:200;font-size:22px;">
+				Over 650,000 consumer packaged goods in a UPC centric database.
+			</h2>
+		</div>
+		<div class="documentation" style="color:#818D99;font-size:11px;padding:0px 20px;border:1px dotted #EBEBEB;font-weight:bold;">
+			<br />
+		</div>
+	</div>
+</div>
+<div class="row discussion-points" style="margin-left:-20px;color:#565E66;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;background-color:#FFFFFF;">
+	<div class="center span4" style="margin-left:20px;text-align:center;">
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			CORE DATA FOR PRODUCTS
+		</h3>
+		<p>
+			Attributes include UPC, EAN-13, Product Name, Manufacturer, Brand, Size, Category, and Average Price.
+		</p>
+	</div>
+	<div class="center span4" style="margin-left:20px;text-align:center;">
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			NUTRITION AND INGREDIENTS
+		</h3>
+		<p>
+			Access nutrition information for more than 150,000 food and beverage products and ingredient lists for more than 350,000 packaged goods.
+		</p>
+	</div>
+	<div class="center span4" style="margin-left:20px;text-align:center;">
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			UPC LOOKUP &amp; POWERFUL SEARCH
+		</h3>
+		<p>
+			Easily lookup complete product information using only a UPC or full-text search, with advanced filtering and faceting, and popularity rank for sorting.
+		</p>
+	</div>
+</div>
+<p>
+	<br />
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<br />
+</p>
+<div class="page-header landing-header center" style="margin:0px;border:none;text-align:center;color:#565E66;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;background-color:#FFFFFF;">
+	<div class="row" style="margin-left:-20px;">
+		<div class="span12" style="margin-left:20px;">
+			<h1 style="font-family:inherit;font-weight:200;color:#444444;font-size:32px;">
+				Products Crosswalk Data
+			</h1>
+			<h2 style="font-family:inherit;font-weight:200;font-size:22px;">
+				Connect to product data and purchase pages at 35+ third party services.
+			</h2>
+		</div>
+		<div class="documentation" style="color:#818D99;font-size:11px;padding:0px 20px;border:1px dotted #EBEBEB;font-weight:bold;">
+			<br />
+		</div>
+	</div>
+</div>
+<div class="row discussion-points" style="margin-left:-20px;color:#565E66;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;background-color:#FFFFFF;">
+	<div class="center span4" style="margin-left:20px;text-align:center;">
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			EXTENSIVE CONNECTIONS
+		</h3>
+		<p>
+			Connect to 35+ popular third party services including Amazon, Walmart, Nextag, and Goodguide.
+		</p>
+	</div>
+	<div class="center span4" style="margin-left:20px;text-align:center;">
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			EASY AFFILIATE INTEGRATION
+		</h3>
+		<p>
+			Easily integrate affiliate programs using unique product identifiers from select online retailers.
+		</p>
+	</div>
+	<div class="center span4" style="margin-left:20px;text-align:center;">
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			UNITE THE WEB
+		</h3>
+		<p>
+			Easily incorporate data and features by connecting product pages across the web.
+		</p>
+	</div>
+</div>

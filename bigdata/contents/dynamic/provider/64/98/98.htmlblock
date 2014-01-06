@@ -1,0 +1,145 @@
+<h1 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:&quot;">In-Memory Data
+Platform</span>
+</h1>
+<p style="margin-left:0cm;">
+	<span style="font-family:&quot;">GridGain
+is Java-based middleware for in-memory processing of big data in a distributed
+environment. It is based on high performance in-memory data platform that
+integrates world’s fastest MapReduce implementation with In-Memory Data Grid
+technology delivering easy to use and easy to scale software. Using GridGain
+you can <strong><span style="font-family:&quot;">process
+terabytes of data, on 1000s of nodes in under a second</span></strong>.</span>
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:&quot;">GridGain
+typically resides between business, analytics or BI applications and long term
+data storage such as RDBMS, ERP or Hadoop HDFS, and provides in-memory data
+platform for high performance, low latency data processing and computations.</span>
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:&quot;">GridGain
+comes in three editions:</span>
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:&quot;">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-family:&quot;">&nbsp;&nbsp;&nbsp; </span><img src="data/provider/A2BB9935-0096-D78C-1637-77F1B4B8564B/DC605BE5-8F19-6059-1B8B-997CE6E050DE/20130705103527_21120.png" alt="" /><span style="font-family:&quot;"></span>
+</p>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:&quot;">Faster answers from your data</span>
+</h2>
+<p style="margin-left:0cm;">
+	<span style="font-family:&quot;">GridGain
+provides distributed, scalable, in-memory data grid and compute grid middleware
+products that sit between your application and its data sources (including live
+data streams, RDBMS, NoSQL data stores, and Hadoop-based systems), helping you
+achieve&nbsp;orders of magnitude better performance – while scaling to
+thousands of machines and terabytes of data.</span>
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:&quot;">We
+have developed the world’s most popular JVM-based platform for high performance
+computing, along with the fastest MapReduce available.&nbsp;Developers use
+GridGain to load all of their important data into an auto-elastic memory grid,
+and to distribute computations and data processing tasks across any number of
+machines.</span>
+</p>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:&quot;">100x faster and more</span>
+</h2>
+<p style="margin-left:0cm;">
+	<span style="font-family:&quot;">With
+a little code, and any combination of public and private cloud resources,
+GridGain can take any data, from any source, make data instantly accessible to
+your application, queries and computations, and return results faster – by
+orders of magnitude.</span>
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">RAM is readily
+     available now, with 1GB cost &lt; 1$</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">RAM performs up
+     to 10,000,000 times faster than spinning disks.</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Highly scalable
+     and automatically elastic grids across up to 1000s of machines.</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Fully
+     distributed processing for much faster applications than traditionally
+     architected systems.</span>
+	</li>
+</ul>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:&quot;">Simple and elegant, yet powerful</span>
+</h2>
+<p style="margin-left:0cm;">
+	<span style="font-family:&quot;">Get
+started in less than 10 minutes, with less than 10 lines of code. GridGain
+enables the world’s shortest but most powerful streaming distributed MapReduce
+application (which fits on the backs of our own business cards, by the way).
+With native support for Java, Scala or Groovy, and elegant, functional APIs,
+GridGain provides a sophisticated distributed programming framework that is truly
+a joy to use.</span>
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:&quot;"><img src="data/provider/A2BB9935-0096-D78C-1637-77F1B4B8564B/DC605BE5-8F19-6059-1B8B-997CE6E050DE/20130705103502_54274.png" alt="" /><br />
+</span><span style="font-family:&quot;"></span>
+</p>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:&quot;">In-memory speed, database reliability</span>
+</h2>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Fully consistent
+     distributed ACID transactions.</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Supports SQL
+     queries and JDBC connections.</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Fully
+     transactional datacenter replication.</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Integrates with
+     virtually any RDBMS, ERP or Hadoop HDFS.</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Advanced DevOps
+     monitoring and management tools.</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">High
+     availability and&nbsp;complete fault tolerance.</span>
+	</li>
+</ul>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:&quot;">Extend SQL, NOSQL and Hadoop without replacing
+them</span>
+</h2>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Make any NoSQL
+     database fully consistent and ACID compliant.</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Add the world’s
+     fastest MapReduce on top of your Hadoop infrastructure.</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Fuse live data
+     streams with terabytes to petabytes of legacy structured or unstructured
+     data.</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Applications and
+     services that are highly available, distributed and scalable.</span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>

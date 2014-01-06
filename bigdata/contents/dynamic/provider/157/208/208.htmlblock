@@ -1,0 +1,133 @@
+<h2 class="contentheading">
+	Products &amp; Services
+</h2>
+<div class="messages">
+</div>
+<span class="print-link"><span class="print_html"><a href="http://hpccsystems.com/print/121" class="print-page"><img src="http://hpccsystems.com/modules/print/icons/print_icon.gif" alt="Printer-friendly version" title="Printer-friendly version" class="print-icon" height="16" width="16" /></a></span><span class="print_mail"><a href="http://hpccsystems.com/printmail/121" class="print-mail"><img src="http://hpccsystems.com/modules/print/icons/mail_icon.gif" alt="E-Mail" title="E-Mail" class="print-icon" height="16" width="16" /></a></span></span>
+<h3>
+	<a href="http://hpccsystems.com/about-us"><strong><span style="color:#000000;">HPCC Systems</span></strong></a> offers products, professional services, technical support and training 
+that enable users to help lower their data-processing costs and get more
+ value from the information they collect and generate.
+</h3>
+<table cellpadding="5px">
+	<tbody>
+		<tr>
+			<td align="center">
+				<img src="http://hpccsystems.com/sites/default/files/images/img_product.jpg" /> 
+			</td>
+			<td align="center">
+				<img src="http://hpccsystems.com/sites/default/files/images/img_service.jpg" /> 
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top;">
+				<h2>
+					Products
+				</h2>
+				<p>
+					<span style="color:#000000;">HPCC Systems provides an integrated portfolio of applications for 
+distributed computing. Our products can be deployed on premises for 
+maximum security and control, or on public clouds such as AWS (Amazon 
+Web Services) or on a cloud offering by HPCC Systems. HPCC Systems 
+offers:</span>
+				</p>
+				<p>
+					<br />
+				</p>
+				<h3>
+					<a href="http://hpccsystems.com/products-and-services/products/community-edition"><span style="color:#000000;">Community Edition</span></a>
+				</h3>
+				<p>
+					<span style="color:#000000;">Free platform software with community support</span>
+				</p>
+				<p>
+					<br />
+				</p>
+				<h3>
+					<a href="http://hpccsystems.com/products-and-services/products/enterprise-edition"><span style="color:#000000;">Enterprise Edition</span></a>
+				</h3>
+				<p>
+					<span style="color:#000000;">Annual subscription platform software with enterprise class support</span>
+				</p>
+				<p>
+					<br />
+				</p>
+				<h3>
+					<a href="http://hpccsystems.com/products-and-services/products/modules"><span style="color:#000000;">Modules</span></a>
+				</h3>
+				<p>
+					<span style="color:#000000;">Plug-in modules that extend the capabilities of the base system.</span>
+				</p>
+				<p>
+					<br />
+				</p>
+				<h3>
+					<a href="http://hpccsystems.com/products-and-services/products/turnkey"><span style="color:#000000;">Turnkey Systems</span></a>
+				</h3>
+				<p>
+					<span style="color:#000000;">HPCC Systems will help you to implement your requirement.</span>
+				</p>
+				<p>
+					<br />
+				</p>
+				<h3>
+					<a href="http://hpccsystems.com/products-and-services/products/ee-ce-comparison"><span style="color:#000000;">Comparison Chart</span></a>
+				</h3>
+				<p>
+					<span style="color:#000000;">Compare our different products to see which is best for your Big Data needs</span>.
+				</p>
+			</td>
+			<td style="vertical-align:top;">
+				<h2>
+					<span style="font-family:Arial;color:#000000;">Services</span>
+				</h2>
+				<p>
+					<span style="font-family:Arial;color:#000000;">HPCC Systems can help you install, configure, optimize, and tune an </span><a href="http://hpccsystems.com/FAQ/what-hpcc"><span style="font-family:Arial;color:#000000;">HPCC</span></a><span style="font-family:Arial;color:#000000;"> platform. We can help design data-processing pipelines and integrate 
+HPCC into existing IT infrastructure, so you can share data between HPCC
+ and legacy applications and databases. HPCC Systems offers the 
+following services:</span>
+				</p>
+				<h3>
+					<a href="http://hpccsystems.com/products-and-services/services/cloud"><span style="font-family:Arial;color:#000000;">Cloud</span></a>
+				</h3>
+				<p>
+					<span style="font-family:Arial;color:#000000;">HPCC enabled cloud hosted and managed by HPCC Systems</span>
+				</p>
+				<h3>
+					<a href="http://hpccsystems.com/products-and-services/services/consulting"><span style="font-family:Arial;color:#000000;">Consulting</span></a>
+				</h3>
+				<p>
+					<span style="font-family:Arial;color:#000000;">Professional services to support your projects</span>
+				</p>
+				<h3>
+					<a href="http://hpccsystems.com/products-and-services/services/custom-development"><span style="font-family:Arial;color:#000000;">Custom Development</span></a>
+				</h3>
+				<p>
+					<span style="font-family:Arial;color:#000000;">HPCC Systems will analyze and implement the solution</span>
+				</p>
+				<h3>
+					<a href="http://hpccsystems.com/products-and-services/services/support"><span style="font-family:Arial;color:#000000;">Support Level</span></a>
+				</h3>
+				<p>
+					<span style="font-family:Arial;color:#000000;">Enterprise class support based on your needs</span>
+				</p>
+				<h3>
+					<a href="http://hpccsystems.com/products-and-services/services/training"><span style="font-family:Arial;color:#000000;">Professional Training</span></a>
+				</h3>
+				<p>
+					<span style="font-family:Arial;color:#000000;">Training for learning HPCC and </span><a href="http://hpccsystems.com/FAQ/what-is-ecl"><span style="font-family:Arial;color:#000000;">ECL</span></a>
+				</p>
+				<h3>
+					<a href="http://hpccsystems.com/products-and-services/data-services"><span style="font-family:Arial;color:#000000;">Data Services</span></a>
+				</h3>
+				<p>
+					<span style="font-family:Arial;color:#000000;">A benefit for customers using the HPCC is that you could gain access 
+to LexisNexis Risk Solutions vast amounts of data, including people, 
+businesses, assets, and much more. This is available only to Enterprise 
+Edition customers and requires additional due diligence and entitlement 
+processes.</span>
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>

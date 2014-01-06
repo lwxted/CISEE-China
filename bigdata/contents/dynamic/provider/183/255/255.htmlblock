@@ -1,0 +1,208 @@
+<div class="parsys mainLeftContent">
+	<div class="text parbase section">
+		<h1>
+			<br />
+		</h1>
+		<p>
+			Cloudera’s revolutionary data management platform is designed 
+specifically to address the opportunities and challenges of Big Data. 
+Cloudera combines Apache Hadoop with a number of other open source 
+projects to create a single, massively scalable system where you can 
+unite storage with an array of powerful processing and analytic 
+frameworks. By uniting flexible storage and processing under a single 
+management framework and set of system resources, Cloudera delivers the 
+versatility and agility required for modern data management&nbsp;–&nbsp;where you 
+can ingest, store, process, explore and analyze data of any type or 
+quantity without migrating it between multiple specialized systems.
+		</p>
+	</div>
+	<div class="text parbase section">
+		<ul>
+			<li>
+				<b>Unified Data</b> – run transformations, analysis and applications against a common data set
+			</li>
+			<li>
+				<b>Unified Metadata</b> – all jobs and queries leverage a single metadata model
+			</li>
+			<li>
+				<b>Unified System</b> – all data operations run on a single set of nodes
+			</li>
+			<li>
+				<b>Unified Security</b> – a single model for security, data access and compliance
+			</li>
+			<li>
+				<b>Unified Management</b> – centralized system and data management
+			</li>
+		</ul>
+		<p>
+			<br />
+		</p>
+	</div>
+	<div class="parsys section Text-non RTE">
+		<h2>
+			Platform Options
+		</h2>
+		<p>
+			Cloudera delivers a complete data management platform that’s powered 
+by Apache Hadoop. The foundation of the Cloudera platform is CDH, the 
+world’s most complete, tested and widely deployed open source Hadoop 
+distribution. Our commercial offerings, Cloudera Standard and Cloudera 
+Enterprise, combine CDH with powerful management software and support to
+ form a comprehensive solution that’s easy to deploy, manage and scale.
+		</p>
+	</div>
+	<div class="parsys section Text-non RTE">
+		<table cellpadding="0" cellspacing="0" border="1">
+			<tbody>
+				<tr>
+					<td height="220" valign="top" width="160">
+						<h2 style="color:#006e89;">
+							CDH
+						</h2>
+						<p>
+							<strong>100% Open Source Distribution</strong>
+						</p>
+						<p>
+							CDH is the most complete, tested and   widely deployed open source Hadoop distribution.
+						</p>
+<a href="http://www.cloudera.com/content/cloudera/en/products/cdh.html">Learn More »</a>
+					</td>
+					<td valign="top" width="160">
+						<h2 style="color:#006e89;">
+							Cloudera Standard
+						</h2>
+						<p>
+							<strong> Everything to Get Started</strong>
+						</p>
+						<p>
+							Cloudera Standard is a free offering that combines CDH with automated cluster management.
+						</p>
+<a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-standard.html">Learn More »</a>
+					</td>
+					<td valign="top" width="160">
+						<h2 style="color:#006e89;">
+							Cloudera Enterprise
+						</h2>
+						<p>
+							<strong>Hadoop for the Enterprise</strong>
+						</p>
+						<p>
+							Cloudera Enterprise is a series of   subscriptions that 
+include everything in Cloudera Standard plus enhanced management   
+capabilities and support.
+						</p>
+<a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-enterprise.html">Learn More »</a> 
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div class="parsys section Text-non RTE">
+		<a class="more openmodal" href="http://www.cloudera.com/content/cloudera/en/products.html#PBD-diagram"><img src="http://www.cloudera.com/content/dam/cloudera/product-assets/platform-diagram.png" alt="Cloudera Enterprise" /> </a> 
+	</div>
+	<div class="parsys section Text-non RTE">
+		<h2>
+			Cloudera Service Offerings
+		</h2>
+		<div>
+			<img src="http://www.cloudera.com/content/dam/cloudera/page-assets/products_05.png" width="60px" /> 
+		</div>
+		<div style="margin-left:100px;">
+			<h3>
+				Professional Services
+			</h3>
+			<p>
+				Cloudera Professional Services provide unrivaled expertise based on 
+experience with in-production Hadoop systems across a range of 
+industries and Fortune 100 engagemen<span style="color:#000000;">ts. </span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-support.html"><span style="color:#000000;">Learn more »</span></a>
+			</p>
+		</div>
+		<hr />
+		<div>
+			<img src="http://www.cloudera.com/content/dam/cloudera/page-assets/products_06.png" width="80px" /> 
+		</div>
+		<div style="margin-left:100px;">
+			<h3>
+				Training
+			</h3>
+			<p>
+				Cloudera University is the leading provider of Apache Hadoop training
+ and certification — having trained more than 15,000 students worldwide.
+ We offer public and private classroom training and free online 
+resources to ensure IT professionals can have access to the world's most
+ comprehensive selection of Hadoop training materi<span style="color:#000000;">al. </span><a href="http://university.cloudera.con"><span style="color:#000000;">Learn more »</span></a>
+			</p>
+		</div>
+	</div>
+	<div class="parbase gridLayoutComponent section">
+		<table class="" width="400px">
+			<tbody>
+				<tr>
+					<td width="">
+						<div class="parsys">
+							<div class="text parbase section">
+								<br />
+							</div>
+						</div>
+					</td>
+					<td class="last" width="">
+						<br />
+					</td>
+				</tr>
+				<tr>
+					<td width="">
+						<br />
+					</td>
+					<td class="last" width="">
+						<br />
+					</td>
+				</tr>
+				<tr>
+					<td width="">
+						<br />
+					</td>
+					<td class="last" width="">
+						<br />
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div class="parbase gridLayoutComponent section">
+		<table class="" width="400px">
+			<tbody>
+				<tr>
+					<td width="">
+						<div class="parsys">
+							<div class="contentChip parbase section">
+								<div class="content">
+									<h3>
+										The Platform for Big Data White Paper
+									</h3>
+Big Data, with Hadoop at its center, threatens to 
+upend the status quo across organizations from the data center to the 
+boardroom. <a href="http://www.cloudera.com/content/cloudera/en/resources/library/whitepaper/the-platform-for-big-data.html" class="more"><span style="color:#000000;">Learn more</span></a> 
+								</div>
+<img src="http://www.cloudera.com/content/cloudera/en/products/_jcr_content/mainLeftContent/gridlayoutcomponent_0/row1col1/contentchip.img.png/1370316036246.png" alt="Promo Chip Title" /> 
+							</div>
+						</div>
+					</td>
+					<td class="last" width="">
+						<div class="parsys">
+							<div class="contentChip parbase section">
+								<div class="content">
+									<h3>
+										Cloudera Enterprise Quickstart
+									</h3>
+Accelerate your time to success with Hadoop with Data Processing and Data Analytics quickstart packages.
+                    Learn more
+								</div>
+<img src="http://www.cloudera.com/content/cloudera/en/products/_jcr_content/mainLeftContent/gridlayoutcomponent_0/row1col2/contentchip.img.png/1369862848766.png" alt="Promo Chip Title" /> 
+							</div>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>

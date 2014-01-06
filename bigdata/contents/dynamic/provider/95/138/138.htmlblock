@@ -1,0 +1,179 @@
+<div class="mainContentProductCol">
+	<h2 class="mainContentH2">
+		Beautiful Dashboards
+	</h2>
+	<p>
+		<img src="data/provider/2E2C7783-8ED1-5E56-7DBC-A257D33AE477/D6F6C078-3EB1-B0E1-0686-9C20A4327FF9/20130712160735_99206.jpg" alt="" />
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<span style="font-size:14px;">Proudly display unified status views of your infrastructure, 
+applications, and business metrics on TVs and monitors around your 
+office so that everyone knows what’s going on.  Unlike other monitoring 
+solutions, the DevOps Dashboard is not only functional, it is beautiful,
+ so you won’t be ashamed to have it up for all to see!  (Plus, it’s so 
+seamlessly designed that even the pointy haired big boss will understand
+ what he’s looking at.)</span>
+	</p>
+	<p>
+		<br />
+	</p>
+	<p>
+		<div class="mainContentProductCol">
+			<h2 class="mainContentH2">
+				Infrastructure, App,  &amp; Business Metrics — In One Place!
+			</h2>
+			<p>
+				<img src="data/provider/2E2C7783-8ED1-5E56-7DBC-A257D33AE477/D6F6C078-3EB1-B0E1-0686-9C20A4327FF9/20130712160833_37542.jpg" alt="" />
+			</p>
+			<p>
+				<span style="font-size:14px;">AppFirst collects data from multiple sources so you always 
+have full-stack visibility. Got Nagios plug-in data?  No problem -- we 
+pull in all of this data so that you can make the most of your existing 
+investment.  Need log file data?  We’ve got you covered.  And to get 
+visibility into your business metrics, simply use </span><a class="blueLink" href="https://github.com/appfirst/statsd_clients" target="_blank"><span style="font-size:14px;">AppFirst StatsD</span></a><span style="font-size:14px;"> and we’ll collect that data for you, too -- securely and reliably.  All
+ of this data is combined with the millions of metrics we collect inside
+ your application stack using our patent-pending </span><a class="blueLink" href="http://www.appfirst.com/how-it-works/index.php"><span style="font-size:14px;">“miss nothing” technology.</span></a>
+			</p>
+			<p>
+				<br />
+			</p>
+			<p>
+				<div class="mainContentProductCol">
+					<h2 class="mainContentH2">
+						A Unified Respository for All of Your Data
+					</h2>
+					<p>
+						<img src="data/provider/2E2C7783-8ED1-5E56-7DBC-A257D33AE477/D6F6C078-3EB1-B0E1-0686-9C20A4327FF9/20130712161006_59188.jpg" alt="" />
+					</p>
+					<p>
+						<br />
+					</p>
+					<p>
+						<span style="font-size:14px;">The millions of metrics we collect from every server, every 
+day, stream to our big data platform, into a single repository, where we
+ also capture all of your other data sources.  No more headaches trying 
+to remember where to look for pieces of data -- finally, it’s all in one
+ place!  And best of all, we manage this repository, so you don’t need 
+to build and manage your own.  Learn more about the awesomeness of the 
+NoSQL technology behind the platform </span><a class="blueLink" href="http://www.appfirst.com/how-it-works/data-aggregation.php"><span style="font-size:14px;">here.</span></a>
+					</p>
+					<p>
+						<br />
+<span style="font-size:14px;"></span>
+					</p>
+					<p>
+						<br />
+<span style="font-size:14px;">
+						<div class="mainContentProductCol">
+							<h2 class="mainContentH2">
+								Visibility for Everyone in the Organization
+							</h2>
+							<p>
+								<img src="data/provider/2E2C7783-8ED1-5E56-7DBC-A257D33AE477/D6F6C078-3EB1-B0E1-0686-9C20A4327FF9/20130712161105_32175.jpg" alt="" />
+							</p>
+							<p>
+								Our DevOps Dashboard is easily customizable to give everyone 
+the views they need to do their jobs.  For tech execs, we deliver 
+insight into business metrics side-by-side with a high-level view of 
+apps and infrastructure.  For hands-on DevOps types who always need to 
+know what’s happening, we give you a real-time dashboard that will 
+immediately alert you to issues, plus the tools to drill down into 
+detailed data to resolve problems quickly.
+							</p>
+						</div>
+</span>
+					</p>
+					<p>
+						<br />
+<span style="font-size:14px;"></span>
+					</p>
+					<p>
+						<span style="font-size:14px;">
+						<div class="mainContentProductCol">
+							<h2 class="mainContentH2">
+								Troubleshoot 90% Faster
+							</h2>
+							<p>
+								<img src="data/provider/2E2C7783-8ED1-5E56-7DBC-A257D33AE477/D6F6C078-3EB1-B0E1-0686-9C20A4327FF9/20130712161159_39517.jpg" alt="" />
+							</p>
+							<p>
+								<br />
+							</p>
+							<p>
+								We’re more than just a pretty dashboard.  In fact, AppFirst 
+captures the most detailed app information ever collected. By collecting
+ data from within your entire application as the application executes, 
+we deliver a completeness that goes beyond polling.  And then we combine
+ it with all your other data sources.  So when you are tracking a tough 
+problem or seeing intermittent issues, we’ll have the data you need to 
+troubleshoot -- no need to spend hours or days trying to reproduce a 
+problem or search for a nugget of knowledge in multiple tools.
+							</p>
+							<p>
+								<br />
+							</p>
+							<p>
+								<div class="mainContentProductCol">
+									<h2 class="mainContentH2">
+										Get Started in Minutes
+									</h2>
+									<p>
+										<img src="data/provider/2E2C7783-8ED1-5E56-7DBC-A257D33AE477/D6F6C078-3EB1-B0E1-0686-9C20A4327FF9/20130712161302_17097.jpg" alt="" />
+									</p>
+									<p>
+										<br />
+									</p>
+									<p>
+										Go ahead... download and install AppFirst collectors 
+everywhere there is an operating system that makes up your app stack.  
+Our collector dynamically attaches to all of the running processes, so 
+you don’t need to restart the operating system or any services running 
+on the server.  It will start collecting data immediately -- with almost
+ no performance impact.  It’s that easy. Honestly, you’ll be seeing data
+ from your infrastructure and applications in minutes!
+									</p>
+								</div>
+							</p>
+							<p>
+								<br />
+							</p>
+							<p>
+								<div class="mainContentProductCol">
+									<h2 class="mainContentH2">
+										Automatic App Stack Metrics
+									</h2>
+									<p>
+										<img src="data/provider/2E2C7783-8ED1-5E56-7DBC-A257D33AE477/D6F6C078-3EB1-B0E1-0686-9C20A4327FF9/20130712161347_63747.jpg" alt="" />
+									</p>
+									<p>
+										<br />
+									</p>
+									<p>
+										AppFirst automatically detects your application stack, creates
+ the required scripts to stream your metrics, and delivers a customized 
+dashboard specific to your environment. Got a Ruby stack? We’ll know 
+whether you are using MySQL or PostgreSQL, Redis, Passenger, and more.  
+And we’ll automatically start collecting subsystem-specific metrics, 
+such as the number of transactions, connections, slow queries, and row 
+operations in the case of MySQL. No need to lift a finger!
+									</p>
+								</div>
+							</p>
+							<p>
+								<br />
+							</p>
+							<p>
+								<br />
+							</p>
+						</div>
+<br />
+</span>
+					</p>
+				</div>
+			</p>
+		</div>
+	</p>
+</div>

@@ -1,0 +1,50 @@
+<div class="intro" id="back-end" style="text-align:left;">
+	<p>
+		<strong><span style="font-size:14px;font-family:Arial Black;">Back End Engineer</span></strong>
+	</p>
+	<p>
+		<strong><span style="font-size:14px;font-family:Arial Black;"><br />
+</span></strong>
+	</p>
+</div>
+<p>
+	Statwing's users demand larger data, more complex analyses, and faster 
+interaction. We'll need to optimize regression, graph, and dozens of 
+other statistical algorithms to efficiently handle wildly diverse 
+datasets. Those analyses will sit on a robust data-handling system that 
+finishes analyses before our users even know they need them. And 
+Statwing's deep interaction and data exploration needs to feel like it's
+ happening locally even when it's not.
+</p>
+<p>
+	<br />
+</p>
+<p>
+	The ideal candidate:
+</p>
+<ul>
+	<li>
+		Excited about taking responsibility and ownership over big pieces of the product
+	</li>
+	<li>
+		Comfortable with efficiently handling and processing relatively large amounts of data.
+	</li>
+	<li>
+		Interested in data analysis.
+	</li>
+	<li>
+		Very comfortable with Python. Some experience with Clojure is a bonus.
+	</li>
+	<li>
+		An extremely talented programmer, skilled in dealing with performance tradeoffs and bottlenecks.
+	</li>
+	<li>
+		Deeply concerned with system reliability, code quality, and back end architecture.
+	</li>
+	<li>
+		Open to asking for help, taking feedback, collaborating, and generally being a team player.
+	</li>
+	<li>
+		Humor. Has a sense of it.
+	</li>
+</ul>

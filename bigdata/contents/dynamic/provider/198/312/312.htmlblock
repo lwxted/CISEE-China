@@ -1,0 +1,79 @@
+<div>
+	<div id="twoCol-left">
+		<h1>
+			<span style="color:#000000;font-family:Arial;">Neo4j: The World’s Leading Graph Database</span>
+		</h1>
+	</div>
+	<div id="twoCol-right">
+		<img class="alignleft size-full wp-image-1142" title="neo4j_gdb" src="http://www.neotechnology.com/wp-content/uploads/2012/04/neo4j_gdb.png" alt="" height="213" width="414" />
+	</div>
+</div>
+<h2>
+	<span style="color:#000000;font-family:Arial;">Key benefits</span>
+</h2>
+<table class="threeCol">
+	<tbody>
+		<tr>
+			<td>
+				<h3>
+					<span style="color:#000000;font-family:Arial;">High Performance Queries</span>
+				</h3>
+				<p>
+					<span style="color:#000000;font-family:Arial;">A graph data model which enables high performance queries on the 
+complex, connected data inherent in today’s applications. It can 
+traverse complex graphs with improvements of 1000x or more compared to 
+SQL and other NOSQL databases.</span>
+				</p>
+			</td>
+			<td>
+				<h3>
+					<span style="color:#000000;font-family:Arial;">Rapid Development</span>
+				</h3>
+				<p>
+					<span style="color:#000000;font-family:Arial;">If you can whiteboard, you can design a graph database. The graph 
+data model simplifies application development. Enterprises can quickly 
+capture all kinds of data – structured, semi-structured, and 
+unstructured – and easily store it in Neo4j. This results in shorter 
+development times, lower maintenance costs and higher performance.</span>
+				</p>
+			</td>
+			<td>
+				<h3>
+					<span style="color:#000000;font-family:Arial;">Real ACID Transactions</span>
+				</h3>
+				<p>
+					<span style="color:#000000;font-family:Arial;">Mature support for transactions so that enterprise developers can 
+execute “all or nothing” transactions. Although this is a must-have for 
+relational databases, none of the other NOSQL databases can do this. 
+Neo4j supports full ACID transactions including XA-compliant distributed
+ two-phase commits.</span>
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h3>
+					<span style="color:#000000;font-family:Arial;">Java Support</span>
+				</h3>
+				<p>
+					<span style="color:#000000;font-family:Arial;">While supporting all of the leading development platforms, (Ruby, 
+Python, Groovy, Gremlin, etc) Neo4j began in Java and will always be 
+easily accessible and available for Java, the most widely used 
+development environment in the enterprise.</span>
+				</p>
+			</td>
+			<td>
+				<h3>
+					<span style="color:#000000;font-family:Arial;">Best NOSQL database for Spring</span>
+				</h3>
+				<p>
+					<span style="color:#000000;font-family:Arial;">Spring Data Neo4j enables POJO-(Plain Old Java Object) based 
+development for graph databases like Neo4j. For more information go to </span><a><span style="color:#000000;font-family:Arial;">spring.neo4j.org</span></a><span style="color:#000000;font-family:Arial;">.</span>
+				</p>
+			</td>
+			<td>
+				<br />
+			</td>
+		</tr>
+	</tbody>
+</table>

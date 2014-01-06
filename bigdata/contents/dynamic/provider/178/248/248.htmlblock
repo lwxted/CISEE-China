@@ -1,0 +1,94 @@
+<div class="page-header landing-header center" style="margin:0px;border:none;text-align:center;color:#565E66;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;">
+	<div class="row" style="margin-left:-20px;">
+		<div class="span12" style="margin-left:20px;">
+			<h1 style="font-family:inherit;font-weight:200;color:#444444;font-size:32px;">
+				<br class="Apple-interchange-newline" />
+Resolve API
+			</h1>
+			<h2 style="font-family:inherit;font-weight:200;font-size:22px;">
+				Sophisticated entity-resolution and data cleaning technology delivered in real-time.
+			</h2>
+		</div>
+		<div class="documentation" style="color:#818D99;font-size:11px;padding:0px 20px;border:1px dotted #EBEBEB;font-weight:bold;">
+			<br />
+		</div>
+	</div>
+</div>
+<p>
+	<div class="center span4" style="margin-left:20px;text-align:center;">
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			CLEAN YOUR DATA
+		</h3>
+		<p>
+			Use Resolve to eliminate duplicate entities in your data and normalize existing entities.
+		</p>
+	</div>
+	<div class="center span4" style="margin-left:20px;text-align:center;">
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			MAP DATA
+		</h3>
+		<p>
+			Already using place data but want to connect to Factual? Resolve will map your data to Factual IDs.
+		</p>
+	</div>
+	<p>
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			<br />
+		</h3>
+		<p>
+			<br />
+		</p>
+		<p>
+			<br />
+		</p>
+		<p>
+			<br />
+		</p>
+		<p>
+			<br />
+		</p>
+		<p>
+			<div class="page-header landing-header center" style="margin:0px;border:none;text-align:center;color:#565E66;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;">
+				<div class="row" style="margin-left:-20px;">
+					<div class="span12" style="margin-left:20px;">
+						<h1 style="font-family:inherit;font-weight:200;color:#444444;font-size:32px;">
+							Places Crosswalk Data
+						</h1>
+						<h2 style="font-family:inherit;font-weight:200;font-size:22px;">
+							Map of places across the web - easily identify the same place entity in Factual and 50+ third party services.
+						</h2>
+					</div>
+					<div class="documentation" style="color:#818D99;font-size:11px;padding:0px 20px;border:1px dotted #EBEBEB;font-weight:bold;">
+						<br />
+					</div>
+				</div>
+			</div>
+			<div class="row discussion-points" style="margin-left:-20px;color:#565E66;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;">
+				<div class="center span4" style="margin-left:20px;text-align:center;">
+					<p>
+						Covers 50+ third party services including Facebook, Yelp, Twitter, and Foursquare.
+					</p>
+				</div>
+				<div class="center span4" style="margin-left:20px;text-align:center;">
+					<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+						UNITE THE WEB
+					</h3>
+					<p>
+						Easily incorporate data and features from previously siloed sources.
+					</p>
+				</div>
+				<div class="center span4" style="margin-left:20px;text-align:center;">
+					<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+						MULTI-DIRECTIONAL CONNECTIVITY
+					</h3>
+					<p>
+						Use any service's ID (Factual or third party) to map to any other service's ID.
+					</p>
+				</div>
+			</div>
+		</p>
+		<p>
+			<br />
+		</p>
+	</p>
+</p>

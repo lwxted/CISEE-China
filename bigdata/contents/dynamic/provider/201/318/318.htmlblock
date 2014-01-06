@@ -1,0 +1,73 @@
+<div id="intro_pulse" class="centered clearfix" style="margin:auto;padding:0px;color:#353535;font-family:Arial, Helvetica, sans-serif;font-size:13px;background-color:#E3E2E2;">
+	<h1 style="font-size:45pt;color:#1373BA;font-family:MavenProBlack;font-weight:normal;">
+		Real-time insight<em>across the board</em>
+	</h1>
+	<p style="color:#666666;font-family:Helvetica-Light, Helvetica, Arial, sans-serif;font-size:15pt;">
+		FeedZai Pulse is a revolutionary next-generation real-time business intelligence platform.
+	</p>
+<img src="http://www.feedzai.com/images/pulse/packshot.png" id="pulse_shot" style="border:0px;" />
+</div>
+<div id="pulse_content" style="margin:0px;padding:30px 0px;color:#666666;font-family:Arial, Helvetica, sans-serif;font-size:13px;">
+	<div class="centered clearfix" style="margin:auto;padding:0px;">
+		<div class="grid_20" style="margin:0px 9px 19.78333282470703px 9.883333206176758px;padding:0px;">
+			<h2 style="font-size:16pt;font-weight:100;font-family:PTSansBold;color:#333333;">
+				FeedZai Fraud Prevention
+			</h2>
+		</div>
+		<div class="grid_80 left_grid" style="margin:0px 9px 19.78333282470703px 9.883333206176758px;padding:0px;">
+			<h3 style="font-size:14pt;font-family:Helvetica-Light, Helvetica, Arial, sans-serif;font-weight:normal;">
+				FeedZai Fraud Prevention application is helping payment processing companies and other financial institutions prevent fraud before it occurs, in real-time.
+			</h3>
+			<p>
+				With dramatically lower false positive rates, companies are transforming their auto-screening practices and case management.
+			</p>
+		</div>
+		<div class="clear" style="margin:0px;padding:0px;">
+			&nbsp;
+		</div>
+		<div class="grid_20 left_grid" style="margin:0px 9px 19.78333282470703px 9.883333206176758px;padding:0px;">
+		</div>
+		<div class="grid_60" style="margin:0px 9px 19.78333282470703px 9.883333206176758px;padding:0px;">
+			<h5 style="font-size:12pt;font-family:PTSansRegular;font-weight:normal;">
+				Feedzai Fraud Prevention:
+			</h5>
+			<ul class="normalList">
+				<li style="background-color:transparent;">
+					Delivers the industry’s best sub-second automated fraud screening results with the lowest percent false alerts.
+				</li>
+				<li style="background-color:transparent;">
+					The Fraud Prevention Optimizer is the industry’s gold standard for managing tradeoffs between blocked fraud, false alerts, manual review costs, and customer satisfaction.
+				</li>
+				<li style="background-color:transparent;">
+					Includes alert workflow management for manual review and disposition.
+				</li>
+				<li style="background-color:transparent;">
+					Reports and KPI tracking for fraud department performance.
+				</li>
+				<li style="background-color:transparent;">
+					Computes real-time and historic profiles of users/cards, merchants and fraud.
+				</li>
+				<li style="background-color:transparent;">
+					Continually minimizes false alerts by retraining fraud models every week instead of every six (6) months, as is industry practice.
+				</li>
+			</ul>
+			<p class="product_image">
+				<img src="http://www.feedzai.com/images/pulse_screen.jpg" width="762" height="320" alt="Pulse Screen" style="border:0px;width:570px;height:auto;" />
+			</p>
+			<h5 style="font-size:12pt;font-family:PTSansRegular;font-weight:normal;">
+				How it Works
+			</h5>
+			<ol class="numberList">
+				<li>
+					Uncovers anomalies in transactions by computing historic profiles from up to 2 years of data of each card, merchant and fraud case, then comparing to real time transactions.
+				</li>
+				<li>
+					Prevents fraud by scoring and blocking obvious fraudulent transactions.
+				</li>
+				<li>
+					Tracks suspected fraud with automated fraud case management.
+				</li>
+			</ol>
+		</div>
+	</div>
+</div>

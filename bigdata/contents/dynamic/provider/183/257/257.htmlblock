@@ -1,0 +1,143 @@
+<h2>
+	<span style="color:#000000;font-family:Arial;">The Best Way to Get Started with Hadoop</span>
+</h2>
+<div class="assetWithText parbase section">
+	<div class="wrapper">
+		<img src="http://www.cloudera.com/content/cloudera/en/products/cloudera-standard/_jcr_content/topRightContent/assetwithtext.img.png/1370377996462.png" alt="Thumbnail" /> 
+		<div class="copy">
+			<p>
+				<span style="color:#000000;font-family:Arial;">Cloudera Standard is a free download that combines </span><a href="http://www.cloudera.com/content/cloudera/en/products/cdh.html" target="_blank"><span style="color:#000000;font-family:Arial;">CDH</span></a><span style="color:#000000;font-family:Arial;">, Cloudera’s 100% open source and enterprise-ready distribution of&nbsp;Apache&nbsp;Hadoop with </span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-manager.html" target="_blank"><span style="color:#000000;font-family:Arial;">Cloudera Manager</span></a><span style="color:#000000;font-family:Arial;"> which provides robust cluster management capabilities like automated 
+deployment, centralized administration, monitoring and diagnostic tools.</span>
+			</p>
+			<p>
+				<span style="color:#000000;font-family:Arial;">Cloudera Standard gives you everything you need to get started with 
+Hadoop. With Cloudera Standard, you get a fully capable platform that’s 
+optimized to help you demonstrate the value of the technology.</span>
+			</p>
+			<p>
+				<span style="color:#000000;font-family:Arial;">Whether you’re evaluating Hadoop to accelerate data processing, 
+optimize the performance of your data warehouse or perform new types of 
+analysis on data sets that were previously out of reach, Cloudera 
+Standard is your key to successfully deploying Hadoop to solve your 
+first use cases.</span>
+			</p>
+			<p>
+				<a href="http://www.cloudera.com/content/cloudera/en/products/product-comparison.html" target="_blank" class="button cta"><span style="color:#000000;font-family:Arial;">Compare Features</span></a><span style="color:#000000;font-family:Arial;">&nbsp;&nbsp;</span><a class="button cta" href="https://ccp.cloudera.com/display/SUPPORT/Downloads" target="_blank"><span style="color:#000000;font-family:Arial;">Download Cloudera Standard</span></a>
+			</p>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="parsys rightRightContent">
+		<br />
+		<div class="sidebarChip parbase section">
+			<h3>
+				<span style="color:#000000;font-family:Arial;">Partners Using</span><br />
+<span style="color:#000000;font-family:Arial;"> Cloudera Standard</span>
+			</h3>
+			<table style="width:150px;" class="ke-zeroborder" cellpadding="0" cellspacing="3" border="0" width="150">
+				<tbody>
+					<tr>
+						<td height="80">
+							<img src="http://cloudera.com/content/dam/cloudera/logos/partners/partner-hp.png" width="60" />
+						</td>
+					</tr>
+					<tr>
+						<td height="80">
+							<img src="http://cloudera.com/content/dam/cloudera/logos/partners/partner-informatica.png" width="120" />
+						</td>
+					</tr>
+					<tr>
+						<td height="80">
+							<img src="http://cloudera.com/content/dam/cloudera/logos/partners/featured-logos/partner-list-microstrategy.png" width="150" />
+						</td>
+					</tr>
+					<tr>
+						<td height="80">
+							<img src="http://cloudera.com/content/dam/cloudera/logos/partners/partner-oracle.png" width="120" />
+						</td>
+					</tr>
+					<tr>
+						<td height="80">
+							<img src="http://cloudera.com/content/dam/cloudera/logos/partners/featured-logos/partner-list-sap.jpg" width="150" />
+						</td>
+					</tr>
+					<tr>
+						<td height="80">
+							<img src="http://cloudera.com/content/dam/cloudera/logos/partners/partner-teradata.png" width="120" />
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<div class="parsys centerRightContent">
+		<div class="parsys section Text-non RTE">
+			<img class="shadow-box" src="http://www.cloudera.com/content/dam/cloudera/product-assets/standard_platform_FINAL_2013-05.png" alt="Cloudera Standard" width="350" />
+			<p>
+				<a class="openmodal" href="http://www.cloudera.com/content/cloudera/en/products/cloudera-standard.html#CS-diagram"><span style="color:#000000;font-family:Arial;">[+] View Larger Image</span></a>
+			</p>
+		</div>
+		<div class="text parbase section">
+			<h2>
+				<span style="color:#000000;font-family:Arial;">Hadoop Distribution&nbsp;–&nbsp;CDH</span>
+			</h2>
+			<p>
+				<span style="color:#000000;font-family:Arial;">At the core of Cloudera Standard is CDH, which combines Apache Hadoop
+ with a number of other open source projects to create a single, 
+massively scalable system where you can unite storage with an array of 
+powerful processing and analytic frameworks. </span><a href="http://www.cloudera.com/content/cloudera/en/products/cdh.html" target="_blank"><span style="color:#000000;font-family:Arial;">Learn More »</span></a>
+			</p>
+		</div>
+		<div class="text parbase section">
+			<h2>
+				<span style="color:#000000;font-family:Arial;">Cloudera Manager for Cluster Management</span>
+			</h2>
+			<p>
+				<span style="color:#000000;font-family:Arial;">Cloudera Standard includes Cloudera Manager to help you easily 
+deploy, manage, monitor and perform diagnostics on your cluster. 
+Cloudera Manager makes Hadoop administration simple and straightforward 
+so you can focus on meeting business objectives rather than operating 
+your cluster. </span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-manager.html" target="_blank"><span style="color:#000000;font-family:Arial;">Learn More »</span></a>
+			</p>
+		</div>
+		<div class="text parbase section">
+			<h2>
+				<span style="color:#000000;font-family:Arial;">Key Benefits of Cloudera Standard</span>
+			</h2>
+			<ul>
+				<li>
+					<b><span style="color:#000000;font-family:Arial;">Powerful</span></b><span style="color:#000000;font-family:Arial;"> – Store, process and analyze all your data to drive competitive advantage</span>
+				</li>
+				<li>
+					<b><span style="color:#000000;font-family:Arial;">Efficient</span></b><span style="color:#000000;font-family:Arial;"> – Hadoop unifies compute and data to improve operational efficiency</span>
+				</li>
+				<li>
+					<b><span style="color:#000000;font-family:Arial;">Open</span></b><span style="color:#000000;font-family:Arial;"> – CDH is the world’s most popular open source Hadoop distribution</span>
+				</li>
+				<li>
+					<b><span style="color:#000000;font-family:Arial;">Simple</span></b><span style="color:#000000;font-family:Arial;"> – Easy to deploy and operate with centralized administration</span>
+				</li>
+				<li>
+					<b><span style="color:#000000;font-family:Arial;">Compatible</span></b><span style="color:#000000;font-family:Arial;"> – Leverage your existing investments for rapid adoption and low TCO</span>
+				</li>
+				<li>
+					<b><span style="color:#000000;font-family:Arial;">Economical</span></b><span style="color:#000000;font-family:Arial;"> – Up to 90% more cost effective than traditional solutions</span>
+				</li>
+			</ul>
+		</div>
+		<div class="text parbase section">
+			<h2>
+				<span style="color:#000000;font-family:Arial;">Upgrade to Cloudera Enterprise for Advanced Capabilities</span>
+			</h2>
+			<p>
+				<span style="color:#000000;font-family:Arial;">Cloudera Standard gives you everything you need to evaluate Hadoop, 
+but when looking to operate the technology as a strategic piece of the 
+data management infrastructure, most customers choose to upgrade to 
+Cloudera Enterprise. Cloudera Enterprise gives you everything in 
+Cloudera Standard plus support and additional management capabilities 
+that are critical to running Hadoop in large enterprise environments. </span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-enterprise.html" target="_blank"><span style="color:#000000;font-family:Arial;">Learn More »</span></a>
+			</p>
+		</div>
+	</div>
+</div>

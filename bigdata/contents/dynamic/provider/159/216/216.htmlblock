@@ -1,0 +1,43 @@
+<div class="hero" style="padding:55px 90px;background-color:#99C246;margin-left:-90px;color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="hero-content">
+		<h1 style="color:#FFFFFF;font-weight:100;font-size:34px;">
+			大型数据
+		</h1>
+		<h4 style="font-size:18px;color:#FFFFFF;">
+			新的见解。充分发挥。
+		</h4>
+		<p style="color:#FFFFFF;font-size:16px;">
+			Windows Azure HDInsight 是一个由 Apache Hadoop 支持的大数据解决方案，通过它可挖掘新的见解并促成更明智的决策。通过 Microsoft Excel 将来自所有类型数据的这些见解传达给业务用户。
+		</p>
+	</div>
+</div>
+<div class="scenarios section active" style="color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="s1" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			丰富的遥测处理功能
+		</h2>
+		<p>
+			通过丰富的日志处理功能，获得运营方面的见解并深入了解您的客户行为。在 Blob 存储中存储日志，使用 HDInsight 分析从基本聚合到复杂的机器学习和数据挖掘中的日志。组合和混搭对日志和其他数据集的多种分析。用<a href="http://office.microsoft.com/zh-cn/excel/download-data-explorer-for-excel-FX104018616.aspx">“数据资源管理器”</a>进行进一步细化和混搭。使用 PowerPivot、Power View 和<a href="http://office.microsoft.com/zh-cn/download-geoflow-for-excel-FX104036784.aspx">“GeoFlow”</a>呈现数据。
+		</p>
+<a href="http://go.microsoft.com/fwlink/?linkid=302108&amp;clcid=0x804" class="video"><span class="desc" style="color:#666666;font-style:normal;">Halo 4 从云中的大数据带来新的见解</span></a>
+	</div>
+	<div class="s2" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			为以后产生见解作准备
+		</h2>
+		<p>
+			当前，使用 Windows Azure 保存所有数据的原始形式，无预定义架构，不进行预处理，因此成本很低。Blob 存储为所有数据类型（如日志、遥测和社交信息流）提供一种灵活的媒介。未来，使用 HDInsight 深入调查历史数据以解决新的业务问题。
+		</p>
+		<p class="quote" style="font-style:italic;font-size:12px;">
+			了解开发人员如何在 Windows Azure 中存储数据
+		</p>
+	</div>
+	<div class="s3" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			发挥数据中隐藏的价值
+		</h2>
+		<p>
+			使用 Mahout 库中的智能机器学习算法配合 HDInsight，发现隐藏在数据中的模式。应用数据聚类以找到天然形成的细分市场，或训练预测模型以预测数据中的趋势。
+		</p>
+	</div>
+</div>

@@ -1,0 +1,56 @@
+<div class="hero" style="padding:55px 90px;background-color:#5C96D2;margin-left:-90px;color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="hero-content">
+		<h1 style="color:#FFFFFF;font-weight:100;font-size:34px;">
+			标识和访问管理
+		</h1>
+		<h4 style="font-size:18px;color:#FFFFFF;">
+			云中的企业目录
+		</h4>
+		<p style="color:#FFFFFF;font-size:16px;">
+			Windows Azure Active Directory 提供一种适合企业的云标识服务，可在云和本地应用程序中实现单一登录体验。该服务可进行多重身份验证以提高安全性和合规性。
+		</p>
+	</div>
+</div>
+<div class="scenarios section active" style="color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="s1" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			云目录用于 Office 365 等
+		</h2>
+		<p>
+			用 Windows Azure Active Directory 将企业目录和标识管理引入云。集中管理员工对 Windows Azure、Microsoft Office 365、Dynamics CRM Online、Windows Intune 和其他第三方云服务的访问。允许合作伙伴和客户访问面向云的服务。Windows Azure AD 是一项适合企业的云标识服务，具有全球规模和高可用性。
+		</p>
+		<p class="video" style="font-style:italic;font-size:12px;background-color:transparent;">
+			<span class="desc" style="font-style:normal;">Georgia State University (GSU) 切换到了基于云的 Microsoft Office365 并节省了 100 万美元的经营成本，从而能够更好地支持移动和远程工作者。</span> 
+		</p>
+	</div>
+	<div class="s2" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			同步本地标识
+		</h2>
+		<p>
+			扩展本地 Windows Server Active Directory 以将现有标识无缝同步到云。自动将从企业内部发起的用户添加、删除和更改复制到 Windows Azure AD，简化管理用户和安全访问企业内部/云中资源的过程。
+		</p>
+		<p class="quote" style="font-style:italic;font-size:12px;">
+			了解组织如何在云中管理标识
+		</p>
+	</div>
+	<div class="s3" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			启用单一登录访问
+		</h2>
+		<p>
+			对于用户，可为依靠 Active Directory 联合身份验证服务或其他支持的第三方安全令牌服务的标识启用单一登录，以在企业内部与云目录之间进行联合。对于云应用程序，当您希望无需输入多次用户名和密码时，也可提供单一登录体验。
+		</p>
+		<p class="quote" style="font-style:italic;font-size:12px;background-color:transparent;">
+			医疗机构使用 Windows Azure Active Directory 管理记录
+		</p>
+	</div>
+	<div class="s4" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			利用多重身份验证保护访问
+		</h2>
+		<p>
+			利用 Windows Azure Active Authentication，可以通过要求用户使用电话呼叫、短信或移动应用程序验证登录来保护对云应用程序的访问。Active Authentication 易于设置、管理和使用，同时还额外为敏感数据和应用程序提供了一层重要保护。为 Windows Azure AD 启用 Active Authentication 或将该服务内置于云应用程序中。
+		</p>
+	</div>
+</div>

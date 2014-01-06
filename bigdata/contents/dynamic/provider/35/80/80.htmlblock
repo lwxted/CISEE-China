@@ -1,0 +1,472 @@
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;"><strong>Real-Time Loading &amp; Querying</strong></span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Hybrid In-Memory/On-Disk
+Architecture</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Unlike
+traditional RDBMS systems that hold burdensome locks on the entire database
+while data is being loaded, Vertica was designed with a unique time travel
+transactional model that ensures extremely high query concurrency, while
+simultaneously loading new data into the system. Vertica is often able to load
+data up to 10x faster than traditional row-stores as a result of this design.
+In addition, Vertica was purpose built with a hybrid in-memory/on-disk
+architecture to ensure near-real-time availability of information. We
+automatically query the in-memory and on-disk locations during an analytic
+operation, and return a single result to the requestor.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;"></span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<img src="data/provider/F3E93106-8E8D-A540-2B22-D438F1494659/33F9093F-46E7-8CD6-57CA-0AED9DE400CD/20130627120903_63827.png" alt="" /><br />
+<span style="font-size:12.0pt;font-family:Arial;"></span> 
+</h3>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Vertica’s FlexStore™</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Vertica’s
+FlexStore™ technology allows users to control different storage media tiers for
+each column of data. This allows the Vertica administrator to easily place the
+most frequently used columns in a faster storage tier, for instance SSD drives
+or ioDrives from Fusion-io. The placement of data in the optimal tier and
+location in the database is automatic from the moment it starts being loaded.</span> 
+</p>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Advanced In-Database Analytics</span> 
+</h2>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Vertica offers a robust and ever
+growing set of Advanced In-Database Analytics functionality so that customers
+can conduct the analytics computations closer to the data, and get immediate
+answers from a single place without the need to extract information to a separate
+environment for processing. Keeping the data in-database is especially critical
+as the size of data sets shifts from terabytes to petabytes and beyond.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Importantly, Vertica’s native analytic
+functions and UDF’s were also purpose-built to take full advantage of our
+unique MPP parallelism, columnar storage and execution so that they execute
+faster than on any other platform. Vertica offers full ANSI standard SQL
+support, SQL analytic functions, regular text expressions, native SQL
+extensions and a User Defined Function (UDF) framework that is rapidly
+expanding beyond the SQL Macro UDFs we offer today. All of these offer business
+analysts, developers, and administrators flexibility and simplicity so they can
+leverage the power of massive information without having a PhD in parallel
+processing. They can simply ask questions using their favorite tools.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Some of the Vertica Advanced Analytics
+features include:</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Native gap
+     filling</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Interpolation</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Event
+     window functions</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Graph
+     traversal</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">Sessionization</span> 
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">Vertica’s concise SQL syntax extension
+for using these is very straight forward so there is no need to learn and use
+another language.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:Arial;">There is a lot of talk about NoSQL, but
+it is usually not the SQL syntax that is the real problem, it is instead the
+poor performance of a traditional RDBMS beneath it. Take for example Graph
+Traversal for social network end-point analysis. A traditional RDBMS will use
+Connect By and painful many-way self-joins to get an answer, which usually only
+overload the system and fail to return the end-result. Alternatively, this can
+be done using custom data structures and procedural languages, but
+unfortunately, these are often not enterprise class and lack simplicity,
+scalability and efficient parallelism. Vertica on the other hand is able to deliver
+this eloquently and simply today using our MPP operations and efficient
+columnar join execution on sorted data with standard SQL syntax. Best of all,
+the Vertica Optimizer and Execution Engine handle all of the planning and
+parallelism for you.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Event-Based Windows</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">You
+can also use Vertica’s event-based windows to break time series data into
+windows on the fly. This is especially relevant in financial data where
+analysis might focus on specific events as triggers to other activity.
+Sessionization, a special case of event-based windows, is a feature often used
+to analyze click streams, such as identifying web browsing sessions from
+recorded web clicks during a specific period of time. Unlike brute force
+procedural methods that can achieve this, Vertica is simple, efficient, and
+massively parallel so that web sessionization can be done in an ad-hoc manner
+with various window parameters determined on the fly. Suppose for example that
+30 seconds may not be an average web visit session. Vertica can automatically
+analyze the intervals of sessions from equal IP addresses to determine what the
+average session time truly is and then tokenize or sessionize the data
+automatically based on that parameter.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Vertica
+is investing a significant amount of R&amp;D in more robust In-Database
+Analytics so that our customers will be able to perform additional statistical,
+geospatial, decision tree and several other advanced analyses of their data in
+more ways, faster using SQL or their favorite procedural programming or
+scripting language.</span> 
+</p>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Database Designer &amp; Administration Tools</span> 
+</h2>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Vertica’s
+Database Designer and Administration Tools allow for powerful tuning and
+control with minimal administration effort. In traditional database
+environments, DBAs spend a lot of time and money identifying performance
+problems and optimizing a database physical design, usually after their users
+have already encountered problems and SLAs have not been met.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Vertica’s Database Designer</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Vertica’s
+Database Designer can be run at setup and as often as wanted thereafter, while
+the system is online to proactively analyze the schema, query stream, workload
+and other statistics, automating the physical design optimization process. What
+might take DBA’s months of work in a traditional data warehouse, Vertica’s Database
+Designer can automate in a few minutes. A major benefit of Vertica’s Database
+Designer is that it can simultaneously optimize multiple tables and queries.
+Best of all, even if DBA’s and users choose not to run the Database Designer at
+all, Vertica still takes advantage of its functionality to ensure designs are
+always optimized.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Installation and Cluster Management</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Vertica’s
+Installation and Cluster Management facilities automate software upgrades,
+installation of Vertica on new (or replacement) nodes, node sparing, and
+redistribution of data and workload as elastic clusters change node count. All
+administrative operations are non-disruptive, maintaining constant data
+availability and avoiding costly downtime.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Integrate Vertica with Your
+Monitoring Environment</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Vertica
+provides an API (application programming interface) for monitoring various
+features and functions within a database in the form of system tables. System
+tables expose details about vertica operation: system load, catalog meta-data,
+query performance, fault tolerance, conditions needing DBA attention, and more.
+Since they are exposed as tables, they can be included in arbitrary SQL
+statements (for example, joined against each other or even data tables). You
+can use external monitoring tools or scripts to query the system tables and act
+upon the information as necessary. Additionally, Vertica provides SNMP events
+support to allow the database to proactively report issues to the
+administrator. These features make it very easy to extend the Vertica
+Administration Tools into your own monitoring and operations environment.</span> 
+</p>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Columnar Storage &amp; Execution</span> 
+</h2>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">It’s
+no wonder why all of the major data warehousing vendors are trying to morph
+their outdated architectures to leverage columnar technology- column stores
+offer significant gains in performance, I/O, storage footprint, and efficiency
+when it comes to analytic workloads. Why read and retrieve all columns in the
+database if you don’t need all of them?</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Vertica is the Pioneer in
+Next-Generation Column Stores</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Unlike
+traditional database vendors who struggle with retrofitting columnar storage
+into their legacy code for marginal gains, Vertica’s columnar orientation was
+deliberately designed into the core of the platform from day one. This means
+that all Vertica components are columnar-aware so that we deliver superior
+compression and encoding, better and more efficient relational join
+performance, and our engine is able to operate on this compressed columnar data
+without having to unpack it.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">All of this happens under the
+covers, so end-users and third-party tools interface with Vertica the same way
+they would with any other RDBMS. The difference is that reports run orders of
+magnitude faster against much larger data sets in Vertica, especially ad-hoc
+reports. Vertica’s native columnar storage and execution, along with Vertica’s
+advanced sorting capabilities offer all of the benefits of indexes and
+materialized views without the overhead of having to manage them.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">&nbsp;</span> 
+</p>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Aggressive Data Compression</span> 
+</h2>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Vertica
+organizes values of similar data types contiguously in memory and on disk
+enabling aggressive and simultaneous data compression and encoding for dramatic
+footprint reduction and blazingly fast parallel load and query times. Based on
+data cardinality and workloads, the <a href="http://www.vertica.com/the-analytics-platform/database-designer/">Database
+Designer</a> automatically chooses from over a dozen encoding and compression
+algorithms. Vertica’s unique sorting capability further enhances the
+compression of the data. As a result, our customers achieve more with less
+hardware.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">The Benefits of Operating on Encoded
+Data</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Vertica
+operates on encoded data which dramatically improves analytic performance by
+reducing CPU, memory, and disk I/O at processing time. Traditional RDBMS
+systems are not able to operate on compressed data. A typical row-oriented
+database system will often expand to 3-5X its original raw data size once
+auxiliary physical structures like indexes and materialized views are added.
+Vertica on the other hand will end up reducing the original data size to 1/5th
+or 1/10th its original size even with our high-availability redundancy turned
+on. Row-oriented databases that add columnar storage lack many of the benefits
+of Vertica’s compression because their smaller disk blocks are still most
+typically represented as columns and rows, e.g. mixed data types. Vertica reads
+and writes data to disk in large 1MB size blocks, which when combined with the
+compression, allow each I/O operation to deliver more – a common occurrence is
+the delivery of an entire column of data in a single I/O operation.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;"></span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">&nbsp;<img src="data/provider/F3E93106-8E8D-A540-2B22-D438F1494659/33F9093F-46E7-8CD6-57CA-0AED9DE400CD/20130627121003_18918.png" alt="" /></span> 
+</p>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Scale-Out MPP Architecture</span> 
+</h2>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">The
+speed, scale and rapid growth of today’s information exceed what even the
+largest of supercomputers could ever handle alone, which is why Massively
+Parallel Processing (MPP) systems are becoming the norm. Vertica delivers a
+simple, yet highly robust and scalable MPP solution for the masses with linear
+scaling and native high availability on industry standard hardware.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">No Single Point of Failure</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Unlike
+other MPP Analytic platforms, which are prone to failure and difficult to
+manage, Vertica has no leader nodes, and therefore no single point of failure.
+Any node in a Vertica cluster is capable of initiating loads or queries, and
+will evenly distribute the workload to other nodes when it makes sense to do
+so. Workload distribution is automatic, no DBA or user intervention required.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Like
+everything else in the Vertica platform, the MPP layer was an early and
+deliberate design decision, present in every release of Vertica from inception.
+This means every other component in Vertica is fully aware of the distributed
+processing capability, and our platform makes full use of this. Many
+traditional RDBMS vendors are attempting to bolt on MPP elements to their
+legacy SMP platforms; however, they are realizing it is much more difficult
+than just distributing the data.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Vertica’s
+scale-out MPP architecture leverages off-the-shelf, industry-standard compute
+and storage devices (servers with disks) to effectively manage scalable
+deployments at a fraction of the operational and hardware cost of proprietary
+appliance platforms. Vertica can both scale out and scale up in the event
+customers wish to deploy Vertica on a shared storage array with a larger host.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Vertica is Fully Elastic</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Vertica
+clusters grow incrementally, by simply adding servers and/or storage
+automatically and on the fly. Vertica makes it operationally simple to increase
+storage capacity and increase performance by adding compute and storage
+resources without taking Vertica offline.</span> 
+</p>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Automatic High Availability</span> 
+</h2>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Vertica offers native automatic high
+availability through a unique real-time mechanism ensuring the system will
+continue to load and analyze data even if there are hardware failures in the
+cluster. We also offer the ability to store the redundant data in different
+sort orders to deliver the same advantage a secondary index would, without the
+overhead and hassle of an index.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Robust Fault Tolerance and Recovery</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">A
+key attribute of the Vertica Analytics Platform is native high availability; a
+Vertica cluster can withstand a hardware failure with no material impact on the
+overall operation of the system. In the event of a hardware failure, Vertica
+administrators can simply pull the server from the cluster, repair the
+hardware, re-establish network connectivity, and re-insert the node into the
+cluster using Vertica’s Administration Tools. Vertica will then automatically
+handle the rest by restoring it in the background from the other nodes
+automatically. It is that simple.</span> 
+</p>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Optimizer, Execution Engine &amp; Workload Management</span> 
+</h2>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">The
+Vertica Optimizer and Execution Engine provide users the maximum performance
+from their database without worrying about the details required to get it done.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">The Vertica Optimizer</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">The
+Optimizer is the brain of the analytics platform that produces execution plans
+for queries posed by users. Vertica’s Optimizer was purpose-built to reduce the
+need for manual tuning as much as possible, understanding and choosing the
+optimal plan in the presence of several choices even for the most complex
+analytic queries. This allows the end-user to think about questions, without
+having to worry about the optimal path to the answers. Vertica supports classic
+Star and Snowflake schemas as well as any type of arbitrary schema. Vertica
+also supports multiple schemas concurrently for multi-tenancy in a variety of
+configurations, especially when used in Software as a Service (SaaS)
+deployments.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Traditional
+data warehouse optimizers usually only consider startup and disk I/O, but
+Vertica’s holistic cost model accounts for all variables in today’s
+environments – disk, CPU, memory, network, concurrency, and parallelism. It
+also takes advantage of the unique details of columnar operator and runtime
+environments. Vertica’s ability to continuously evaluate and analyze data
+patterns feeds directly into the Optimizer in a self-learning manner so that
+there is constant improvement without user intervention, even as data volumes
+and patterns change. All Vertica components, especially the Optimizer are
+modular so that they can be changed in the future without rewriting significant
+amounts of code.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">The Vertica Execution Engine</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Our
+Optimizer and Execution Engine were developed together since inception, so they
+work in lock-step. This delivers faster predicate evaluation (remember in
+Vertica the sorted columnar data is its own “index” without the burden of an
+actual index), better compression and simplified processing. Vertica’s
+Execution Engine offers advanced CPU and memory pipeline aggregation, storage
+management and compressed data operations for superior performance. A key
+component of our Execution Engine is our Tuple Mover, which enables us to
+efficiently move data from memory to disk in near real-time, while also
+collecting statistics and cleaning up purged data. This is all done
+automatically without user intervention so that concurrent loading and querying
+is seamless. You provide the data, and we’ll handle the rest.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Vertica’s Cluster-Aware Workload
+Management</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Finally,
+the Vertica Analytics Platform provides cluster-aware workload and resource
+management integrated throughout the platform, especially with the Optimizer
+and Execution Engine. This can be used to maximize varying workloads and SLA’s across an organization. In an environment where
+several thousands of concurrent users and queries of varying complexity are
+expected to run at once, Vertica can manage resources accordingly supporting
+extremely high concurrency. Contention exists between providing each query the
+maximum amount of available resource (thereby getting fastest run time for that
+particular query) and serving multiple queries simultaneously with a reasonable
+run time. The Vertica Resource Manager (RM) provides options and controls for
+resolving these scenarios while ensuring that every query gets serviced and
+true system limits are respected at all times. Best of all, these resource
+pools can be managed dynamically and with user profiles and roles, which
+reduces the burden on the DBA.</span> 
+</p>
+<h2 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">Native BI, ETL, &amp; Hadoop/MapReduce Integration</span> 
+</h2>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">As
+“big data” growth and the importance of monetizing this information continue,
+more companies are joining a growing ecosystem of data warehousing and
+analytics solutions. Not every company can provide all the necessary tools to
+make the most of your business-critical information, so <a href="http://www.vertica.com/partners/">HP partners with best-of-breed tools</a> that integrate with the HP Vertica Analytics Platform.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Through
+our standard connectors and a flexible API, HP enables you to move data into
+and out of the HP Vertica Analytics Platform, in creating reports, dashboards,
+and queries, and in developing applications that offer drastically better query
+performance and scalability. HP offers this industry-standard connectivity
+through ODBC, JDBC, ADO.Net, and our rich API as well as native integrations
+and certifications with a variety of tools like Cognos, MicroStrategy, Tableau
+and others. HP Vertica also offers an Informatica plug-in.</span> 
+</p>
+<h3 style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:Arial;">HP Vertica Hadoop Distributed File
+System (HDFS) Connector</span> 
+</h3>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">HP
+Vertica was the first analytic database company to deliver a Hadoop Connector.
+HP Vertica now offers two connectors to transfer data seamlessly between Hadoop
+and HP Vertica:</span> 
+</p>
+<ol>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">The Hadoop Distributed File
+     System (HDFS) connector enables you to load data from HDFS using the HP
+     Vertica native COPY facility. This mechanism simplifies and accelerates
+     the process of loading data stored in HDFS without any MapReduce coding.
+     The connector also ensures that data is loaded from the Hadoop cluster
+     with the optimal amount of parallelism. By using the connector with the HP
+     Vertica External Tables feature, you can even query data in HDFS without
+     copying data into HP Vertica.</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:Arial;">The Hadoop &amp; Pig Connector
+     is bidirectional and enables you to move data from Hadoop to HP Vertica or
+     vice versa via either MapReduce or Pig jobs.</span> 
+	</li>
+</ol>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">With
+HP Vertica HDFS and Pig Connectors, you have unprecedented flexibility and
+speed in loading data from HDFS to the HP Vertica Analytics Platform and
+querying data from the HP Vertica Analytics Platform in Hadoop. The HP Vertica
+HDFS and Pig Connectors are open source, supported by HP Vertica, and available
+for <a href="http://my.vertica.com/downloads">download</a>.</span> 
+</p>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">HP
+Vertica provides optimized JDBC and ODBC client drivers for most platforms
+including Windows, Linux, Solaris, AIX, and others.</span> 
+</p>

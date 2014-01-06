@@ -1,0 +1,216 @@
+<h2>
+	<span style="color:#000000;font-family:Arial;">The Apache Mahout™ machine learning library's goal is to build scalable machine learning libraries.</span>
+</h2>
+<div class="highlights">
+	<h4>
+		<span style="color:#000000;font-family:Arial;">Mahout currently has</span>
+	</h4>
+	<ul>
+		<li>
+			<span style="color:#000000;font-family:Arial;">Collaborative Filtering</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">User and Item based recommenders</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">K-Means, Fuzzy K-Means clustering</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">Mean Shift clustering</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">Dirichlet process clustering</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">Latent Dirichlet Allocation</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">Singular value decomposition</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">Parallel Frequent Pattern mining</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">Complementary Naive Bayes classifier</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">Random forest decision tree based classifier</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">High performance java collections (previously colt collections)</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">A vibrant community</span>
+		</li>
+		<li>
+			<span style="color:#000000;font-family:Arial;">and many more cool stuff to come by this summer thanks to Google summer of code</span>
+		</li>
+	</ul>
+</div>
+<p>
+	<span style="color:#000000;font-family:Arial;">With scalable we mean:</span>
+</p>
+<p>
+	<span style="color:#000000;font-family:Arial;">Scalable to reasonably large data sets. Our core algorithms for clustering, classfication and batch based
+    collaborative filtering are implemented on top of Apache Hadoop using the map/reduce paradigm. However we do not
+    restrict contributions to Hadoop based implementations: Contributions that run on a single node or on a non-Hadoop
+    cluster are welcome as well. The core libraries are highly optimized to allow for good performance also for
+    non-distributed algorithms</span>
+</p>
+<p>
+	<span style="color:#000000;font-family:Arial;">Scalable to support your business case. Mahout is distributed under a commercially friendly Apache Software
+    license.</span>
+</p>
+<p>
+	<span style="color:#000000;font-family:Arial;">Scalable community. The goal of Mahout is to build a vibrant, responsive, diverse community to facilitate
+    discussions not only on the project itself but also on potential use cases. Come to the mailing lists to find out
+    more.</span>
+</p>
+<p>
+	<span style="color:#000000;font-family:Arial;">Currently Mahout supports mainly four use cases: Recommendation mining takes users' behavior and from that tries to
+    find items users might like. Clustering takes e.g. text documents and groups them into groups of topically related
+    documents. Classification learns from exisiting categorized documents what documents of a specific category look
+    like and is able to assign unlabelled documents to the (hopefully) correct category. Frequent itemset mining takes a
+    set of item groups (terms in a query session, shopping cart content) and identifies, which individual items usually
+    appear together.</span>
+</p>
+<p>
+	<span style="color:#000000;font-family:Arial;">Interested in helping? See the </span><a href="http://cwiki.apache.org/confluence/display/MAHOUT/Developer+Resources"><span style="color:#000000;font-family:Arial;">wiki</span></a><span style="color:#000000;font-family:Arial;"> or join the </span><a href="http://cwiki.apache.org/confluence/display/MAHOUT/Mailing+Lists%2C+IRC+and+Archives"><span style="color:#000000;font-family:Arial;">mailing lists</span></a><span style="color:#000000;font-family:Arial;">.</span>
+</p>
+<h1>
+	<span style="color:#000000;font-family:Arial;">Mahout News</span>
+</h1>
+<h2 class="boxed">
+	<span style="color:#000000;font-family:Arial;">16 June 2012 - Apache Mahout 0.7 released</span>
+</h2>
+<p>
+	<span style="color:#000000;font-family:Arial;">Apache Mahout has reached version 0.7. All developers are encouraged to begin using version
+  0.7. Highlights include:</span>
+</p>
+<ul>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Outlier removal capability in K-Means, Fuzzy K, Canopy and Dirichlet Clustering</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">New Clustering implementation for K-Means, Fuzzy K, Canopy and Dirichlet using Cluster Classifiers</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Collections and Math api consolidated</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">(Complementary) Naive Bayes refactored and cleaned</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Watchmaker and Old Naive Bayes dropped.</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Many bug fixes, refactorings, and other small improvements</span>
+	</li>
+</ul>
+<p>
+	<span style="color:#000000;font-family:Arial;">Changes in 0.7 are detailed in the </span><a href="https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12310751&amp;version=12319261"><span style="color:#000000;font-family:Arial;">release notes</span></a><span style="color:#000000;font-family:Arial;">.</span>
+</p>
+<p>
+	<span style="color:#000000;font-family:Arial;">Downloads of all releases available from </span><a href="http://www.apache.org/dyn/closer.cgi/mahout/"><span style="color:#000000;font-family:Arial;">Apache mirrors</span></a><span style="color:#000000;font-family:Arial;">.</span>
+</p>
+<h2 class="boxed">
+	<span style="color:#000000;font-family:Arial;">6 Feb 2012 - Apache Mahout 0.6 released</span>
+</h2>
+<p>
+	<span style="color:#000000;font-family:Arial;">Apache Mahout has reached version 0.6. All developers are encouraged to begin using version
+  0.6. Highlights include:</span>
+</p>
+<ul>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Improved Decision Tree performance and added support for regression problems</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">New LDA implementation using Collapsed Variational Bayes 0th Derivative Approximation</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Reduced runtime of LanczosSolver tests</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">K-Trusses, Top-Down and Bottom-Up clustering, Random Walk with Restarts implementation</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Reduced runtime of dot product between vectors</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Added MongoDB and Cassandra DataModel support</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Increased efficiency of parallel ALS matrix factorization</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">SSVD enhancements</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Performance improvements in RowSimilarityJob, TransposeJob</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Added numerous clustering display examples</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Many bug fixes, refactorings, and other small improvements</span>
+	</li>
+</ul>
+<p>
+	<span style="color:#000000;font-family:Arial;">Changes in 0.6 are detailed in the </span><a href="https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12310751&amp;version=12316364"><span style="color:#000000;font-family:Arial;">release notes</span></a><span style="color:#000000;font-family:Arial;">.</span>
+</p>
+<p>
+	<span style="color:#000000;font-family:Arial;">Downloads of all releases available from </span><a href="http://www.apache.org/dyn/closer.cgi/mahout/"><span style="color:#000000;font-family:Arial;">Apache mirrors</span></a><span style="color:#000000;font-family:Arial;">.</span>
+</p>
+<h2 class="boxed">
+	<span style="color:#000000;font-family:Arial;">9 Oct 2011 - Mahout in Action released</span>
+</h2>
+<p>
+	<span style="color:#000000;font-family:Arial;">At last, the book Mahout in Action is available in print. Sean Owen, Robin Anil, Ted Dunning
+  and Ellen Friedman thank the community (especially those who were reviewers) for input during the
+  process and hope it is enjoyable.</span>
+</p>
+<p>
+	<span style="color:#000000;font-family:Arial;">Find it at your favorite bookstore, or </span><a href="http://manning.com/owen/"><span style="color:#000000;font-family:Arial;">order print and eBook copies from Manning</span></a><span style="color:#000000;font-family:Arial;"> --
+  use discount code "mahout37" for 37% off.</span>
+</p>
+<h2 class="boxed">
+	<span style="color:#000000;font-family:Arial;">27 May 2011 - Apache Mahout 0.5 released</span>
+</h2>
+<p>
+	<span style="color:#000000;font-family:Arial;">Apache Mahout has reached version 0.5. All developers are encouraged to begin using version 0.5, as
+  again much has changed and been fixed since version 0.4. Many APIs have been changed, added or removed,
+  and will continue before version 1.0. Highlights of version 0.5 include:</span>
+</p>
+<ul>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Improved Lanczos solver: graceful restarts, better scalability</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">LDA improvements: document-topic distribution output, graceful restarts</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Stochastic Singular Value Decomposition implementation</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Incremental SVD implementation</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Alternating Least Squares with Weighted Regularization collaborative filtering implementation,
+      both distributed and non-distributed</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">SVDRecommender enhancements</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Initial work at merging clustering and classification infrastructure</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Better control over candidate item selection in item-based recommenders</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Significant removal of deprecated or dead code</span>
+	</li>
+	<li>
+		<span style="color:#000000;font-family:Arial;">Many bug fixes, refactorings and other small improvements</span>
+	</li>
+</ul>

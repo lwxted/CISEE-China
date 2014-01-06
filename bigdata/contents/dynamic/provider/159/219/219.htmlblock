@@ -1,0 +1,76 @@
+<div class="hero" style="padding:55px 90px;background-color:#4469B4;margin-left:-90px;color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="hero-content">
+		<h1 style="color:#FFFFFF;font-weight:100;font-size:34px;">
+			数据管理
+		</h1>
+		<h4 style="font-size:18px;color:#FFFFFF;">
+			完整而灵活的数据服务
+		</h4>
+		<p style="color:#FFFFFF;font-size:16px;">
+			从 SQL Database 到 Blob 再到表，Windows Azure 可提供符合您的数据需求的解决方案。利用现有技能，并实现 Windows Azure 数据服务的可伸缩性、灵活性和成本效益。
+		</p>
+	</div>
+</div>
+<div class="scenarios section active" style="color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="s1" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			针对 SQL Server 的可靠的基础结构
+		</h2>
+		<p>
+			使用完善的 Microsoft SQL Server 功能开发并测试新的云应用程序，或借助 Windows Azure 虚拟机和虚拟网络的坚实基础迁移现有的本地应用程序以降低成本。另外，您可以发掘新的混合方案，例如本地数据的基于云的备份。另一个混合示例是在本地部署 SQL Server AlwaysOn 主数据库，并在 Windows Azure 虚拟机中部署基于云的辅助数据库。
+		</p>
+		<p class="quote" style="font-style:italic;font-size:12px;">
+			“服务中的基础结构一下子就为人所熟知，并且它似乎日益繁荣。您可以运行 SQL Server。您可以分析服务。您可以在云中实现企业级 BI。”<span class="author" style="font-style:normal;">Steve Novosellac - Trek 的 IT 经理</span>
+		</p>
+	</div>
+	<div class="s2" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			可缩放的全球业务应用程序
+		</h2>
+		<p>
+			针对峰值负荷和全球到达能力设计业务应用程序，并避免为偶尔出现的负载峰值构建基础结构所产生的高成本。将应用程序的一部分或全部移至 Windows Azure SQL Database，从而以较低成本实现对大规模的支持。
+		</p>
+		<p class="quote" style="font-style:italic;font-size:12px;">
+			Flavorus 已从知道其服务器会在密集销售活动期间崩溃变为能够在一分钟内销售 900,000 张票。该公司已实现超过其需要的更大伸缩性。“已证明 Windows Azure 是黄金入场券。”<span class="trianglelink grey">了解更多</span>
+		</p>
+	</div>
+	<div class="s3" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			本地合规性与扩展到云
+		</h2>
+		<p>
+			具有严格数据策略的客户可以两全其美，方法是将受策略约束的敏感数据保存在本地，而将其应用程序的一部分扩展到 SQL Database 以增加创新、缩放和灵活性。
+		</p>
+		<p class="quote" style="font-style:italic;font-size:12px;">
+			“SQL Azure 中的防火墙和安全配置非常棒。我们的基于云的服务现在与我们的基于数据中心的服务一样安全。”<span class="author" style="font-style:normal;">Devan Govender - BetOnSoft 的首席软件架构师</span>
+		</p>
+	</div>
+	<div class="s4" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			可容纳大型和小型数据的新式数据仓库
+		</h2>
+		<p>
+			使用 Windows Azure HDInsight 从您的现有本地关系数据仓库或通过将其与 Hadoop 中的非关系数据结合，来轻松且经济高效地获取见解 - 从以前不可访问的数据获取新见解。
+		</p>
+<a href="http://go.microsoft.com/fwlink/?linkid=302108&amp;clcid=0x804" class="video"><span class="desc" style="color:#666666;font-style:normal;">Halo 4 通过云中的大型数据带来新的见解</span></a>
+	</div>
+	<div class="s5" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			快速、便宜的非关系存储
+		</h2>
+		<p>
+			对于希望使用可高度缩放的非关系存储扩展 Web、云和社交媒体应用程序的客户，Windows Azure 表可按需自动缩放且价位较低。
+		</p>
+		<p class="quote" style="font-style:italic;font-size:12px;">
+			“爬网卓越性是我们的一个关键竞争优势；客户希望我们 100% 可靠，并在瞬间交付结果，”<span class="author" style="font-style:normal;">Vsevolod Vanchikov - Medialogia 的首席技术官</span>
+		</p>
+	</div>
+	<div class="s6" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			应用程序存储或冷存储 - 您的选择
+		</h2>
+		<p>
+			将非结构化数据存储集成到您的新式应用程序设计中。现在，您可以经济高效地在 Windows Azure Blob 服务中存储图像、PDF、视频等内容。或者，利用地理冗余数据存储的价格点。
+		</p>
+	</div>
+</div>

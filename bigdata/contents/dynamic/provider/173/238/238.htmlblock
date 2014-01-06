@@ -1,0 +1,67 @@
+<h1 class="title" id="page-title">
+	<span style="color:#000000;">MongoDB Overview</span> 
+</h1>
+<p>
+	<span style="color:#000000;">MongoDB is the </span><a href="http://www.10gen.com/leading-nosql-database"><span style="color:#000000;">leading NoSQL database</span></a><span style="color:#000000;">.
+ Designed for how we build and run applications today, MongoDB (named 
+from "huMONGOus," meaning "extremely large") empowers organizations to 
+be more agile and scalable. It enables new types of applications, better
+ customer experience, faster time to market and lower costs for </span><a href="http://www.10gen.com/customers"><span style="color:#000000;">organizations of all sizes</span></a><span style="color:#000000;">.</span> 
+</p>
+<p>
+	<span style="color:#000000;">MongoDB is a general purpose, open-source database. It features:</span> 
+</p>
+<ul>
+	<li>
+		<span style="color:#000000;">Document data model with dynamic schemas</span> 
+	</li>
+	<li>
+		<span style="color:#000000;">Full, flexible index support and rich queries</span> 
+	</li>
+	<li>
+		<span style="color:#000000;">Auto-Sharding for horizontal scalability</span> 
+	</li>
+	<li>
+		<span style="color:#000000;">Built-in replication for high availability</span> 
+	</li>
+	<li>
+		<span style="color:#000000;">Text search</span> 
+	</li>
+	<li>
+		<span style="color:#000000;">Advanced security</span> 
+	</li>
+	<li>
+		<span style="color:#000000;">Aggregation Framework and MapReduce</span> 
+	</li>
+	<li>
+		<span style="color:#000000;">Large media storage with GridFS</span> 
+	</li>
+</ul>
+<p>
+	<span style="color:#000000;">Instead of storing data in rows and columns as one would with a relational database, MongoDB stores a </span><a href="http://www.10gen.com/json-and-bson"><span style="color:#000000;">binary form of JSON documents (BSON)</span></a><span style="color:#000000;">. Relational databases impose flat, rigid schemas across many tables. By contrast, MongoDB is an agile </span><a href="http://www.10gen.com/nosql"><span style="color:#000000;">NoSQL</span></a><span style="color:#000000;"> database that allows schemas to vary across documents and to change 
+quickly as applications evolve, while still providing the functionality 
+developers expect from relational databases, such as secondary indexes, a
+ full query language and strong consistency.</span> 
+</p>
+<p>
+	<img alt="MongoDB architecture diagram" src="http://www.10gen.com/sites/default/files/media/Architecture%20v4.png" style="width:500px;height:347px;" /> 
+</p>
+<p>
+	<span style="color:#000000;">MongoDB is built for scalability, performance and high availability. 
+Auto-sharding allows MongoDB to scale from single server deployments to 
+large, complex multi-data center architectures. Leveraging native 
+caching and RAM, MongoDB provides high performance for both reads and 
+writes. Built-in replication with automated failover enables 
+enterprise-grade reliability and operational flexibility. MongoDB also 
+provides native, idiomatic drivers for all popular programming languages
+ and frameworks to make development natural.</span> 
+</p>
+<p>
+	<span style="color:#000000;">Learn more about </span><a href="http://www.10gen.com/products/mongodb-enterprise/whats-new-2.4"><span style="color:#000000;">What's New in MongoDB 2.4</span></a><span style="color:#000000;">.</span> 
+</p>
+<h2>
+	<span style="color:#000000;">MongoDB Editions</span> 
+</h2>
+<p>
+	<a href="http://www.10gen.com/products/mongodb-enterprise"><span style="color:#000000;">MongoDB Enterprise</span></a><span style="color:#000000;"> is the commercial edition of MongoDB that includes enterprise-grade capabilities. It is available as part of the </span><a href="http://www.10gen.com/products/mongodb-subscriptions"><span style="color:#000000;">MongoDB Enterprise Subscription</span></a><span style="color:#000000;">.</span> 
+</p>

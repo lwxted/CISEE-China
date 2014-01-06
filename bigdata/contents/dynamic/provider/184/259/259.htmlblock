@@ -1,0 +1,153 @@
+<p>
+	<strong><span style="font-size:24px;">Don't try this at home.</span></strong><span style="color:#5E5E5E;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;font-size:23px;line-height:35px;background-color:#FFFCF9;"><span style="font-size:24px;">&nbsp;</span></span> 
+</p>
+<p>
+	<span style="color:#5E5E5E;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;font-size:23px;line-height:35px;background-color:#FFFCF9;"><br />
+</span> 
+</p>
+<p>
+	<span style="color:#5E5E5E;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;font-size:23px;line-height:35px;background-color:#FFFCF9;">Writing a SQL query is easy. So is building a spreadsheet. Creating a scalable, performant, flexible, maintainable, low-overhead data analysis platform is not.</span>&nbsp;
+</p>
+<div>
+	<br />
+</div>
+<div>
+	<br class="Apple-interchange-newline" />
+<a class="platform-highlight-area highlight"></a><a class="platform-highlight-area"></a><a class="platform-highlight-area"></a><a class="platform-highlight-area"></a><a class="platform-highlight-area"></a><a class="platform-highlight-area"></a><a class="platform-highlight-area"></a><a class="platform-highlight-area"></a><a class="platform-highlight-area"></a><a class="platform-highlight-area"></a> 
+	<div class="platform" style="padding:0px 0px 0px 238px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+		<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+			SQL Databases
+		</h4>
+		<p style="font-size:1em;background-color:transparent;">
+			If you run an online business, it’s likely that your data lives in a SQL database somewhere. RJMetrics pulls data from major SQL-based database platforms via our<a href="https://rjmetrics.com/connectors/sql-database-connectors">SQL database connectors</a>&nbsp;and loads it into our warehouse.
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			Our SQL database connectors are able to adapt to the table structure, data size, and physical schema layout you use. We can connect directly to your production environment or to a slave machine.
+		</p>
+	</div>
+	<div class="platform active" style="padding:0px 0px 0px 238px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+		<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+			NoSQL Databases
+		</h4>
+		<p style="font-size:1em;background-color:transparent;">
+			NoSQL databases are becoming increasingly common tools for online businesses, and present unique challenges to data analysts. Querying a NoSQL database requires a completely different skillset, and integration of NoSQL data with SQL-based data requires significant engineering effort.
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			RJMetrics NoSQL Database Connectors hook into leading NoSQL databases and pull data into the RJMetrics Data Warehouse. From there, analysts can integrate it with their other data sources and work with it using familiar, graphical and SQL-based tools.
+		</p>
+	</div>
+	<div class="platform" style="padding:0px 0px 0px 238px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+		<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+			Cloud Applications
+		</h4>
+		<p style="font-size:1em;background-color:transparent;">
+			Chances are your business has a lot of data stored by third-party service providers like payment processors, CRM systems, help desk management tools, and e-mail service providers. And while service delivery via the cloud has significant advantages, it creates serious problems for data analysts. Often, analysts are limited to pre-built reports or awkward CSV export processes to get the data they need.
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			RJMetrics cloud connectors hook directly to cloud-based applications and pull the raw data from those platforms. Analysts can then integrate it with the rest of their organization’s data and use a common set of tools to analyze it.
+		</p>
+	</div>
+	<div class="platform" style="padding:0px 0px 0px 238px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+		<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+			Import API
+		</h4>
+		<p style="font-size:1em;background-color:transparent;">
+			No two businesses are the same, and no two businesses need the same metrics. Whatever custom data you have, RJMetrics can store it and analyze it. Send your data to the Data Import API, and you’ll be up and running in no time.
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			Check out the&nbsp;<a href="http://http/developers.rjmetrics.com/" target="_blank">developer resources page</a>&nbsp;to learn more about integrating your own custom data source.
+		</p>
+	</div>
+	<div class="platform" style="padding:0px 0px 0px 238px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+		<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+			Replication &amp; Transformation
+		</h4>
+		<p style="font-size:1em;background-color:transparent;">
+			Transactional systems are great for processing orders, maintaining consistency, and running your entire online experience from beginning to end. They’re not good at crunching through reams of big data.
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			Our replication system primes the RJMetrics pipeline with data from any source, all flowing through a common, public API. The data then moves into our transformation layer where we perform aggregations and computations, adding supplemental data through tools like our currency and time zone converters. Finally, the data flows out to the data warehouse where it is cached and ready for reporting and analysis.
+		</p>
+	</div>
+	<div class="platform" style="padding:0px 0px 0px 238px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+		<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+			Data Warehouse &amp; Storage
+		</h4>
+		<p style="font-size:1em;background-color:transparent;">
+			The core of the RJMetrics platform is multi-tenant, horizontally scalable data warehouse. Maintained on our own custom hardware by our team of expert data engineers, the data warehouse is what gives you the ability to combine all your data sources together, no matter the structure, and uncover insights that you can’t get from reporting within a single tool.
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			The RJMetrics Data Warehouse stores billions of records from hundreds of clients and lives on a cluster of high-performance, high-reliability servers, deep within a retired nuclear silo.*
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			<em>*Nuclear silo hosting facility is available at an additional fee.</em> 
+		</p>
+	</div>
+	<div class="platform" style="padding:0px 0px 0px 238px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+		<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+			High-Performance Caching
+		</h4>
+		<p style="font-size:1em;background-color:transparent;">
+			Waiting around while SQL queries return from the server isn’t much fun. We make sure you don’t have to.
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			Every time you load a dashboard in RJMetrics, you’re loading data across many queries, many tables, and likely multiple distinct data sources. To ensure your dashboards load lightning fast,&nbsp;<strong>we pre-calculate and cache every single query and every single chart in our high-performance caching layer</strong>.
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			When you go to load your dashboards, export data, and send automated email reports, you’ll have speedy response times because everything is serving directly from this pre-calculated cache.
+		</p>
+	</div>
+	<div class="platform" style="padding:0px 0px 0px 238px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+		<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+			Data Visualization
+		</h4>
+		<p style="font-size:1em;background-color:transparent;">
+			RJMetrics’ custom dashboarding solution is a flexible, user-friendly mechanism to view and explore your data. Easily reconfigure existing charts, create charts from scratch, and customize the layout of whole dashboards—everything in the RJMetrics visualization layer is customizable. And once you’ve built the perfect reports, share them with others on your team to keep everyone on the same page.
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			Our dashboards provide a straightforward, intuitive way for you to stay on top of what’s important to your business.&nbsp;<a href="http://rjmetrics.wistia.com/medias/bfgv7k4dqk" target="_blank">Take a look at the video to see them in action →</a> 
+		</p>
+	</div>
+	<div class="platform" style="padding:0px 0px 0px 238px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+		<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+			CSV &amp; XLS Export
+		</h4>
+		<p style="font-size:1em;background-color:transparent;">
+			Need to quickly dump some data to a CSV or XLS file? No problem. Every single chart in RJMetrics allows you to export the data found within to a file so that you can do you own ad-hoc analysis or load it into your email marketing or CRM tools.
+		</p>
+	</div>
+	<div class="platform" style="padding:0px 0px 0px 238px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+		<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+			Automated Email Reports
+		</h4>
+		<p style="font-size:1em;background-color:transparent;">
+			There are some metrics that are so important that you should probably see them in your email every day. And there are some executives in your company who will never log into a dashboard, no matter how many times you suggest it. Fortunately, RJMetrics provides automated email reports so that both you and your boss can stay on top of the numbers that matter.
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			Email reports are completely customizable. Just use the chart builder you already know and love to define the reports and add them into an email template.
+		</p>
+	</div>
+	<div class="platform" style="padding:0px 0px 0px 238px;font-size:18px;margin:0px;background-color:#FFFCF9;font-family:proxima-nova, Helvetica, 'Lucida Sans', Arial, sans-serif;color:#777777;">
+		<h4 style="font-size:1.25em;background-color:transparent;color:#555555;">
+			Data Export API
+		</h4>
+		<p style="font-size:1em;background-color:transparent;">
+			Once you’ve analyzed your data and found the insights you need, it’s time to take action. Conne
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			<br />
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			<br />
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			<br />
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			<br />
+		</p>
+		<p style="font-size:1em;background-color:transparent;">
+			<br />
+		</p>
+	</div>
+</div>

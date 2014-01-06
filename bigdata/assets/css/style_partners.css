@@ -1,0 +1,13 @@
+.table-partners-reseller thead tr th:first-child,
+.table-partners-reseller tbody tr td:first-child {
+	width: 100px;	
+}
+
+.table-partners-reseller {
+	margin-bottom: 50px;
+}
+
+.table-partners-coop thead tr th:first-child,
+.table-partners-coop tbody tr td:first-child {
+	width: 125px;
+}

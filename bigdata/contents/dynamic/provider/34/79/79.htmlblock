@@ -1,0 +1,247 @@
+<h1 style="margin-left:0cm;">
+	<span style="font-size:12pt;font-family:Arial;">Data Warehouse Offload</span> 
+</h1>
+<p style="margin-left:0cm;">
+	<span style="font-family:Arial;">Data warehouses are integral to enterprises that want to glean business insights from customer and operational data. To tackle Big Data, which brings larger volumes, faster velocity and a wider variety of data to enterprise decision making, companies are increasingly looking to offload their data warehouse-bound data onto cost-effective alternatives such as <a href="http://www.mapr.com/products/apache-hadoop">Apache Hadoop</a>. Hadoop, on average, provides 50x cost savings over data warehouse solutions and Hadoop also provides a wide array of analytical tools that can process the influx of structured, semi-structured and unstructured data.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">&nbsp;<img alt="" src="data/provider/EBDBED07-52F5-EB2D-C3F4-A364BE852989/B5716F38-9DD7-66BC-0A92-AD76342157E6/20130626155055_68029.png" /></span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;"></span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">&nbsp;</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">While Hadoop can provide cost advantages over a traditional data warehouse, <a href="http://www.mapr.com/products">MapR’s platform</a> for Hadoop delivers capabilities <a href="http://www.mapr.com/products/only-with-mapr">beyond what other distributions can provide</a>:</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;color:#00467f;font-family:Arial;">Enterprise-Grade Platform</span></b><span style="font-size:12pt;font-family:Arial;"><br />
+A failure tolerant enterprise-grade platform is essential. A Hadoop platform that does not provide the same level of data protection and disaster recovery as a traditional data warehouse limits the amount of data that can be offloaded. MapR is the only Hadoop-based platform in the market that provides 99.999% HA, full data protection and disaster recovery along with instant node recovery and rolling upgrades. With these features, data can be offloaded for the long term.</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;color:#00467f;font-family:Arial;">Easy Integration</span></b><span style="font-size:12pt;font-family:Arial;"><br />
+MapR works with industry-standard interfaces over a 100% random read-write POSIX compliant platform. This means that users can continue to use existing tools and products directly with MapR and not develop or obtain special connectors. A <a href="http://www.mapr.com/products/only-with-mapr/direct-access-nfs">MapR Hadoop cluster can be mounted using NFS</a>; users can directly stream data into and out of a cluster.</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;color:#00467f;font-family:Arial;">Superior ROI</span></b><span style="font-size:12pt;font-family:Arial;"><br />
+With MapR, organizations can offload data with the same protection and HA features that are used to protect it in a data warehouse, greatly expanding the ROI. MapR can also scale to handle 10,000 times more files per cluster than other distributions and deliver higher performance to perform ETL faster. MapR holds two world records for performance – both the <a href="http://www.mapr.com/company/press-releases/google-compute-engine-and-mapr-technologies-crush-minutesort-record">Hadoop MinuteSort</a> and <a href="http://www.mapr.com/blog/record-setting-hadoop-in-the-cloud">TeraSort records</a> - and delivers the best hardware utilization for its users.</span> 
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12pt;font-family:Arial;">Financial Services</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">The Financial Services industry has been rapidly adopting Hadoop for a range of use cases that impact revenue, costs, risk and compliance.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">Financial Services use cases for Hadoop Include:</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Customer insights</span></b><span style="font-size:12pt;font-family:Arial;"> - Large financial service providers have adopted Hadoop to improve customer profile analysis to help determine eligibility for equity capital, insurance, mortgage or credit.</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Fraud detection and analysis</span></b><span style="font-size:12pt;font-family:Arial;"> - Hadoop provides a scalable method to more easily detect many types of fraud or loss prevention, and perform effective risk management. Hadoop is also being used to develop models that predict future fraud events.</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Micro targeting</span></b><span style="font-size:12pt;font-family:Arial;"> - Banks have numerous disparate data systems (e.g., loans, mortgages, investments) that need to be aggregated in order to provide an up-to-date view on customer profitability, consistent CRM, and customized product recommendations and offerings.</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Risk Mitigation</span></b><span style="font-size:12pt;font-family:Arial;"> - Hadoop is used to analyze potential market trends and understand future possibilities to mitigate the risk of financial positions, total portfolio assets, and capital returns.</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Web-scale Analysis</span></b><span style="font-size:12pt;font-family:Arial;"> - Hadoop is used to analyze what is being said on the web at large and on social networks in particular. Sentiment can apply to individual companies or products or reflect general customer satisfaction. This has potential to improve marketing to existing customers through better targeting.</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Trade Analysis</span></b><span style="font-size:12pt;font-family:Arial;"> - Financial service firms use Hadoop to analyze the daily streams of transaction data in conjunction with unstructured news or social media feeds, or to back-test their trading algorithms.</span> 
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12pt;font-family:Arial;">Healthcare</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">Today’s healthcare companies are using Hadoop to build healthcare platforms that can store and analyze large data sets, consisting of billions of objects. Organizations also need to be able to search and analyze disparate data sources such as patient populations, treatment protocols, and clinical outcomes to accelerate discovery and insight.</span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">Healthcare Applications relying on Hadoop include:</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Health information exchange</span></b><span style="font-size:12pt;font-family:Arial;"> - Providers need to manage and share patient electronic health care records from mixed data sources (e.g., images, treatments, demographics) among the medical provider community. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Healthcare service quality improvements and reduce number of hospitalizations</span></b><span style="font-size:12pt;font-family:Arial;"> - Improve Healthcare service quality and reduce number of hospitalizations. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Drug Safety</span></b><span style="font-size:12pt;font-family:Arial;"> - Healthcare professionals need to understand drug safety and toxicity (e.g. interaction between drugs). </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Drug Development</span></b><span style="font-size:12pt;font-family:Arial;"> - Researchers need to make the drug development process more efficient by shortening testing time and reducing time spent on drugs with a low likelihood of success in order to get revenue-generating drugs to the market more quickly. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Personalized Medicine</span></b><span style="font-size:12pt;font-family:Arial;"> - Targeted genetic sequencing of patients and tumors as well as gut biomes is beginning to provide real advances in treatment selection and detailed prognosis. However, this is causing an explosion in data sizes. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">N-of-1 Studies</span></b><span style="font-size:12pt;font-family:Arial;"> - Massive scale data collection is enabling highly detailed empirical examination and prediction of individual patient treatment responses, allowing investigations to proceed with dramatically smaller trial populations. </span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12pt;font-family:Arial;">Information Services</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">The Hadoop platform was designed to solve problems with inherent volumes and variety of data, including a mixture of unstructured and structured data. Hadoop benefits all companies that perform deep and computationally extensive analytics. Examples include:</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Customer experience analytics</span></b><span style="font-size:12pt;font-family:Arial;"> - Corporations need to provide more accurate and faster analytics around customer interactions by pulling from more data sources and processing the information faster. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Customer lifecycle management</span></b><span style="font-size:12pt;font-family:Arial;"> - Many organizations have a need to perform true root-cause analysis of customer churn and to identify and implement targeted actions to help reduce turnover. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Risk Management</span></b><span style="font-size:12pt;font-family:Arial;"> - Two of the largest areas for Hadoop usage across industries include fraud detection and data security. Fraud detection requires the ongoing processing of large and varied data sets to recognize fraud signatures. IT groups also need to protect the organization from internal and external threats. A growing number and variety of attacks require Hadoop deployments to deliver faster and more accurate detection and prevention solutions. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Analytic-ready, low cost, scalable storage</span></b><span style="font-size:12pt;font-family:Arial;"> - Many use cases call for low cost, commodity hardware and Hadoop to store large amounts of data. This can include the storage of transactional data, social media data, sensor data, scientific data, emails, etc. </span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12pt;font-family:Arial;">Manufacturing</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">Hadoop is being widely adopted by the Manufacturing industry for a broad range of uses that impact the bottom line, including:</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Service management</span></b><span style="font-size:12pt;font-family:Arial;"> - The proliferation of sensors and the corresponding ability to effectively analyze large data feeds across customer locations and product SKUs, has resulted in more effective and efficient service management. For example, automotive manufacturers can equip cars with a variety of sensors to help dealers and service centers understand vehicle usage and service requirements, while also leveraging customer demographics to improve targeted offerings and outreach (e.g. insurance).</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Operations</span></b><span style="font-size:12pt;font-family:Arial;"> - Hadoop can also improve the post-sales maintenance process. The manufacturing industry is adding sensors to equipment to provide increasing levels of data on the operations of this equipment. Collecting and analyzing the data improves the maintenance process and increase overall product quality while reducing costs.</span> 
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12pt;font-family:Arial;">Media &amp; Entertainment</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">In the competitive media and entertainment landscape, the effectiveness of information plays a critical role. Companies rely on Hadoop for the following applications:</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Customer Insights</span></b><span style="font-size:12pt;font-family:Arial;"> - Media and branding companies need to better understand market segments and consumer personal preferences and behavior to better match each brand to its segment, and help companies improve sales. This can allow test marketing to be done in real-time or allow segment optimization to be based on real data, instead of intuitive decisions. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Marketing decision system</span></b><span style="font-size:12pt;font-family:Arial;"> - Companies need to process all available data to provide online advertisers, marketers, and agencies the ability to better identify and target high-value custom audiences that share similar lifestyles, values, and purchasing habits. Many of these decisions have to be adapted in real-time to allow fast changing trends to be tracked. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Customer lifecycle management</span></b><span style="font-size:12pt;font-family:Arial;"> - Hadoop is used to optimize customer retention and new product adoption within cable, satellite and other media service producers. Churn management programs have to be based on near real-time data since many churn mechanisms move from first detection to customer loss in a very short period of time. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Effective and personal web content delivery</span></b><span style="font-size:12pt;font-family:Arial;"> - Organizations are using Hadoop to adjust the content served to each user, to attract and retain users, and thereby improve sales and usage volume. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Pricing analytics and Choice Modeling</span></b><span style="font-size:12pt;font-family:Arial;"> - Corporations are investigating ways to leverage Hadoop to dynamically determine pricing for everything from game tickets, to web-based games, musics, and videos. As an example, game ticket prices are now based on a broad number of variables such as weather, team rivalries, etc. In addition to price, the entire sales process can be optimized, including the offering of supporting products, add-ons and up-sells. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Customer experience analytics</span></b><span style="font-size:12pt;font-family:Arial;"> - This is an area experiencing hyper-growth for Hadoop use. Examples include online gaming providers that track all user interactions with the system (from extensive logging), and determine how users are reacting to various features in order to be able to adapt future offerings. Another example is social networking sites that leverage all given data and systems from customer interactions to understand reactions to new features and processes, and what new products will better leverage connections on the website. These features can become available at any time and can be the result of changes anywhere in the system --from customer facing systems to the deepest back-end systems. Learning about the effect that these systems have on user experience requires extensive logging and analysis, often with interfaces to real-time decisioning systems. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Targeting marketing offers</span></b><span style="font-size:12pt;font-family:Arial;"> - Companies need to determine which marketing offers should be made to each relevant target. Hadoop is used to optimize ad placement, optimize marketing offers and more, especially where simple segment marketing doesn’t suffice. </span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12pt;font-family:Arial;">Natural Resources</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">Hadoop is being investigated for a number of natural resource deployments. Examples include:</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Processing and analysis of seismic information</span></b><span style="font-size:12pt;font-family:Arial;"> - Natural Resource companies are using Hadoop to process and analyze seismic information in oil fields. The ability to analyze significant amounts of data to make more intelligent decisions about drilling, etc., can have a demonstrable impact on costs and topline revenue.</span> 
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Risk Management and Agricultural Planning</span></b><span style="font-size:12pt;font-family:Arial;"> - Agriculture companies need to know how different crops are likely to react to different soil types, water levels, and heat patterns in order to make better planting and harvesting decisions. Processing and combining information from aerial surveillance images, in-field sensor networks, meteorological data sets and past performance requires computations on very large-scale data sets using systems such as Hadoop.</span> 
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12pt;font-family:Arial;">Retail</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">The Hadoop platform was designed to solve problems with inherent volumes and variety of data, including a mixture of unstructured and structured data. Hadoop has specific benefits for retail companies that need to that perform deep and computationally extensive analytics.</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Behavioral analysis</span></b><span style="font-size:12pt;font-family:Arial;"> - Hadoop has become critical in analyzing the behavior of retail business entities, such as customer churn, propensity to respond, etc. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Targeting marketing offers</span></b><span style="font-size:12pt;font-family:Arial;"> - There is a need to determine which marketing offers should be made to each relevant target. Hadoop enables retail companies to optimize ad placement and marketing offers. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Customer experience analytics</span></b><span style="font-size:12pt;font-family:Arial;"> - Retail companies need to provide more accurate and faster analytics around customer interactions by pulling from more data sources and processing the information faster. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Effective and personal web content delivery</span></b><span style="font-size:12pt;font-family:Arial;"> - Retail organizations are using Hadoop to adjust the content to each user, to attract and retain users, and thereby improve sales/usage volume. </span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12pt;font-family:Arial;">Trade &amp; Transportation</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">The Trade and Transportation area is experiencing hyper-growth for Hadoop use. Examples include:</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Inventory management</span></b><span style="font-size:12pt;font-family:Arial;"> - Retailers need a better understanding of customer basket size and structure, real-time access to inventory levels, and insight into trade and promotion effectiveness to help refine future advertising campaigns and align inventory levels by location. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Fuel conservation</span></b><span style="font-size:12pt;font-family:Arial;"> - Airlines and trucking companies use Hadoop to track fuel consumption across their fleet to determine key factors for fuel consumption, (e.g., type of place, pilot flying style, weather conditions.) in order to improve efficiencies and save costs. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Targeted Marketing</span></b><span style="font-size:12pt;font-family:Arial;"> - Hadoop is being deployed to increase sales volume and conversion rates, reduce stock-outs and lead times, and more effectively compete with alternative web-based options. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Capacity forecasting</span></b><span style="font-size:12pt;font-family:Arial;"> - Firms need to get an updated view of order inventory to enable real-time pricing tools which incorporate projections and actual behavior to maximize high-fixed, low variable cost, inventory. </span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12pt;font-family:Arial;">Utilities</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">Today’s utilities companies are using Hadoop to build platforms that can store and analyze large data sets, consisting of billions of objects. The benefits for the adoption of Hadoop include:</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Operations</span></b><span style="font-size:12pt;font-family:Arial;"> - Smart grid analytics provide sensors at locations to collect data and intelligently monitor and potentially regulate power distribution and usage. Utilities leverage capabilities of end-user data-generating devices (e.g., energy sensors) to better understand usage patterns and to price and route electricity accordingly, enabling greater cost savings. Network management during system fluctuations due to external demand changes, such as weather or sub-system failures, requires processing of extensive datasets in very short times. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Risk Management</span></b><span style="font-size:12pt;font-family:Arial;"> - Large power companies use Hadoop to store and analyze environmental sensor data for critical infrastructure testing of the smart energy grid and individual generators. They are able to improve network performance, scan through historical logs for forensics after a problem occurs, and pinpoint weaknesses to help prevent power outages. </span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<b><span style="font-size:12pt;font-family:Arial;">Government</span></b> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">Today’s intelligence agencies have data from all over the world in all kinds of formats — and they need a solution that can do both very simple and extremely complex data processing and network analysis tasks.</span> 
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Customer insights</span></b><span style="font-size:12pt;font-family:Arial;"> - The defense and intelligence industries need to collect and compare information from various sources in order to handle security threats, solve investigations and identify potential security issues. The data rates and volumes available from classified and open sources are prodigious as are the consequent computing demands. Hadoop adoption in the intelligence agencies has been substantial. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Fraud detection</span></b><span style="font-size:12pt;font-family:Arial;"> - Demands on social services are increasing due to aging populations and high unemployment. Hadoop can help track and capture fraudulent charges and manage new trends in legitimate service usage. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Micro targeting</span></b><span style="font-size:12pt;font-family:Arial;"> - Hadoop has helped government applications by increasing the amounts of information available to identify and reduce criminal activity. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Operations</span></b><span style="font-size:12pt;font-family:Arial;"> - Determining the most effective way to allocate resources to achieve operational goals is resulting in numerous Hadoop pilots. One example is helping police forces, strained by tight government budgets, to more effectively allocate patrols to maximize their effect in deterring crime. </span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12pt;font-family:Arial;">Research and Innovation</span></b><span style="font-size:12pt;font-family:Arial;"> - NASA and other research institutes need to map the universe, both for research purposes and for more practical goals, such as better planning of satellite routes and identifying landing spots on the moon. Astronomical research and large-scale physics experiments generate huge data-sets putting extreme demands on storage and processing infrastructure. </span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12pt;font-family:Arial;">&nbsp;</span> 
+</p>

@@ -1,0 +1,66 @@
+<p class="ms-rteElement-H2">
+	<strong>Why is PSQL Vx Server important?</strong> &nbsp;Customers are moving to virtual machines at an increasing rate, and 
+virtualization is a fundamental component of running software in the 
+Cloud, either for hosting or just shifting IT infrastructure. PSQL Vx 
+will help you get there.
+</p>
+<p class="ms-rteElement-H2">
+	<strong>What are the key features of PSQL Vx Server?</strong>
+</p>
+<ul class="ms-rteFontSize-2">
+	<li>
+		<p class="ms-rteElement-H2 ms-rteFontSize-2">
+			<strong>Live&nbsp;migration support.</strong>&nbsp;Now
+ PSQL engines running on VM's can move easily from one&nbsp;physical&nbsp;machine 
+or appliance to another. PSQL Vx Server enables hypervisor initiated 
+automated moves of VM's across physical machines.
+		</p>
+	</li>
+	<li>
+		<p class="ms-rteElement-H2 ms-rteFontSize-2">
+			<strong>Failover and high availability support.</strong>&nbsp;When
+ a hypervisor is alerted to a potential failure of a physical machine, 
+it automatically moves the VM to another server. PSQL Vx Server's 
+updated licensing process works in synch with the hypervisor operation, 
+making sure failovers take place without&nbsp;a hitch.
+		</p>
+	</li>
+	<li>
+		<p class="ms-rteElement-H2 ms-rteFontSize-2">
+			<strong>Simplified license validation.</strong>&nbsp;PSQL
+ Vx Server product key authorization requires only VM hostname and all 
+VM NIC MAC addresses remain unchanged. This is what makes support for 
+live migration possible. A single product key can be used on any 
+operating system supported by PSQL Vx Server (Windows, Linux, Mac OS, 
+32- or 64-bit). Changing operating systems has never been easier.
+		</p>
+	</li>
+	<li>
+		<p class="ms-rteElement-H2 ms-rteFontSize-2">
+			<strong>VM and Cloud-Centric Pricing.</strong>&nbsp;With
+ PSQL Vx Server, there is no need to count users or CPU's. PSQL Vx 
+Server license pricing is based on how much work the database engine can
+ do - a combination of concurrent sessions and data in use.
+		</p>
+	</li>
+	<li>
+		<p class="ms-rteElement-H2 ms-rteFontSize-2">
+			<strong>Improved backup</strong>.
+ A license for Backup Agent and the Backup Agent executable are included
+ with each purchase of PSQL Vx Server. For Windows users, PSQL Vx Server
+ supports Microsoft Volume Shadow Copy Service (VSS) full backup and 
+full copy. The combination of VSS support and Backup Agent will make it 
+much easier to automate backups of live PSQL Vx Server databases.
+		</p>
+	</li>
+	<li>
+		<p class="ms-rteElement-H2 ms-rteFontSize-2" style="font-style:inherit;font-family:inherit;vertical-align:baseline;">
+			<strong>Expanded hypervisor support.</strong>&nbsp;PSQL Vx includes support for hypervisors from VMware, Microsoft and Citrix.
+		</p>
+	</li>
+	<li>
+		<p class="ms-rteElement-H2 ms-rteFontSize-2">
+			<strong>Application compatibility</strong>. PSQL v11 applications will run with no changes on PSQL Vx Server 11.
+		</p>
+	</li>
+</ul>

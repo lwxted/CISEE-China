@@ -1,0 +1,33 @@
+#login-form .form-error {
+	text-align: left;
+	margin: 45px 0 20px 0;
+	font-size: 13px;
+}
+
+#hint-register {
+	padding-top: 20px;
+	width: 316px;
+	margin: 0 auto;
+	position: relative;
+}
+
+#hint-register p {
+	font-family: 'Helvetica Neue', Helvetica, arial, sans-serif;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	/*font-size: 14px;*/
+}
+
+#hint-register p a,
+#hint-register p a:hover,
+#hint-register p a:active,
+#hint-register p a:visited {
+	text-decoration: none;
+}
+
+@media (max-width: 480px) {
+	#hint-register {
+		width: 252px;
+	}
+}

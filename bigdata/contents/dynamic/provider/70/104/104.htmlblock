@@ -1,0 +1,134 @@
+<p>
+	<span style="font-size:32px;"><strong>产品系列</strong></span> 
+</p>
+<p>
+	BI旗舰产品 arcplan Enterprise
+(Windows/Unix/Linux)
+</p>
+<p>
+	即席查询 Datalyzer
+</p>
+<p>
+	企业驾驶仓 Dashboard
+</p>
+<p>
+	CFO Cockpit
+</p>
+<p>
+	<img src="data/provider/85741066-AA39-503D-F50B-01B12E9033B2/7317B40B-ECE2-9E58-13BF-CFAC52FA23E2/20130705175027_97025.png" alt="" /> 
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<span style="font-size:32px;"><strong>产品组件</strong></span> 
+</p>
+<p>
+	<strong><span style="font-size:18px;">arcplan
+Server</span></strong> 
+</p>
+<p>
+	作为整个分析系统的中心，arcplan Server支持Windows /NT 、Unix 、Linux将 arcplan Designer 开发的结果通过 arcplan Server的处理与运算存储，供 Internet或企业 Intranet 在 IE 上浏览，其本身也负责处理 User Client 与DB传来的资料与查询，并负责控制负载平衡，将处理完的结果通过 Client 的 Java Applet展现出来，通过Web和实时的方式为用户提供给集中性的分析服务。
+</p>
+<p class="MsoNormal">
+	<span style="font-size:18px;">arcplan
+Application Designer</span> 
+</p>
+<p class="MsoNormal">
+	arcplan 应用开发平台是世界一流的面向对象的最方便的可视化应用定制工具。把数据转化为信息；只需仅仅通过简单方便的“拖”、“拽”、“<a name="undefined"></a>WYSIWYG”界面（所见即所得）；即可以轻松自如的创建和组合任何种类的图表、图型、图片、文本和表格，浏览和编辑可用的数据，为每一个应用系统创建个性化的、独到的友好界面；用户只需要关心信息的内容和业务含义，把信息以一种极其美观、舒适的方式呈现出来，在极短的时间内，就可以为企业量身定制客户化的最复杂的信息系统，确保信息在最大程度上转化成价值。
+</p>
+<p class="MsoNormal">
+	<span style="font-size:18px;">arcplan Administration Console（arcplan管理控制台）</span> 
+</p>
+<p class="MsoNormal">
+	方便高效的应用发布管理工具arcplan Administration
+Console（管理控制台）用来存储和管理在 arcplan Server上开发的应用。 arcplan Administration
+Console中央管理机制使对应用推广和扩展的支持达到最优。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;vertical-align:top;" align="left">
+	arcplan Administration Console 负责 arcplan Communications 、arcplan DB 与 arcplan Server 的管理与开发者工具软件。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;vertical-align:top;" align="left">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;vertical-align:top;" align="left">
+	<span style="font-size:32px;"><strong>系统架构</strong></span> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;vertical-align:top;" align="left">
+	<img src="data/provider/85741066-AA39-503D-F50B-01B12E9033B2/7317B40B-ECE2-9E58-13BF-CFAC52FA23E2/20130705180203_74893.png" alt="" height="338" width="631" /> 
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;vertical-align:top;" align="left">
+	<br />
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;vertical-align:top;" align="left">
+	<span style="font-size:32px;font-family:宋体;"><strong>报表功能</strong></span> 
+</p>
+<p>
+	<span style="font-family:宋体;"></span><span style="font-family:宋体;">对于报表功能，</span><span>arcplan</span><span style="font-family:宋体;">将查询、报表、分析功能有机地结合在一起，解决了其他产品在一张报表上或者只能做查询、或者只能做报表，而无法兼顾的窘境，使得</span><span>BI</span><span style="font-family:宋体;">智能化的概念得到真正意义上的实现；同时，</span><span>arcplan</span><span style="font-family:宋体;">对中文有非常好的支持，提供很多中国式报表模板和控件，根据这些报表样式要求，选择控件并对报表进行合理布局，对报表的理解拆分到单元格级，可以制作任意复杂的中国式报表，可以轻易制作斜线、复合表头、颜色分层等传统</span><span>BI</span><span style="font-family:宋体;">工具难以实现的复杂功能；</span><span>arcplan</span><span style="font-family:宋体;">的报表功能的强大之处还体现在可以在报表上除展现文字信息外，还可以嵌入其他功能，如交通灯报警、加入颜色块划分不同区域、锁定表头等人性化功能。</span> 
+</p>
+<p>
+	<img src="data/provider/85741066-AA39-503D-F50B-01B12E9033B2/7317B40B-ECE2-9E58-13BF-CFAC52FA23E2/20130705180631_70578.png" alt="" height="298" width="660" /> 
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<span style="font-size:32px;"><strong>分析模型</strong></span> 
+</p>
+<p>
+	arcplan常用分析模型举例
+</p>
+<p>
+	<strong>1、波士顿矩阵</strong> 
+</p>
+<p>
+	<span id="__kindeditor_bookmark_start_303__"></span>BCG矩阵图，即“市场成长一市场份额”矩阵图，是美国波士顿咨询公司首创的决策咨询方法和工具，是从二维角度来分析产品结构是否合理，这二维指标是市场增长率和相对市场占有率。&nbsp;
+</p>
+<p>
+	<img src="data/provider/85741066-AA39-503D-F50B-01B12E9033B2/7317B40B-ECE2-9E58-13BF-CFAC52FA23E2/20130705181256_20725.png" alt="" height="275" width="318" /><img src="data/provider/85741066-AA39-503D-F50B-01B12E9033B2/7317B40B-ECE2-9E58-13BF-CFAC52FA23E2/20130705181310_97819.png" alt="" /><br />
+横坐标表示相对市场占有率，以对数尺度表示，指某企业各个产品的市场占有率与同行业中最大竞争对手的市场占有率之比。图中⑥号产品的相对市场占有率为4x，表明该产品是市场领先者，它的市场占有率为名列第二位产品市场占有率的4倍。凡大于1x的产品都是市场领先者，小于1x的产品则是市场占有率较小者。<br />
+纵坐标表示市场增长率，①、②、③、④、⑤产品都处在高市场增长位置，而⑥、⑦、⑧产品则处在低市场增长率区域。<br />
+<br />
+<strong>2、价值链分析</strong> 
+</p>
+<p>
+	价值链（ValueChain）的最初是由美国哈佛大学商学院教,授迈克尔?波特（MichaclE?PORTER）于1985年在其所著《竞争优势》（Competitive Advantage NewYork The Free Press）中提出来的。作为一种强有力的战略分析框架，20年来不断发展创新并被财务分析、成本管理、市场营销等专门领域广泛融入和吸收。他认为企业每项生产经营活动都是其创造价值的经济活动，企业所有的互不相同但又相互联系的生产经营活动，便构成了创造价值的一个动态过程，即价值链。<br />
+价值链是企业为客户等利益集团创造价值所进行的一系列经济活动的总称。在价值链中，价值的概念对顾客而言，指产品的使用价值，对厂家而言指产品能为企业带来销售收入的特性，其数量表现就是顾客支付的价款。<br />
+企业要生存发展，必须为企业的股东、客户、职员等利益集团创造价值，企业创造价值的过程可以分解为设计、生产、营销、交货以及对产品起辅助作用的一系列互不相同但又互相关联的经济活动，或称之为"增值作业"，其总和即构成企业的价值链，一个企业也可以说是这各种活动的集合。<br />
+企业从事价值链活动，一方面创造顾客认为有价值的产品或劳务，另一方面也需负担各项价值链活动所产生的成本。企业经营的主要目标，在于尽量增加顾客对产品或劳务所愿支付的价格与价值链活动所耗成本间的差距（即利润），一定水平的价值链是企业在一个特定产业内的各种作业的组合（下图）。<br />
+<img src="data/provider/85741066-AA39-503D-F50B-01B12E9033B2/7317B40B-ECE2-9E58-13BF-CFAC52FA23E2/20130705181556_90263.png" alt="" /><br />
+<br />
+<strong>3、杜邦财务分析</strong> 
+</p>
+<p>
+	杜邦分析方法的作用，主要是解释各项主要财务比率指标的变动原因和揭示各项财务比率指标相互之间的关系。 <br />
+从企业绩效评价的角度来看，杜邦分析法只包括财务方面的信息，不能全面反映企业的实力，有很大的局限性，主要表现在：对短期财务结果过分重视，有可能助长公司管理层的短期行为，忽略企业长期的价值创造。 <br />
+财务指标反映的是企业过去的经营业绩，衡量工业时代的企业能够满足要求。但在目前的信息时代，顾客、供应商、雇员、技术创新等因素对企业经营业绩的影响越来越大，而杜邦分析法在这些方面是无能为力的。 <br />
+<img src="data/provider/85741066-AA39-503D-F50B-01B12E9033B2/7317B40B-ECE2-9E58-13BF-CFAC52FA23E2/20130705181816_41519.png" alt="" /><br />
+<br />
+(其他模型略)
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<span style="font-size:32px;"><strong>客户评价</strong></span> 
+</p>
+<p>
+	“在泰国航空公司，我们使用arcplan解决方案为每一个关键的业绩指标定制出一项具体的结构图。泰国航空公司的解决方案非常强大，其灵活性使工作人员得以快速简单的接受软件，以适应其业务发展的要求。我们以一个非常合理的预算在不到6个月的时间内完成了项目实施。”<br />
+— Frédéric de Woot, Technical Director, NET Research<br />
+“这个以arcplan为动力来源的管理驾驶舱为果断地改善和控制财务活动提供了极大的便利。作为控制工具，它通过战略目标及集团政策来帮助财务部门优化业务流程与数据。arcplan驾驶舱具备提供可靠的KPI指标、进行灵活有效的风险管理的能力。”<br />
+— Flavio Costa, IT 项目经理, CERN 财务与采购部
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<span style="font-size:32px;"><strong>典型客户</strong></span> 
+</p>
+<p>
+	<img src="data/provider/85741066-AA39-503D-F50B-01B12E9033B2/7317B40B-ECE2-9E58-13BF-CFAC52FA23E2/20130705182244_76437.png" alt="" height="374" width="626" /> 
+</p>
+<p>
+	<br />
+</p>

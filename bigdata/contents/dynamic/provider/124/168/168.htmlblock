@@ -1,0 +1,76 @@
+<div class="apislide" style="margin:0px;padding:0px;border:0px;font-size:16px;vertical-align:baseline;color:#455560;font-family:'DIN Next W01 Light', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;background-color:#F1F1F1;">
+	<div class="apislidecopy" style="margin:0px;padding:60px 0px 20px;border:0px;vertical-align:baseline;text-align:center;">
+		<div class="container" style="margin:0px auto;padding:0px;border:0px;vertical-align:baseline;">
+			<div class="api-box" style="margin:0px auto;padding:0px;border:0px;vertical-align:baseline;">
+				<h2 style="font-size:48px;vertical-align:baseline;font-family:'DIN Next W01 Medium', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;color:#FFFFFF;">
+					<span style="color:#000000;">Integrate social media and web analytics into your application with Ondore API.</span> 
+				</h2>
+				<p style="font-size:21px;vertical-align:baseline;color:#FFFFFF;">
+					<span style="color:#000000;">Ondore API allows you to incorporate social media and web data, including sentiment analysis, share of voice and other key metrics, into your application or platform. Gain access to both raw and processed data packaged in a clean, friendly format.</span> 
+				</p>
+			</div>
+<br />
+		</div>
+	</div>
+</div>
+<div class="whitebg" style="margin:0px auto;padding:20px 0px;border:0px;font-size:16px;vertical-align:baseline;color:#455560;font-family:'DIN Next W01 Light', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+	<div class="container" style="margin:0px auto;padding:0px;border:0px;vertical-align:baseline;">
+		<div class="sixteen columns" style="margin:0px 10px;padding:0px;border:0px;vertical-align:baseline;">
+			<h2 class="center" style="font-size:24px;vertical-align:baseline;font-family:'DIN Next W01 Medium', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;text-align:center;">
+				<span style="color:#000000;">Features</span> 
+			</h2>
+		</div>
+		<div class="eight columns" style="margin:0px 10px;padding:0px;border:0px;vertical-align:baseline;">
+			<div class="features start section" style="margin:20px 0px 40px;padding:0px;vertical-align:baseline;">
+				<div class="icon" style="margin:0px;padding:0px;border:0px;vertical-align:baseline;">
+					<img src="http://web.ondore.com/wp-content/uploads/2012/12/green_hand.png" style="border:0px;height:auto;" /> 
+				</div>
+				<div class="content api-new" style="margin:0px 0px 30px 15px;padding:0px;border:0px;vertical-align:baseline;">
+					<h3 style="font-size:20px;vertical-align:baseline;font-family:'DIN Next W01 Medium', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;">
+						<span style="color:#000000;">Immediate access to data</span> 
+					</h3>
+					<p style="font-size:15px;vertical-align:baseline;">
+						<span style="color:#000000;">Get immediate access to data from major social media channels and unstructured web sources (websites, blogs and forums, among others).</span> 
+					</p>
+				</div>
+				<div class="icon" style="margin:0px;padding:0px;border:0px;vertical-align:baseline;">
+					<img src="http://web.ondore.com/wp-content/uploads/2012/12/green_algorithm.png" style="border:0px;height:auto;" /> 
+				</div>
+				<div class="content api-new" style="margin:0px 0px 0px 15px;padding:0px;border:0px;vertical-align:baseline;">
+					<h3 style="font-size:20px;vertical-align:baseline;font-family:'DIN Next W01 Medium', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;">
+						<span style="color:#000000;">A revolutionary algorithm</span> 
+					</h3>
+					<p style="font-size:15px;vertical-align:baseline;">
+						<span style="color:#000000;">Connect to Ondore Active Rank, our revolutionary algorithm, to uncover opinion leaders, their networks and their social clusters.</span> 
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="eight columns" style="margin:0px 10px;padding:0px;border:0px;vertical-align:baseline;">
+			<div class="features section padding-left" style="margin:20px 0px 40px;padding:0px 0px 0px 40px;border:0px;vertical-align:baseline;">
+				<div class="icon" style="margin:0px;padding:0px;border:0px;vertical-align:baseline;">
+					<img src="http://web.ondore.com/wp-content/uploads/2012/12/green_network.png" style="border:0px;height:auto;" /> 
+				</div>
+				<div class="content api-new" style="margin:0px 0px 30px 15px;padding:0px;border:0px;vertical-align:baseline;">
+					<h3 style="font-size:20px;vertical-align:baseline;font-family:'DIN Next W01 Medium', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;">
+						<span style="color:#000000;">Integrate aggregate statistics</span> 
+					</h3>
+					<p style="font-size:15px;vertical-align:baseline;">
+						<span style="color:#000000;">Integrate aggregate statistics for sentiment, demographics, mentions, influencers and engagement metrics in your application or platform.</span> 
+					</p>
+				</div>
+				<div class="icon" style="margin:0px;padding:0px;border:0px;vertical-align:baseline;">
+					<img src="http://web.ondore.com/wp-content/uploads/2012/12/green_insight.png" style="border:0px;height:auto;" /> 
+				</div>
+				<div class="content api-new" style="margin:0px 0px 0px 15px;padding:0px;border:0px;vertical-align:baseline;">
+					<h3 style="font-size:20px;vertical-align:baseline;font-family:'DIN Next W01 Medium', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;">
+						<span style="color:#000000;">Correlate your internal time series data</span> 
+					</h3>
+					<p style="font-size:15px;vertical-align:baseline;">
+						<span style="color:#000000;">Correlate your internal time series data with social media and web insights to reveal previously undiscovered connections in large sets of data.</span> 
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

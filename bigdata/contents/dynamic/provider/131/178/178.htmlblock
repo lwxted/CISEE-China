@@ -1,0 +1,131 @@
+<div class="newsitem_text">
+	<div class="news_item_article">
+		<h1>
+			<span style="color:#000000;font-family:Arial;">One Platform for Big Data</span>
+		</h1>
+		<p>
+			<span style="color:#000000;font-family:Arial;">MapR combines open source advancements with ground breaking 
+innovations to provide unmatched dependability, ease-of-use, and 
+world-record speed in one unified Big Data platform.</span>
+		</p>
+		<p>
+			<span style="color:#000000;font-family:Arial;">The MapR enterprise Hadoop platform for Big Data can be used for a variety of uses</span>
+		</p>
+		<ul>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Apache Hadoop applications that leverage MapReduce</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">File-based applications</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">NoSQL databases</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Interactive SQL</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Search and discovery</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Real-time stream processing</span>
+			</li>
+		</ul>
+		<p>
+			<span style="color:#000000;font-family:Arial;">With MapR, data does not need to be moved to specialized silos for 
+processing, data can be processed in place. In fact, we have applied the
+ concept of </span><a href="http://www.mapr.com/products/polyglot-persistence"><span style="color:#000000;font-family:Arial;">"Polyglot Persistence"</span></a><span style="color:#000000;font-family:Arial;"> to the MapR platform, with the ability to leverage multiple data types 
+and formats directly, depending on your use case. MapR’s unified 
+architecture enables direct processing of files and tables. The MapR 
+platform also makes it easier to leverage existing applications and 
+solutions by supporting POSIX compliant, </span><a href="http://www.mapr.com/products/only-with-mapr/direct-access-nfs"><span style="color:#000000;font-family:Arial;">industry-standard NFS</span></a><span style="color:#000000;font-family:Arial;">.</span>
+		</p>
+		<p>
+			<span style="color:#000000;font-family:Arial;">Additional features to support a diverse set of applications and 
+users include a range of enterprise-grade features: high availability, 
+data protection and disaster recovery support; multi-tenancy and volume 
+support; data and job placement control so applications can be 
+selectively executed in a cluster to take advantage of faster CPUs or 
+SSD drives; and support for a heterogeneous hardware cluster.</span>
+		</p>
+		<p>
+			<span style="color:#000000;font-family:Arial;">MapR also makes it easier for developers to develop, build and deploy
+ their Hadoop-based applications by releasing binaries, source code and 
+documentation in a public </span><a href="http://repository.mapr.com/maven/" target="_blank"><span style="color:#000000;font-family:Arial;">Maven repository</span></a><span style="color:#000000;font-family:Arial;"> and placing source code for the component packages on </span><a href="https://github.com/mapr/" target="_blank"><span style="color:#000000;font-family:Arial;">GitHub</span></a><span style="color:#000000;font-family:Arial;">.</span>
+		</p>
+		<p>
+			<img src="http://www.mapr.com/images/products/diagram/mapr_control_system6.png" alt="Enterprise Hadoop Platform" border="0" width="710" /> 
+		</p>
+		<p>
+			<a name="mapreduce"></a><span style="color:#000000;font-weight:bold;font-family:Arial;">MapReduce</span><br />
+<span style="color:#000000;font-family:Arial;"> MapR provides world record performance for MapReduce operations on Hadoop. MapR holds the </span><a href="http://www.mapr.com/press-release/google-compute-engine-and-mapr-technologies-crush-minutesort-record"><span style="color:#000000;font-family:Arial;">MinuteSort world record</span></a><span style="color:#000000;font-family:Arial;"> by sorting 1.5 TB of data in one minute. The previous Hadoop record was
+ less than 600 GB. With an advanced architecture that is built in C/C++ 
+and harnesses distributed metadata with an optimized shuffle process, 
+MapR delivers consistent high performance.</span>
+		</p>
+		<p>
+			<a name="file-based-applications"></a><span style="color:#000000;font-weight:bold;font-family:Arial;">File-Based Applications</span><br />
+<span style="color:#000000;font-family:Arial;"> MapR is a 100% POSIX compliant system that fully supports random read-write operations. By </span><a href="http://www.mapr.com/products/only-with-mapr/direct-access-nfs"><span style="color:#000000;font-family:Arial;">supporting industry-standard NFS</span></a><span style="color:#000000;font-family:Arial;">,
+ users can mount a MapR cluster and execute any file-based application, 
+written in any language, directly on the data residing in the cluster. 
+All standard tools in the enterprise including browsers, UNIX tools, 
+spreadsheets, and scripts can access the cluster directly without any 
+modifications.</span>
+		</p>
+		<p>
+			<a name="sql"></a><span style="color:#000000;font-weight:bold;font-family:Arial;">SQL</span><br />
+<span style="color:#000000;font-family:Arial;"> There are a number of applications that support SQL access against data
+ contained in MapR including Hive, Hadapt and others. MapR is also 
+spearheading the development of Apache Drill that brings ANSI SQL 
+capabilities to Hadoop. Apache Drill, inspired by Google’s Dremel 
+project, delivers low latency interactive query capability for 
+large-scale distributed datasets. Apache Drill supports 
+nested/hierarchical data structures, schema discovery and is capable of 
+working with NoSQL, Hadoop as well as traditional RDBMS. With ANSI SQL 
+compatibility, Drill supports all of the standards tools that the 
+enterprise uses to build and implement SQL queries.</span>
+		</p>
+		<p>
+			<a name="database"></a><span style="color:#000000;font-weight:bold;font-family:Arial;">Database</span><br />
+<span style="color:#000000;font-family:Arial;"> MapR has removed the trade-offs organizations face when looking to deploy a</span><a href="http://www.mapr.com/products/mapr-editions/m7-edition"><span style="color:#000000;font-family:Arial;"> NoSQL solution.</span></a><span style="color:#000000;font-family:Arial;"> Specifically, MapR delivers ease of use, dependability and performance 
+advantages for HBase applications. MapR provides scale, strong 
+consistency, reliability and continuous low latency with an architecture
+ that does not require compactions or background consistency checks. 
+From a performance standpoint, MapR delivers over a million operations 
+per second from just a 10-node cluster.</span>
+		</p>
+		<p>
+			<a name="search-copy"></a><span style="color:#000000;font-weight:bold;font-family:Arial;">Search</span><br />
+<span style="color:#000000;font-family:Arial;"> MapR is the first Hadoop distribution to integrate enterprise-grade 
+search. On a single platform customers can now perform predictive 
+analytics, full search and discovery; and conduct advanced database 
+operations. The MapR enterprise-grade search capability works directly 
+on Hadoop data but can also index and search standard files without 
+having to perform any conversion or transformation. All search content 
+and results are protected with enterprise-grade high availability and 
+data protection, including snapshots and mirrors enabling a full restore
+ of search capabilities.</span>
+		</p>
+		<p>
+			<span style="color:#000000;font-family:Arial;">By integrating the search technology of the industry leader, LucidWorks, MapR and its customers benefit from the </span><a href="http://www.mapr.com/Download-document/39-MapR-Lucid-CrowdSourcing"><span style="color:#000000;font-family:Arial;">added value that LucidWorks Search delivers </span></a><span style="color:#000000;font-family:Arial;">in the areas of security, connectivity and user management for Apache Lucene/Solr.</span>
+		</p>
+		<p>
+			<a name="stream-processing"></a><span style="color:#000000;font-weight:bold;font-family:Arial;">Stream Processing</span><br />
+<span style="color:#000000;font-family:Arial;"> MapR provides a dramatically simplified architecture for real-time 
+stream computational engines such as Storm. Streaming data feeds can be 
+written directly to the MapR platform for Hadoop for long-term storage 
+and MapReduce processing. Because MapR enables data streams to be 
+written directly to the MapR cluster, MapR allows administrators to 
+eliminate queuing systems such as Kafka or Krestel and perform 
+publish-subscribe models within the data platform.  Storm can then 
+‘tail’ a file to which it wishes to subscribe, and as soon as new data 
+hits the file system, it is injected into the Storm topology.  This 
+allows for strong Storm/Hadoop interoperability, and a unification &amp;
+ simplification of technologies onto one enterprise Hadoop platform.</span>
+		</p>
+		<div style="margin-left:275px;">
+			<a id="p-btn-learn-more" href="http://www.mapr.com/products/why-mapr"><span><br />
+</span></a>
+		</div>
+	</div>
+</div>

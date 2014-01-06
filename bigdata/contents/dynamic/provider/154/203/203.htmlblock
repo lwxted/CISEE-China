@@ -1,0 +1,156 @@
+<h1 style="background:white;">
+	<span style="font-size:19.5pt;font-family:Arial;color:#0067B0;">POWERPACK PLUGINS</span>
+</h1>
+<h2 style="background:white;">
+	<span style="font-size:13.5pt;font-family:Arial;color:#444444;font-weight:normal;">PowerPacks are modules that are plugged into the Skytree
+Server Foundation. PowerPacks add considerable functionality and performance to
+Skytree Server Foundation. In addition to innovative optimizations on top of
+traditional Machine Learning methods, Skytree adds extremely accurate modeling
+controls.</span>
+</h2>
+<div class="MsoNormal" align="center" style="text-align:center;background:white;">
+	<span style="font-size:10.0pt;font-family:Arial;color:#222222;"> 
+	<hr />
+	</span>
+</div>
+<h2 style="margin-left:0cm;background:white;">
+	<span style="font-family:Arial;color:#0068B3;">Nonparametric PowerPack</span>
+</h2>
+<h2 style="background:white;">
+	<span style="font-size:13.5pt;font-family:Arial;color:#111111;font-weight:normal;">Unlock the power of nonparametric Machine Learning methods.</span>
+</h2>
+<p style="background:white;">
+	<span style="font-size:10.0pt;font-family:Arial;color:#666666;">The
+Nonparametric PowerPack extends Skytree Server Foundation by including a suite
+of additional fast algorithms for performance in Nearest-Neighbor search, and
+methods that are intended to achieve the highest possible accuracies.</span>
+</p>
+<h3 style="background:white;">
+	<span style="font-size:12.0pt;font-family:Arial;color:#222222;">Example
+of use cases:</span>
+</h3>
+<p class="MsoNormal" align="left" style="margin-left:18.85pt;text-indent:-18pt;background-color:white;">
+	<span style="font-size:10.0pt;font-family:Wingdings;color:#666666;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.0pt;font-family:Arial;color:#666666;">Scoring applications, since these methods
+typically obtain the best possible class probability estimates</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18.85pt;text-indent:-18pt;background-color:white;">
+	<span style="font-size:10.0pt;font-family:Wingdings;color:#666666;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.0pt;font-family:Arial;color:#666666;">Whenever the interpretability of
+instance-based methods is desirable</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18.85pt;text-indent:-18pt;background-color:white;">
+	<span style="font-size:10.0pt;font-family:Wingdings;color:#666666;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.0pt;font-family:Arial;color:#666666;">Whenever the highest predictive accuracies are
+demanded</span>
+</p>
+<h3 style="background:#FFA038;">
+	<span style="font-size:12pt;font-family:Arial;">Special
+Functions:</span>
+</h3>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">Nearest Neighbor Classification</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">Nearest Neighbor Plus</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">Weighted Nearest Neighbor Classification</span>
+</p>
+<div class="MsoNormal" align="center" style="text-align:center;background:white;">
+	<span style="font-size:10.0pt;font-family:Arial;color:#222222;"> 
+	<hr />
+	</span>
+</div>
+<h2 style="margin-left:0cm;background:white;">
+	<span style="font-family:Arial;color:#0068B3;">Prediction PowerPack</span>
+</h2>
+<h2 style="background:white;">
+	<span style="font-size:13.5pt;font-family:Arial;color:#111111;font-weight:normal;">Take your ability to classify to the ultimate.</span>
+</h2>
+<p style="background:white;">
+	<span style="font-size:10.0pt;font-family:Arial;color:#666666;">The
+Prediction PowerPack allows better control and understanding of performance
+measures most important to your organization, such as false
+positives/negatives. It allows the treatment of a variety of important
+difficulties in classification such as class imbalance and multiple classes.</span>
+</p>
+<h3 style="background:white;">
+	<span style="font-size:12.0pt;font-family:Arial;color:#222222;">Example
+of use cases:</span>
+</h3>
+<p class="MsoNormal" align="left" style="margin-left:18.85pt;text-indent:-18pt;background-color:white;">
+	<span style="font-size:10.0pt;font-family:Wingdings;color:#666666;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.0pt;font-family:Arial;color:#666666;">Lead scoring, for direct marketing</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18.85pt;text-indent:-18pt;background-color:white;">
+	<span style="font-size:10.0pt;font-family:Wingdings;color:#666666;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.0pt;font-family:Arial;color:#666666;">Fraud scoring, for monitoring transactions</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18.85pt;text-indent:-18pt;background-color:white;">
+	<span style="font-size:10.0pt;font-family:Wingdings;color:#666666;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.0pt;font-family:Arial;color:#666666;">Whenever improving and controlling
+classification performance is mission-critical</span>
+</p>
+<h3 style="background:#FFA038;">
+	<span style="font-size:12pt;font-family:Arial;">Special
+Functions:</span>
+</h3>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">Confusion Matrix</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">GINI Index</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">Capture Deviation</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">Regression Scoring</span>
+</p>
+<div class="MsoNormal" align="center" style="text-align:center;background:white;">
+	<span style="font-size:10.0pt;font-family:Arial;color:#222222;"> 
+	<hr />
+	</span>
+</div>
+<h2 style="margin-left:0cm;background:white;">
+	<span style="font-family:Arial;color:#0068B3;">Ensemble PowerPack</span>
+</h2>
+<h2 style="background:white;">
+	<span style="font-size:13.5pt;font-family:Arial;color:#111111;font-weight:normal;">Break through your limits on predictive accuracy.</span>
+</h2>
+<p style="background:white;">
+	<span style="font-size:10.0pt;font-family:Arial;color:#666666;">The
+Ensemble PowerPack extends Skytree Server Foundation by offering a suite of
+ensemble-based classification and regression methods with highest predictive
+accuracy and performance.</span>
+</p>
+<h3 style="background:white;">
+	<span style="font-size:12.0pt;font-family:Arial;color:#222222;">Example
+of use cases:</span>
+</h3>
+<p class="MsoNormal" align="left" style="margin-left:18.85pt;text-indent:-18pt;background-color:white;">
+	<span style="font-size:10.0pt;font-family:Wingdings;color:#666666;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.0pt;font-family:Arial;color:#666666;">Scoring applications, since these methods
+typically obtain the best possible class probability estimates</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:18.85pt;text-indent:-18pt;background-color:white;">
+	<span style="font-size:10.0pt;font-family:Wingdings;color:#666666;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10.0pt;font-family:Arial;color:#666666;">Whenever the highest predictive accuracies are
+demanded</span>
+</p>
+<h3 style="background:#FFA038;">
+	<span style="font-size:12pt;font-family:Arial;">Special
+Functions:</span>
+</h3>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">RandomDecisionForestClassification</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">RandomDecisionForestRegression</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">Gradient Boosted Trees Classification</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">Gradient Boosted Trees Regression</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">Ensemble of Gradient Boosted Trees
+Classification</span>
+</p>
+<p class="MsoNormal" align="left" style="margin-left:11.25pt;text-indent:-18pt;background-color:#FFA038;">
+	<span style="font-size:10pt;font-family:Wingdings;">§<span style="font-size:7pt;line-height:normal;font-family:'Times New Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt;font-family:Arial;">Ensemble of Gradient Boosted Trees Regression</span>
+</p>

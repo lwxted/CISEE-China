@@ -1,0 +1,42 @@
+<div class="hero" style="padding:55px 90px;background-color:#8DB346;margin-left:-90px;color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="hero-content">
+		<h1 style="color:#FFFFFF;font-weight:100;font-size:34px;">
+			移动应用程序
+		</h1>
+		<h4 style="font-size:18px;color:#FFFFFF;">
+			发布到 Windows、Android 和 iOS
+		</h4>
+		<p style="color:#FFFFFF;font-size:16px;">
+			通过 Windows Azure，可快速简便地构建规模可变的移动应用程序。只需几分钟，即可将数据保存到云中、验证用户身份以及向数百万台设备推送通知。
+		</p>
+	</div>
+</div>
+<div class="scenarios section active" style="color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="s1" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			应用程序可打上您自己的品牌
+		</h2>
+		<p>
+			当今，顶级品牌除了放置广告，还在构建应用程序以影响到其客户。移动应用程序提供了一个独一无二的良机，可融入每个客户的日常生活及其喜爱的活动。Windows Azure 支持每种主要平台、多种数据存储选项、统包用户身份验证和简单到只需上载凭据并键入 push.apns.send 的推送通知，因此更容易带来这种紧密联系的体验。
+		</p>
+<a href="http://go.microsoft.com/fwlink/?linkid=302121&amp;clcid=0x804" class="video"><span class="desc" style="color:#666666;font-style:normal;">用媒体内容影响到联机设备</span></a>
+	</div>
+	<div class="s2" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			消费类应用
+		</h2>
+		<p>
+			全球的客户都想玩游戏、流式播放媒体、管理帐户信息、付帐单和购物，而所有这些操作都从一个移动设备上进行。虽然 Web 仍是提供这些核心消费服务的重要手段，但移动方式也同样重要。当今，从传媒巨头到电信公司再到出租车公司这样的龙头企业（以及类似的初创企业和大型企业）都在使用 Windows Azure 在移动端按需提供其产品，从而真正吸引其客户。
+		</p>
+<a href="http://go.microsoft.com/fwlink/?LinkId=302122" class="video"><span class="desc" style="color:#666666;font-style:normal;">TechSmith - Coach’s Eye iOS 应用，即刻分析视频</span></a>
+	</div>
+	<div class="s3" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			业务应用
+		</h2>
+		<p>
+			可使用 Windows Azure 构建业务应用程序或扩展内部 Web 应用程序，提高人员的移动工作效率。通过将 Service Bus 中继与您在 Windows Azure 中托管的应用程序配合使用，可在移动中访问内部部署数据和应用，而不必在防火墙以外存储任何敏感信息。通过 Windows Azure，还可用 Windows Azure Active Directory 和 Windows Intune 管理标识和设备。
+		</p>
+<a href="http://go.microsoft.com/fwlink/?linkid=302123&amp;clcid=0x804" class="video"><span class="desc" style="color:#666666;font-style:normal;">用 Windows Azure 向客户提供实时信息</span></a>
+	</div>
+</div>

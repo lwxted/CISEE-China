@@ -1,0 +1,97 @@
+<p align="left">
+	<em>StackIQ Cluster Manager</em> brings software-defined
+ management to Linux clusters. It was designed from the ground up to 
+deploy and manage infrastructure with complete automation. It leverages 
+StackIQ’s industry-leading infrastructure management solution providing 
+everything you need to install, configure, deploy, and manage commodity 
+servers — right from bare metal. Using StackIQ Cluster Manager makes the
+ job of maintaining a robust, production-grade private cloud, Hadoop, 
+NoSQL, or HPC cluster more efficient than ever.
+</p>
+<table class="ke-zeroborder" border="0" width="100%">
+	<tbody>
+		<tr>
+			<td width="50%">
+				<h4>
+					Features
+				</h4>
+				<ul>
+					<li>
+						Complete lifecycle management of the entire cluster — Hardware, Operating System, Networks, and Disks
+					</li>
+					<li>
+						Flexible, automated system configuration for all Commodity Hardware
+					</li>
+					<li>
+						Script-free configuration and deployment
+					</li>
+					<li>
+						Peer-to-peer Avalanche Installer
+					</li>
+					<li>
+						Disk and Network Management
+					</li>
+					<li>
+						Extensibility via the Rocks “Rolls” Framework
+					</li>
+					<li>
+						Integration of Ganglia and additional Cluster Metrics
+					</li>
+					<li>
+						Point-to-Point Data Movement Visualization
+					</li>
+				</ul>
+				<h4>
+					Solution Stack
+				</h4>
+				<p>
+					With StackIQ Cluster Manager, you won’t be left on your own to deal 
+with any aspect of your cluster. We include all the software you need 
+“in the box” to support the application of <i>your choice</i> on <i>your</i> hardware.
+				</p>
+				<p>
+					<img src="http://www.stackiq.com/wordpress/wp-content/uploads/2013/06/stackiq_stack.png" /> 
+				</p>
+			</td>
+			<td width="50%">
+				<h4>
+					Benefits
+				</h4>
+				<p>
+					Reduced time to production — Choose the software you want, set key 
+parameters, then sit back and let the paral-lel Avalanche installer 
+build your Apache Hadoop™ cluster right from bare metal. There is no 
+faster way to go from pallet to production.
+				</p>
+				<p>
+					Ease of operation — The StackIQ Cluster Manager software provides all
+ the tools you need to keep the cluster healthy and operating 
+efficiently. Competing products do not integrate cluster services 
+management with cluster configuration and deployment. StackIQ Cluster 
+Manager handles your complete cluster environment from a single pane of 
+glass, providing our users greater uptime, efficiency, and performance.
+				</p>
+				<p>
+					Extensibility — Modular architecture lets you customize your cluster 
+to suit your particular needs. Our platform allows for the management of
+ any application in your Big Data environment through the Open Source 
+Rocks frame-work. A wide variety of software components are readily 
+available, or you can build your own.
+				</p>
+				<p>
+					Reduced time to scale — When it’s time to scale out your cluster, 
+StackIQ Cluster Manager makes it easy. Since the deployment and 
+management engines were designed for scale, expanding your cluster or 
+creating new ones at other locations is straightforward. No scripts to 
+edit. No configuration guesswork.
+				</p>
+				<p>
+					Choice — Choose any cluster application or use case — StackIQ can handle them all.
+				</p>
+				<p>
+					&nbsp;
+				</p>
+			</td>
+		</tr>
+	</tbody>
+</table>

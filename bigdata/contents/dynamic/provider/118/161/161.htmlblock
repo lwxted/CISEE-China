@@ -1,0 +1,37 @@
+<div>
+	<p>
+		<span style="font-size:14px;">Reactor is a Java-based, integrated data and 
+application framework that layers on top of Apache Hadoop, HBase, and 
+other Hadoop ecosystem components. It surfaces capabilities of the 
+infrastructure through simple Java and REST APIs, shielding you from 
+unnecessary complexity.</span>
+	</p>
+	<p>
+		<br />
+<span style="font-size:14px;"></span>
+	</p>
+	<p>
+		<span style="font-size:14px;"><img src="data/provider/564C7350-87D9-CFDC-E17A-ADD758B40AE9/D0D71B0E-4081-4BDB-F3F1-2EEB20936D48/20130715180843_20524.jpg" alt="" /></span>
+	</p>
+	<p>
+		<span style="font-size:14px;"><br />
+</span>
+	</p>
+</div>
+<h2>
+	<span style="font-size:14px;">COLLECT » PROCESS » STORE » QUERY</span>
+</h2>
+<div>
+	<span style="font-size:14px;">Rather than assembling your own Big Data 
+infrastructure stack, Reactor provides an integrated way to compose the 
+different elements of your application: collecting, processing, storing,
+ and querying data.</span>
+</div>
+<h2>
+	<span style="font-size:14px;">REACTOR DASHBOARD UI</span>
+</h2>
+<div>
+	<span style="font-size:14px;">While Reactor has great programming 
+interfaces, it also provides a sleek dashboard to easily deploy, manage,
+ and scale your apps.</span>
+</div>

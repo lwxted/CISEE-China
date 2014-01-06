@@ -1,0 +1,179 @@
+<div class="parsys topRightContent">
+	<div class="text parbase section">
+		<h1>
+			<span style="font-family:Arial;color:#000000;">Cloudera Enterprise</span>
+		</h1>
+	</div>
+	<div class="assetWithText parbase section">
+		<div class="wrapper">
+			<img src="http://www.cloudera.com/content/cloudera/en/products/cloudera-enterprise/_jcr_content/topRightContent/assetwithtext.img.png/1370390912817.png" alt="Thumbnail" /> 
+			<div class="copy">
+				<h2>
+					<span style="font-family:Arial;color:#000000;">The Best Way to Deploy Hadoop for the Enterprise</span>
+				</h2>
+				<p>
+					<span style="font-family:Arial;color:#000000;">Cloudera Enterprise is a subscription offering that combines </span><a href="http://www.cloudera.com/content/cloudera/en/products/cdh.html" target="_blank"><span style="font-family:Arial;color:#000000;">CDH</span></a><span style="font-family:Arial;color:#000000;">, Cloudera’s 100% open source distribution of Apache Hadoop and related projects, with </span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-manager.html" target="_blank"><span style="font-family:Arial;color:#000000;">Cloudera Manager</span></a><span style="font-family:Arial;color:#000000;"> for system management;&nbsp;</span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-navigator.html" target="_blank"><span style="font-family:Arial;color:#000000;">Cloudera Navigator</span></a><span style="font-family:Arial;color:#000000;">&nbsp;for data management; technical support, indemnity, and open source advocacy.</span>
+				</p>
+				<p>
+					<span style="font-family:Arial;color:#000000;">As an upgrade from </span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-standard.html" target="_blank"><span style="font-family:Arial;color:#000000;">Cloudera Standard</span></a><span style="font-family:Arial;color:#000000;">,
+ Cloudera Enterprise gives you everything you need to scale out your 
+Hadoop deployment and operate it as a critical, strategic piece of your 
+data management infrastructure. Cloudera Enterprise is available as a 
+series of subscriptions, each providing a critical set of capabilities.</span>
+				</p>
+				<p>
+					<span style="font-family:Arial;color:#000000;">The base Cloudera Enterprise subscription includes everything in 
+Cloudera Standard plus an additional set of Cloudera Manager features 
+and support for the core projects in CDH. Additional capabilities such 
+as data management and disaster recovery can be added to Cloudera 
+Enterprise through add-on subscriptions &nbsp;–&nbsp;</span><br />
+<a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-enterprise/RTD-subscription.html" target="_blank"><span style="font-family:Arial;color:#000000;">RTD</span></a><span style="font-family:Arial;color:#000000;">, </span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-enterprise/RTQ-subscription.html" target="_blank"><span style="font-family:Arial;color:#000000;">RTQ</span></a><span style="font-family:Arial;color:#000000;">, </span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-enterprise/BDR-subscription.html" target="_blank"><span style="font-family:Arial;color:#000000;">BDR</span></a><span style="font-family:Arial;color:#000000;"> and </span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-navigator.html" target="_blank"><span style="font-family:Arial;color:#000000;">Navigator</span></a><span style="font-family:Arial;color:#000000;">.</span>
+				</p>
+				<p>
+					<a class="button cta" href="https://ccp.cloudera.com/display/SUPPORT/Downloads" target="_blank"><span style="font-family:Arial;color:#000000;">Download 60-day Trial</span></a><span style="font-family:Arial;color:#000000;">&nbsp;</span><a class="button cta" href="http://www.cloudera.com/content/cloudera/en/products/cloudera-enterprise/cloudera-quickstart.html" target="_blank"><span style="font-family:Arial;color:#000000;">Cloudera Quickstart</span></a>
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="row">
+	<div class="parsys rightRightContent">
+		<br />
+		<div class="sidebarChip parbase section">
+			<h3>
+				<span style="font-family:Arial;color:#000000;">Partners Using</span><br />
+<span style="font-family:Arial;color:#000000;"> Cloudera Enterprise</span>
+			</h3>
+			<table style="width:150px;" class="ke-zeroborder" cellpadding="0" cellspacing="3" border="0" width="150">
+				<tbody>
+					<tr>
+						<td height="80">
+							<img src="http://cloudera.com/content/dam/cloudera/logos/partners/partner-hp.png" width="60" />
+						</td>
+					</tr>
+					<tr>
+						<td height="80">
+							<img src="http://cloudera.com/content/dam/cloudera/logos/partners/partner-informatica.png" width="120" />
+						</td>
+					</tr>
+					<tr>
+						<td height="80">
+							<img src="http://cloudera.com/content/dam/cloudera/logos/partners/featured-logos/partner-list-microstrategy.png" width="150" />
+						</td>
+					</tr>
+					<tr>
+						<td height="80">
+							<img src="http://cloudera.com/content/dam/cloudera/logos/partners/partner-oracle.png" width="120" />
+						</td>
+					</tr>
+					<tr>
+						<td height="80">
+							<img src="http://cloudera.com/content/dam/cloudera/logos/partners/partner-teradata.png" width="120" />
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<div class="parsys centerRightContent">
+		<div class="parsys section Text-non RTE">
+			<img class="shadow-box" src="http://www.cloudera.com/content/dam/cloudera/product-assets/enterprise_platform_FINAL_2013-05.png" alt="Cloudera Enterprise" width="350" />
+			<p>
+				<a class="more openmodal" href="http://www.cloudera.com/content/cloudera/en/products/cloudera-enterprise.html#CE-diagram"><span style="font-family:Arial;color:#000000;">[+] View Larger Image</span></a>
+			</p>
+		</div>
+		<div class="text parbase section">
+			<h3>
+				<span style="font-family:Arial;color:#000000;">Hadoop Distribution – CDH</span>
+			</h3>
+			<p>
+				<span style="font-family:Arial;color:#000000;">At the core of Cloudera Enterprise is CDH, which combines Apache 
+Hadoop with a number of other open source projects to create a single, 
+massively scalable system where you can unite storage with an array of 
+powerful processing and analytic frameworks. </span><a href="http://www.cloudera.com/content/cloudera/en/products/cdh.html"><span style="font-family:Arial;color:#000000;">Learn More »</span></a>
+			</p>
+		</div>
+		<div class="text parbase section">
+			<h3>
+				<span style="font-family:Arial;color:#000000;">Cluster Management&nbsp;–&nbsp;Cloudera Manager</span>
+			</h3>
+			<p>
+				<span style="font-family:Arial;color:#000000;">Cloudera Enterprise includes Cloudera Manager to help you easily 
+deploy, manage, monitor and perform diagnostics on your cluster. In 
+addition to the features included with Cloudera Standard, Cloudera 
+Enterprise includes additional Cloudera Manager features that are 
+critical for operating clusters at scale. </span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-manager.html" target="_blank"><span style="font-family:Arial;color:#000000;">Learn More »</span></a>
+			</p>
+		</div>
+		<div class="text parbase section">
+			<h3>
+				<span style="font-family:Arial;color:#000000;">Cloudera Support</span>
+			</h3>
+			<p>
+				<span style="font-family:Arial;color:#000000;">Cloudera offers the industry’s highest quality technical support for 
+Hadoop. With Cloudera Support behind you, you’ll experience more uptime,
+ faster issue resolution, better performance to support your mission 
+critical applications, and faster delivery of the platform features you 
+care about. </span><a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-support.html" target="_blank"><span style="font-family:Arial;color:#000000;">Learn More »</span></a>
+			</p>
+		</div>
+		<div class="text parbase section">
+			<p>
+				<br />
+			</p>
+			<h2>
+				<span style="font-family:Arial;color:#000000;">Key Benefits of Cloudera Enterprise</span>
+			</h2>
+			<ul>
+				<li>
+					<b><span style="font-family:Arial;color:#000000;">Powerful</span></b><span style="font-family:Arial;color:#000000;"> – store, process and analyze all your data to drive competitive advantage</span>
+				</li>
+				<li>
+					<b><span style="font-family:Arial;color:#000000;">Efficient </span></b><span style="font-family:Arial;color:#000000;">– Hadoop unifies compute and data to improve operational efficiency</span>
+				</li>
+				<li>
+					<b><span style="font-family:Arial;color:#000000;">Open</span></b><span style="font-family:Arial;color:#000000;"> – CDH is the world’s most popular open source Hadoop distribution</span>
+				</li>
+				<li>
+					<b><span style="font-family:Arial;color:#000000;">Simple </span></b><span style="font-family:Arial;color:#000000;">– easy to deploy and operate with centralized administration</span>
+				</li>
+				<li>
+					<b><span style="font-family:Arial;color:#000000;">Compatible </span></b><span style="font-family:Arial;color:#000000;">– leverage your existing investments for rapid adoption and low TCO</span>
+				</li>
+				<li>
+					<b><span style="font-family:Arial;color:#000000;">Economical </span></b><span style="font-family:Arial;color:#000000;">– up to 90% more cost effective than traditional solutions</span>
+				</li>
+				<li>
+					<b><span style="font-family:Arial;color:#000000;">Enterprise Ready </span></b><span style="font-family:Arial;color:#000000;">– equipped with critical capabilities to support mission critical operations</span>
+				</li>
+			</ul>
+		</div>
+		<div class="text parbase section">
+			<p>
+				<br />
+			</p>
+			<h2>
+				<span style="font-family:Arial;color:#000000;">Add-on Subscriptions</span>
+			</h2>
+			<ul>
+				<li>
+					<a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-enterprise/RTD-subscription.html" target="_blank"><span style="font-family:Arial;color:#000000;">RTD</span></a><span style="font-family:Arial;color:#000000;">&nbsp;(Real-time Delivery)&nbsp;– adds Cloudera Support for Apache HBase</span>
+				</li>
+				<li>
+					<a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-enterprise/RTQ-subscription.html" target="_blank"><span style="font-family:Arial;color:#000000;">RTQ</span></a><span style="font-family:Arial;color:#000000;"> (Real-time Query) – adds Cloudera Support for Cloudera Impala</span>
+				</li>
+				<li>
+					<a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-enterprise/BDR-subscription.html" target="_blank"><span style="font-family:Arial;color:#000000;">BDR </span></a><span style="font-family:Arial;color:#000000;">(Backup and Disaster Recovery)&nbsp;– adds centralized management for disaster recovery workflows</span>
+				</li>
+				<li>
+					<a href="http://www.cloudera.com/content/cloudera/en/products/cloudera-navigator.html" target="_blank"><span style="font-family:Arial;color:#000000;">Navigator</span></a><span style="font-family:Arial;color:#000000;"> – adds Cloudera Navigator for automated data management</span>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div>
+</div>
+<div class="footerContent parbase">
+	<br />
+</div>

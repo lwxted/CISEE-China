@@ -1,0 +1,76 @@
+<div id="marketers_section" style="margin:auto;padding:0px;border:0px;vertical-align:baseline;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'Lucida Grande', Arial, sans-serif;text-align:center;">
+	<div class="title" style="margin:auto;padding:0px;border:0px;vertical-align:baseline;">
+		<h2 class="text_title" style="vertical-align:baseline;font-size:40px;font-weight:200;color:#2C2F3B;">
+			FOR MARKETING
+		</h2>
+		<div class="separation_line" style="margin:106px 0px 0px;padding:0px;border:0px;vertical-align:baseline;background-color:#54B848;">
+		</div>
+	</div>
+	<div class="content_section" style="margin:100px auto auto;padding:0px;border:0px;vertical-align:baseline;">
+		<div class="text_section" style="margin:-10px 70px 0px 0px;padding:0px;border:0px;vertical-align:baseline;text-align:left;">
+			<h3 style="vertical-align:baseline;font-size:30px;font-weight:200;color:#2C2F3B;">
+				Send the best leads to sales
+			</h3>
+			<p style="vertical-align:baseline;font-size:20px;color:#87898F;">
+				Fliptop uses data science to help you filter out low-probability leads and prioritize the rest. Our platform combines external data and data from your CRM and marketing systems to create a unique scoring model for you.
+			</p>
+			<h3 id="second_text" style="vertical-align:baseline;font-size:30px;font-weight:200;color:#2C2F3B;">
+				No IT required
+			</h3>
+			<p style="vertical-align:baseline;font-size:20px;color:#87898F;">
+				Our simple-to-use web UI lets you import from marketing systems, enrich contacts with social and scoring data, and export without complicated or costly integration projects.
+			</p>
+		</div>
+		<div class="icon_section" style="margin:0px;padding:0px;border:0px;vertical-align:baseline;">
+			<img src="https://d328x08i4atn50.cloudfront.net/ms_static/images/icon_marketers.png" style="border:0px;" />
+		</div>
+	</div>
+</div>
+<div id="sales_section" style="margin:auto;padding:0px;border:0px;vertical-align:baseline;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'Lucida Grande', Arial, sans-serif;text-align:center;">
+	<div class="title" style="margin:auto;padding:0px;border:0px;vertical-align:baseline;">
+		<div class="separation_line" style="margin:106px 0px 0px;padding:0px;border:0px;vertical-align:baseline;background-color:#54B848;">
+		</div>
+		<h2 class="text_title" style="vertical-align:baseline;font-size:40px;font-weight:200;color:#2C2F3B;">
+			FOR SALES
+		</h2>
+		<div class="separation_line" style="margin:106px 0px 0px;padding:0px;border:0px;vertical-align:baseline;background-color:#54B848;">
+		</div>
+	</div>
+	<div class="content_section" style="margin:100px auto auto;padding:0px;border:0px;vertical-align:baseline;">
+		<div class="icon_section" style="margin:0px 0px 0px 30px;padding:0px;border:0px;vertical-align:baseline;">
+			<img src="https://d328x08i4atn50.cloudfront.net/ms_static/images/icon_sales.png" style="border:0px;" />
+		</div>
+		<div class="text_section" style="margin:-10px 0px 0px 80px;padding:0px;border:0px;vertical-align:baseline;text-align:right;">
+			<h3 style="vertical-align:baseline;font-size:30px;font-weight:200;color:#2C2F3B;">
+				Win more deals
+			</h3>
+			<p style="vertical-align:baseline;font-size:20px;color:#87898F;">
+				Make the most use of your time by focusing on the leads most likely to spend, and going into each meeting with rich social information about your prospect.
+			</p>
+		</div>
+	</div>
+</div>
+<div id="developers_section" style="margin:auto;padding:0px;border:0px;vertical-align:baseline;font-size:16px;font-family:'Helvetica Neue', Helvetica, 'Lucida Grande', Arial, sans-serif;text-align:center;">
+	<div class="title" style="margin:auto;padding:0px;border:0px;vertical-align:baseline;">
+		<div class="separation_line" style="margin:106px 0px 0px;padding:0px;border:0px;vertical-align:baseline;background-color:#54B848;">
+		</div>
+		<h2 class="text_title" style="vertical-align:baseline;font-size:40px;font-weight:200;color:#2C2F3B;">
+			FOR DEVELOPERS
+		</h2>
+		<div class="separation_line" style="margin:106px 0px 0px;padding:0px;border:0px;vertical-align:baseline;background-color:#54B848;">
+		</div>
+	</div>
+	<div class="content_section" style="margin:100px auto auto;padding:0px;border:0px;vertical-align:baseline;">
+		<div class="text_section" style="margin:40px 50px 0px 30px;padding:0px;border:0px;vertical-align:baseline;text-align:left;">
+			<h3 style="vertical-align:baseline;font-size:30px;font-weight:200;color:#2C2F3B;">
+				Powerfully simple API
+			</h3>
+			<p style="vertical-align:baseline;font-size:20px;color:#87898F;">
+				Fliptop lets you socialize your application quickly and easily with a single API call. Turn email address, URLs and social ID's into complete digital identities.
+			</p>
+		</div>
+		<div class="icon_section" style="margin:0px;padding:0px;border:0px;vertical-align:baseline;">
+			<img src="https://d328x08i4atn50.cloudfront.net/ms_static/images/icon_developers.png" style="border:0px;" />
+		</div>
+	</div>
+</div>

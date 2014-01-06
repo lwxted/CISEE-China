@@ -1,0 +1,150 @@
+<div class="section">
+	<h2>
+		Kontagent’s products let you maximize customer lifetime value and 
+success in your domain. We help you find data insights that traditional 
+Web and mobile analytics miss.
+	</h2>
+	<div class="services-column">
+		<div>
+			<a href="http://www.kontagent.com/products/ksuite-mobile/"><img src="http://www.kontagent.com/wp-content/uploads/2013/03/products-ksuite-mobile.png" alt="kSuite Mobile analytics platform" height="71" width="182" /></a>
+		</div>
+		<p>
+			Optimize mobile user acquisition, engagement, loyalty, and 
+monetization with a full view of the customer lifecycle—across multiple 
+platforms.
+		</p>
+		<p>
+			<a href="http://www.kontagent.com/products/ksuite-mobile/" class="button">Learn More</a>
+		</p>
+	</div>
+	<div class="services-column">
+		<div>
+			<a href="http://www.kontagent.com/products/ksuite-social/"><img src="http://www.kontagent.com/wp-content/uploads/2013/03/products-ksuite-social.png" alt="kSuite Social analytics platform" height="71" width="154" /></a>
+		</div>
+		<p>
+			Expand your company’s Web and viral footprint and gain data-driven 
+insights to generate higher customer value in your social apps.
+		</p>
+		<p>
+			<a href="http://www.kontagent.com/products/ksuite-social/" class="button">Learn More</a>
+		</p>
+	</div>
+	<div class="services-column">
+		<div>
+			<a href="http://www.kontagent.com/products/ksuite-datamine/"><img src="http://www.kontagent.com/wp-content/uploads/2013/03/products-ksuite-datamine.png" alt="kSuite Datamine analytics platform" height="71" width="238" /></a>
+		</div>
+		<p>
+			Arm your analysts with unlimited query powers to find the patterns, 
+correlations, causes and connections other app analytics platforms miss.
+		</p>
+		<p>
+			<a href="http://www.kontagent.com/products/ksuite-datamine/" class="button">Learn More</a>
+		</p>
+	</div>
+</div>
+<div class="section products2" style="margin:0!important;padding:75px!important;">
+	<h3>
+		Visualize Your Data to Spot Obstacles &amp; Opportunities
+	</h3>
+	<h4>
+		The <em>k</em>Suite platform transforms your metrics into powerful 
+visualizations, allowing you explore your data in ways beyond regular 
+analytics and understand the events that matter to your business.
+	</h4>
+	<ul>
+		<li class="icon1">
+			<h5>
+				Customizable dashboard
+			</h5>
+			<p>
+				Our intuitive, customizable Dashboard translates your data into 
+visualizations that will let you uncover new opportunities to drive 
+customer value.
+			</p>
+		</li>
+		<li class="icon2">
+			<h5>
+				Track multiscreen performance
+			</h5>
+			<p>
+				Easily compare your product’s health and key performance indicators 
+across devices and operating systems with our dashboard’s multiscreen 
+view.
+			</p>
+		</li>
+		<li class="icon3">
+			<h5>
+				Mobile access anytime, anywhere
+			</h5>
+			<p>
+				Access your data 24/7 anywhere in the world and guide your company’s 
+future from the palm of your hand using our kSuite mobile app.
+			</p>
+		</li>
+	</ul>
+</div>
+<div class="section products3">
+	<h3>
+		Unlimited Data Storage, Total Flexibility
+	</h3>
+	<h4>
+		In the mobile world there are no limits when it comes to innovation.
+ So why let your social or mobile analytics platform put a limit on your
+ data stream?
+	</h4>
+	<div class="right">
+		<div class="goprev">
+			<a id="prev" class="prev" href="http://www.kontagent.com/products/#"><img src="http://www.kontagent.com/wp-content/uploads/2013/03/products-datapoints-prev.png" alt="" height="52" width="40" /></a>
+		</div>
+		<div style="text-align:start;margin:0px;" class="caroufredsel_wrapper">
+			<ul style="text-align:left;" id="datapoints">
+				<li>
+					<img src="http://www.kontagent.com/wp-content/uploads/2013/03/products-datapoint-1.png" alt="app transactions" height="326" width="329" />
+				</li>
+				<li>
+					<img src="http://www.kontagent.com/wp-content/uploads/2013/03/products-datapoint-3.png" alt="data points" height="326" width="329" />
+				</li>
+				<li>
+					<img src="http://www.kontagent.com/wp-content/uploads/2013/03/products-datapoint-4.png" alt="MAU app Monthly average users" height="326" width="329" />
+				</li>
+				<li>
+					<img src="http://www.kontagent.com/wp-content/uploads/2013/03/products-datapoint-5.png" alt="DAU App daily active users" height="326" width="329" />
+				</li>
+				<li>
+					<img src="http://www.kontagent.com/wp-content/uploads/2013/03/products-datapoint-6.png" alt="billion monthly app events" height="326" width="329" />
+				</li>
+			</ul>
+		</div>
+		<div class="gonext">
+			<a id="next" class="next" href="http://www.kontagent.com/products/#"><img src="http://www.kontagent.com/wp-content/uploads/2013/03/products-datapoints-next.png" alt="" height="52" width="40" /></a>
+		</div>
+	</div>
+	<ul>
+		<li>
+			<h5>
+				SaaS and storage in the cloud
+			</h5>
+			<p>
+				Store all your raw data through our secured cloud, cutting your expenses by eliminating the need for extra servers and IT staff.
+			</p>
+		</li>
+		<li>
+			<h5>
+				Dive deeper with flexible exploration via the cloud
+			</h5>
+			<p>
+				<em>k</em>Suite DataMine lets you dissect your entire catalog of raw 
+data, letting you spot the signals that drive customer value, loyalty 
+and more.
+			</p>
+		</li>
+		<li>
+			<h5>
+				Fully-customizable data access
+			</h5>
+			<p>
+				Cut out the middleman and tailor your data analytics, insights and reports to your preferences using our Processed Data API.
+			</p>
+		</li>
+	</ul>
+</div>

@@ -1,0 +1,239 @@
+<div class="full-width content">
+	<div class="fixed-width features">
+		<div class="row">
+			<div class="col-3">
+				<ul class="nav nav-pills nav-stacked">
+					<li class="is-active">
+						<a href="http://www.bigcommerce.com/features/" class="active-trail active"><img class="icon-features features-cms" src="http://cdn1.bigcommerce.com/www/cdn/farfuture/-s-ovjFdlvLlp-ofXcpZWIIrLEca8lBTuU3JRHR6XXI/mtime:1354778168/sites/default/files/styles/features-light/public/highlightreel.png" alt="" />Highlight reel </a>
+					</li>
+					<li>
+						<a href="http://www.bigcommerce.com/features/setup/"><img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/5SmhgwuRjzvic5HHkQ0Pxmh0hOy6ZRJ1IUrW0J_AwSU/mtime:1354777950/sites/default/files/createstore.png" class="icon-features features-cms" />Create your store </a>
+					</li>
+					<li>
+						<a href="http://www.bigcommerce.com/features/storefront/"><img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/dK2X2zBA7liC_sMY78YXn03SHSfmdz2SSHBv7z5xQHI/mtime:1354778238/sites/default/files/design.png" class="icon-features features-cms" />Design your storefront </a>
+					</li>
+					<li>
+						<a href="http://www.bigcommerce.com/features/products/"><img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/g8ssG3w9CYNgLgK0ivoi3dw3OMDCthc639vW5xvZenE/mtime:1354778314/sites/default/files/configureproducts.png" class="icon-features features-cms" />Configure your products </a>
+					</li>
+					<li>
+						<a href="http://www.bigcommerce.com/features/manage/"><img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/FIBSWol21us-RAl2Zgod8JZ3Gs01FKSnu5PgTwUDIlU/mtime:1354778496/sites/default/files/managestore.png" class="icon-features features-cms" />Manage your store </a>
+					</li>
+					<li>
+						<a href="http://www.bigcommerce.com/features/seo/"><img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/TOoFKJlF-i-5iynqMbvVpqFsJiET6AEtvzU0tv6LBUw/mtime:1354778599/sites/default/files/search.png" class="icon-features features-cms" />Rank high in search </a>
+					</li>
+					<li>
+						<a href="http://www.bigcommerce.com/features/marketing/promotions/"><img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/diPcnhr483zkKAI9hWn2_a8K1PI016qSd2g3kaFXvG4/mtime:1354778987/sites/default/files/marketing.png" class="icon-features features-cms" />Marketing </a>
+					</li>
+					<li>
+						<a href="http://www.bigcommerce.com/features/conversion/"><img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/LFLabR1kLXogmLGOgoRNAzRL-ISkM-dtYWU0ZWhLDaU/mtime:1354780629/sites/default/files/conversion.png" class="icon-features features-cms" />Conversion tools </a>
+					</li>
+					<li>
+						<a href="http://www.bigcommerce.com/features/hosting/"><img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/6wWbzT1bO2NCBmZkLzwdv070osd7Qqr8_1iJNZtG9_c/mtime:1354780721/sites/default/files/hostingandsecurity.png" class="icon-features features-cms" />Hosting &amp; security </a>
+					</li>
+					<li>
+						<a href="http://www.bigcommerce.com/features/analytics/"><img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/6bwQJqIOxOv-q5GUt7dn_Dilc5i1aaqyh56UpINNM0E/mtime:1354780867/sites/default/files/analytics.png" class="icon-features features-cms" />Analytics </a>
+					</li>
+					<li>
+						<a href="http://www.bigcommerce.com/features/apps/"><img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/6OUtXlQ7XRQv_DGxuS6lKMZxR0NbJkfjZwkygmGo8ew/mtime:1354780954/sites/default/files/integrations.png" class="icon-features features-cms" />Apps &amp; integrations </a>
+					</li>
+					<li>
+						<a href="http://www.bigcommerce.com/features/support/"><img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/299searvbHWp939m5xLedqHt4zWeUE_hBpdVnSIc_SE/mtime:1354781076/sites/default/files/support.png" class="icon-features features-cms" />Expert support </a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-9">
+				<h1>
+					Fully loaded with killer features.
+				</h1>
+				<h2>
+					Our e-commerce website builder is designed to help you sell more.
+				</h2>
+				<div class="features-title">
+					<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/PBZEPJVzgdE48GIC63W1q379h5GCSEevuXtUrzNThVA/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/hero.jpg" /> 
+				</div>
+				<div class="row feature">
+					<h2>
+						Everything you need.
+					</h2>
+					<p>
+						Bigcommerce gives you a plethora of securely hosted e-commerce tools:
+					</p>
+					<ul>
+						<li>
+							Website
+						</li>
+						<li>
+							Domain name
+						</li>
+						<li>
+							Secure shopping cart
+						</li>
+						<li>
+							Product catalog
+						</li>
+						<li>
+							Payment gateway
+						</li>
+						<li>
+							CRM
+						</li>
+						<li>
+							Email accounts
+						</li>
+						<li>
+							Marketing tools
+						</li>
+						<li>
+							Reporting
+						</li>
+						<li>
+							Mobile-optimized store
+						</li>
+					</ul>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/nA_Q2R5lLgJSpBH3rEAZJk4tF3ko3OFN-zDWMLgWHv4/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/everything-you-need.jpg" /> 
+				</div>
+				<div class="row feature feature-alt">
+					<h2>
+						Search engine dominance.
+					</h2>
+					<p>
+						Our search engine optimization (SEO) gives you higher search rankings, meaning more free traffic to your store.
+					</p>
+					<p>
+						The instruments of total Google domination are all 
+included, from completely customizable URLs, meta tags and robots.txt 
+files to automatically generated sitemaps. <a href="http://www.bigcommerce.com/features/seo">Find out more</a>.
+					</p>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/Z_5nBSRW1yGJTGKT6HiX-KnJk1m3aJXTFiqXxO-m7VY/mtime:1350971659/sites/all/themes/bc_theme/img/marketing/seo/seo-dominate.jpg" /> 
+				</div>
+				<div class="row feature">
+					<h2>
+						Built-in marketing.
+					</h2>
+					<p>
+						With discount and coupon codes, social media 
+integration, newsletters, automatically generated customer lists and an 
+abandoned cart saver, Bigcommerce gives you more marketing tools than 
+anyone else.
+					</p>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/BkK9xsh8c3Vd-lPyRB4Y4xVejYdbKJ65r8fvNjqUsbY/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/builtin-tool.jpg" /> 
+				</div>
+				<div class="row feature feature-alt">
+					<h2>
+						Get gorgeous.
+					</h2>
+					<p>
+						Easily build a beautiful online store with themes, 
+point-and-click design tools and customizable CSS/HTML. Need help? 
+Choose from our network of expert designers.
+					</p>
+					<p>
+						Check out our <a href="http://www.bigcommerce.com/showcase">store showcase</a> for inspiration.
+					</p>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/CVnTlx6_s3LWrTvJCYrTls5WVaq2IoxQZAaP4toQxNE/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/store-design.jpg" /> 
+				</div>
+				<div class="row feature">
+					<h2>
+						100+ features, no extra charges.
+					</h2>
+					<p>
+						Unlike other ecommerce solutions, we don’t nickel and 
+dime you for features like SEO, marketing tools, analytics, product 
+reviews and coupons. They’re <a href="http://www.bigcommerce.com/all-features/">all included from the start.</a>
+					</p>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/w6DTlSWtd7LTy92OJNtgxQVTlEGe387XvQ_0_fQqpjY/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/100plus.jpg" /> 
+				</div>
+				<div class="row feature feature-alt">
+					<h2>
+						Sell everywhere.
+					</h2>
+					<p>
+						Make your products available wherever your customers are, including eBay, Facebook, Pricegrabber and Shopzilla.
+					</p>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/Uy-mi9l4VeZ5W92fAmYwz2qBgDnQCmS9_S7vIR5-okg/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/sell-everywhere.jpg" /> 
+				</div>
+				<div class="row feature">
+					<h2>
+						Accept credit cards.
+					</h2>
+					<p>
+						Choose from more than <a href="http://www.bigcommerce.com/payments">60 payment gateways</a> like PayPal, Authorize.net and Google Checkout.
+					</p>
+					<p>
+						If you're starting from scratch, <a href="http://www.bigcommerce.com/payments/accept-credit-cards">Bigcommerce Payments</a> will have you set up in no time.
+					</p>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/-TDkLyEr8BsI3dkhkxCGuDxAXk__Y04msY5VaA3WtFo/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/accept-cc.jpg" /> 
+				</div>
+				<div class="row feature feature-alt">
+					<h2>
+						Customize your products.
+					</h2>
+					<p>
+						No other ecommerce platform gives you such control over 
+your products, from unlimited, fully customizable options to flexible 
+product rules and inventory tools.
+					</p>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/lmnGTAR9Ua0-EW7LTR-4HOrH5Mjr5alH_mTp8qsPEjw/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/fully-custom.jpg" /> 
+				</div>
+				<div class="row feature">
+					<h2>
+						No transaction fees.
+					</h2>
+					<p>
+						We charge a flat monthly rate, meaning you don't get 
+penalized for being successful. As you continue to grow, your costs stay
+ low.
+					</p>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/5xfD68swjCDi0pmVu9U7m94Fkza8L9iii-IqUTYcpiI/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/no-fees.jpg" /> 
+				</div>
+				<div class="row feature feature-alt">
+					<h2>
+						Bank vault security.
+					</h2>
+					<p>
+						All our stores are PCI compliant, and our data center 
+employs hacker deterrent security provisioning, three redundant network 
+architectures and hardware firewalls.
+					</p>
+					<p>
+						That means your store is highly secure. And our 99.99% uptime track record means it’s always ready to take orders.
+					</p>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/rXYfSsQfSRn_Ky9RIakJtzenLBrygnF8eG0rjbwtaRQ/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/bank-security.jpg" /> 
+				</div>
+				<div class="row feature">
+					<h2>
+						Increased conversions.
+					</h2>
+					<p>
+						From product reviews and recommendation engines to wish 
+lists and product comparisons, Bigcommerce helps you turn shoppers into 
+buyers.
+					</p>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/XGdLd9Br_umX1-0MU9DG9uJjVZxKdKmZLtAQqEH_gMw/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/increase-conversions.jpg" /> 
+				</div>
+				<div class="row feature feature-alt">
+					<h2>
+						Apps for everything.
+					</h2>
+					<p>
+						Bigcommerce integrates with hundreds of leading 
+accounting, marketing and inventory management systems. It all works 
+together seamlessly so your business runs smoothly.
+					</p>
+<img src="http://cdn1.bigcommerce.com/www/cdn/farfuture/-51VVAbuJfuW6PhKtrJzdqT-BpqBJpnQXI1ZOv_WxYg/mtime:1350971659/sites/all/themes/bc_theme/img/highlights/apps-apps-apps.jpg" /> 
+				</div>
+				<div class="row feature">
+					<h2>
+						Best-in-class support.
+					</h2>
+					<p>
+						Our in-house support team can help you with everything 
+from setting up your store to making your online business a success. 
+Throw in 500+ support articles/tutorials and an online community of 
+Bigcommerce store owners, and we have you covered for every situation.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

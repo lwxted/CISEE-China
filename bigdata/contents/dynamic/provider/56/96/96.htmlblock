@@ -1,0 +1,63 @@
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;"><img src="data/provider/62C9AB70-F718-E349-C017-31400E416B27/959D0BC1-E6C5-B7B8-3D75-2D2832F682F3/20130703122636_11546.png" alt="" /><br />
+</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Riak is an open source, distributed database. Riak is architected for:</span>
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12.0pt;font-family:&quot;">Availability:</span></b><span style="font-size:12.0pt;font-family:&quot;"> Riak replicates and retrieves data intelligently
+     so it is available for read and write operations, even in failure
+     conditions;</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12.0pt;font-family:&quot;">Fault-Tolerance:</span></b><span style="font-size:12.0pt;font-family:&quot;"> You can lose access to many nodes due to network
+     partition or hardware failure without losing data;</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12.0pt;font-family:&quot;">Operational Simplicity:</span></b><span style="font-size:12.0pt;font-family:&quot;"> Add new machines to your
+     Riak cluster easily without incurring a larger operational burden – the
+     same ops tasks apply to small clusters as large clusters;</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<b><span style="font-size:12.0pt;font-family:&quot;">Scalability:</span></b><span style="font-size:12.0pt;font-family:&quot;"> Riak automatically distributes data around the
+     cluster and yields a near-linear performance increase as you add capacity.</span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:&quot;">Riak Enterprise is
+Riak with multi-datacenter replication, monitoring, and 24×7 support. Customers
+use multi-datacenter replication to serve global traffic, maintain active
+backups, run secondary analytics clusters, or meet disaster recovery and
+regulatory requirements. Multi-datacenter replication can be used in two or
+more sites.</span>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-align:left;" align="left">
+	<span style="font-size:12.0pt;font-family:&quot;">Riak CS (Cloud Storage) is simple, open source storage software built on
+top of Riak. It can be used to build public or private clouds, or as reliable
+storage to power applications and services. It&nbsp;features:</span>
+</p>
+<ul>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Highly available, fault-tolerant storage</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Large object support and multipart upload</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">S3-compatible API and authentication</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Multi-tenancy and per-user reporting</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Simple operational model for adding capacity</span>
+	</li>
+	<li class="MsoNormal" style="text-align:left;">
+		<span style="font-size:12.0pt;font-family:&quot;">Robust stats for monitoring and metrics</span>
+	</li>
+</ul>
+<p class="MsoNormal" style="margin-left:0cm;">
+	<span style="font-size:12.0pt;font-family:&quot;">&nbsp;</span>
+</p>

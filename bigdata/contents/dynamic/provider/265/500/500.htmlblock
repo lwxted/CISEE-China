@@ -1,0 +1,108 @@
+<p class="MsoNormal" style="background:white;vertical-align:baseline;">
+	<b>如果您的企业依赖于：</b>
+</p>
+<p class="MsoNormal">
+	1.庞大的数据量（超过任何结构化数据库所能处理的数据量）
+</p>
+<p class="MsoNormal">
+	2.可预见（且快速）的性能
+</p>
+<p class="MsoNormal">
+	3.透明的扩展
+</p>
+<p class="MsoNormal">
+	4.始终正常运行
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>
+<p class="MsoNormal" style="background:white;vertical-align:baseline;">
+	<b>那么您只有一个选择，那就是</b><b> Aerospike</b>。
+</p>
+<p class="MsoNormal" style="background:white;vertical-align:baseline;">
+	即刻开使！免费下载 Aerospike 软件并电邮&nbsp;<a href="mailto:china@aerospike.com" target="_blank">china@aerospike.com</a>
+</p>
+<div class="MsoNormal" align="center" style="text-align:center;">
+	<hr />
+</div>
+<p class="MsoNormal" style="background:white;vertical-align:baseline;">
+	<b>我们能够为您的用户带来更多优势：</b>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+快速——我们不仅快速，而且始终保持快速：
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+可预见的高性能。我们是行业最佳——比竞争对手快 10 倍，99% 的响应可在 1 毫秒内实现，99.9% 的响应可在 5 毫秒内实现。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+混合架构。索引存储在 RAM 中，而数据存储在闪存/固态硬盘 (SSD) 上，针对采用多核处理器和多处理器机器的现代硬件进行优化。直接硬盘访问（绕过文件系统）可带来难以置信的性能。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+群集感知客户端软件。由于客户端知晓数据的存放位置，因此通常能够通过一次单跳检索到数据。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+无热点！Aerospike
+Server 使用复杂的哈希函数来确保数据均等地分布到所有可用节点，从而将需求平均分布到各资源上。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+可靠——没有中断、没有停机、没有数据损失：
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+数据完整性。许多 NoSQL 数据库会牺牲数据一致性（ACID 标准），但 Aerospike 保持了高度的一致性，或者允许对跨越多个群集和数据中心的一致性进行调节。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+可靠且容错。如果群集中的一个节点出现故障，则其他节点将自动重新平衡负载。
+</p>
+<p class="MsoNormal" style="background:white;vertical-align:baseline;">
+	<b>我们能够为您带来更多优势：</b>
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+所有 NoSQL 数据库都声称能处理大数据，但我们正在管理真正巨大的数据。到底有多大？我们的客户每月处理多达 2 万亿次交易，并管理超过 8 TB 数据，而且数据量每天都在迅猛增长，永无止境。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+易于设置、管理和扩展：
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>分布式</b>。Aerospike Server 能够根据需要在任意位置的任意台服务器上运行。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>线性扩展</b>。Aerospike Server 软件能够根据需要安装到多个数据中心内分组为多个群集的多个节点上。如要纵向扩展，只需将节点添加到集群，Aerospike 群集将自动在所有可用的服务器之间重新平衡数据负载。无需分片。无需人工干预。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>滚动的硬件和软件升级</b>。备份和安装在后台完成，无需停机。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>跨数据中心支持</b>。不同数据中心内的群集能够自动协调，从而实现绝对的可靠性。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>运行在商用硬件之上</b>。易于购买和安装新服务器，没有需要特别订购的部件或不常见的硬件组件。我们甚至有一个非常好的傻瓜型方法，能够在价值 5000 美元的商用机器上实现 100 万 TPS。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>易于使用的软件开发套件</b>。我们的多语言、多平台 API 允许您快速开发和部署您自己的客户端应用程序。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>业界最低的总体拥有成本</b><b> (TCO)</b>。Aerospike
+Server 经过优化，使您可以通过更少的服务器获得更快的响应速度。我们并不认为拥有一个 100 节点的群集是一件值得骄傲的事，相反，我们对软件进行了优化，以利用更少的服务器提供更快的响应速度——并且，更少的服务器意味着为您降低硬件和维护成本。总体拥有成本仅为其他数据库的 17 分之一。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>业经验证的成功纪录</b>。我们的第一次部署是在三年前实施的，到目前为止仍在正常运行，从未出现任何停机故障。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>首屈一指的客户支持</b>。我们将检视您的应用程序设计，帮助您制定部署计划，并提供标准的技术支持。
+</p>
+<p class="MsoNormal" style="margin-left:0cm;text-indent:0cm;vertical-align:baseline;">
+	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>定期发布的软件升级</b>。我们通过加利福尼亚州和印度的工程团队积极支持和改进 Aerospike 数据库，推出新的软件更新和新功能。
+</p>
+<p class="MsoNormal">
+	&nbsp;
+</p>

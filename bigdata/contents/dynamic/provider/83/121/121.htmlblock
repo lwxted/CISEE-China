@@ -1,0 +1,106 @@
+<span style="font-family:Arial;">If you’re looking for</span><span style="font-family:Arial;">&nbsp;scale-out performance, zero downtime and geo-distributed data management, you found it.</span><span><span style="font-family:Arial;">&nbsp;Only&nbsp;NuoDB&nbsp;gives you all this along with the power of SQL, real-time operational intelligence and easy administration.</span><br />
+<br />
+</span> <br />
+<div class="scrollingsection">
+	<div class="scrollingsectioncol1">
+		<p>
+			<img class="left" title="" src="http://www.nuodb.com/assets/Uploads/green-blue-arrows.png" alt="Scale-out performance" height="296" width="412" /> 
+		</p>
+	</div>
+	<div class="scrollingsectioncol2">
+		<h4>
+			<span style="font-size:1.25em;font-family:Arial;">Scale-Out Performance</span> 
+		</h4>
+		<p>
+			<span style="font-family:Arial;">Traditional databases cannot deliver capacity on demand. So, too 
+often, application development is hindered by all the work required to 
+make the database scale. To overcome scalability challenges, developers 
+and administrators resort to scaling techniques like partitioning, 
+sharding and clustering. Another common approach is to add larger 
+machines at more cost.&nbsp;</span><a href="http://www.nuodb.com/scale-out-performance"><span style="text-decoration:underline;font-family:Arial;">Learn More</span></a> 
+		</p>
+	</div>
+</div>
+<br />
+<div class="scrollingsection">
+	<div class="scrollingsectioncol1">
+		<h4>
+			<span style="font-size:1.25em;font-family:Arial;">Zero Downtime</span> 
+		</h4>
+		<p>
+			<span style="font-family:Arial;">Modern systems must run 24/7 even when hardware fails or maintenance 
+is performed. This makes business continuity expensive and full of 
+compromises like: buying additional machines that might not be as 
+performant as your primary ones, setting up replication mechanisms to 
+keep data synchronized and watching dust collect on an expensive 
+disaster recovery setup. </span><a href="http://www.nuodb.com/zero-downtime"><span style="text-decoration:underline;font-family:Arial;">Learn More</span></a> 
+		</p>
+	</div>
+	<div class="scrollingsectioncol2">
+		<p>
+			<img class="left" title="" src="http://www.nuodb.com/assets/Uploads/24-7-graphic2.png" alt="24 7 graphic2" height="296" width="412" /> 
+		</p>
+	</div>
+</div>
+<br />
+<div class="scrollingsection">
+	<div class="scrollingsectioncol1">
+		<p>
+			<img class="left" title="" src="http://www.nuodb.com/assets/Uploads/distribute3.png" alt="NuoDB Distributed Data Management System Graphic" height="296" width="412" /> 
+		</p>
+	</div>
+	<div class="scrollingsectioncol2">
+		<h4>
+			<span style="font-size:1.25em;font-family:Arial;">Geo-Distribution&nbsp;</span> 
+		</h4>
+		<p>
+			<span style="font-family:Arial;">Today’s applications are global. What they need is global data 
+consistency with local performance and resilience to datacenter 
+failure.&nbsp;</span><span><span style="font-family:Arial;">NuoDB resolves these tough challenges by enabling you to 
+distribute a single database across multiple geographies with multiple 
+master copies and true transactional consistency. </span><a href="http://www.nuodb.com/geo-distribution"><span style="text-decoration:underline;font-family:Arial;">Learn More</span></a><br />
+</span> 
+		</p>
+	</div>
+</div>
+<br />
+<div class="scrollingsection">
+	<div class="scrollingsectioncol1">
+		<h4>
+			<span style="font-size:1.25em;font-family:Arial;">Real-Time Operational Intelligence</span> 
+		</h4>
+		<p class="p1">
+			<span style="font-family:Arial;">ISVs, ecommerce companies and enterprises of all kinds 
+need to be able to capture intelligence in real time to determine how 
+best to handle specific situations.&nbsp; For example, what is the next-best 
+offer to make to a customer while he is still shopping on your website? </span><a href="http://www.nuodb.com/explore/newsql-cloud-database-product/operational-intelligence/"><span style="text-decoration:underline;font-family:Arial;">Learn More</span></a> 
+		</p>
+	</div>
+	<div class="scrollingsectioncol2">
+		<p>
+			<img class="left" title="" src="http://www.nuodb.com/assets/Uploads/real-time-graph.png" alt="NuoDB Real Time Operational Intelligence Graph" height="296" width="412" /> 
+		</p>
+	</div>
+</div>
+<br />
+<div class="scrollingsection">
+	<div class="scrollingsectioncol1">
+		<p>
+			<img class="left" title="" src="http://www.nuodb.com/assets/Uploads/1-2-2.png" alt="NuoDB Easy Admin Graphic 1-2-3" height="296" width="412" /> 
+		</p>
+	</div>
+	<div class="scrollingsectioncol2">
+		<h4>
+			<span style="font-size:1.25em;font-family:Arial;">Easy Administration</span> 
+		</h4>
+		<p class="p1">
+			<span style="font-family:Arial;">Managing and maintaining a DBMS is a complex and 
+time-consuming proposition. The Bureau of Labor and Statistics estimates
+ there are over 110,000 DBAs in the U.S. alone. Job growth for the 
+position has a CAGR of 31%, far exceeding the average for most 
+positions. So, just finding the right DBA is often difficult as well. 
+It’s time to make databases easier for everyone. Especially your DBA. </span><a href="http://www.nuodb.com/explore/newsql-cloud-database-product/easy-admin/"><span style="text-decoration:underline;font-family:Arial;"><br />
+</span></a> 
+		</p>
+	</div>
+</div>

@@ -1,0 +1,260 @@
+<div class="itemImageBlock">
+	<p>
+		<span class="itemImage"> <img src="data:image/png;base64,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" alt="" /><br />
+<a class="modal" href="http://www.datawatch.com/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_XL.jpg"> </a></span>
+	</p>
+	<p>
+		<br />
+<span class="itemImage"></span>
+	</p>
+	<p>
+		<span class="itemImage"><a class="modal" href="http://www.datawatch.com/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_XL.jpg"><img src="http://www.datawatch.com/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_M.jpg" alt="Healthcare " style="width:175px;height:auto;" /> </a> </span> 
+	</p>
+</div>
+<div class="itemFullText">
+	<h1>
+		HEALTHCARE
+	</h1>
+	<p>
+		Healthcare organizations are buried in mountains of data and have 
+urgent needs to quickly access, analyze and report on their critical 
+financial, clinical and operational data. What’s more, the growing 
+number of required quality metrics and clinical data exchanges is 
+becoming increasingly resource intensive. Without the right data 
+solution in place, you will be unable to meet these needs and surpass 
+these challenges, which can negatively impact clinical outcomes, quality
+ of care, and your bottom line.
+	</p>
+	<p>
+		&nbsp;Datawatch offers a range of customized solutions to help healthcare organizations to:
+	</p>
+	<ul>
+		<li>
+			<b>Improve quality of patient care and safety</b> through the ability to make more evidence-based decisions
+		</li>
+		<li>
+			<b>Achieve more productive operations,</b> such as the ability to 
+quickly and easily extract, manage, analyze, and distribute critical 
+data and metrics from existing reports and data without additional 
+programming or assistance from IT
+		</li>
+		<li>
+			<b>Easily implement new systems in days</b> (rather than months or 
+years) and without significant programming and end user training, which 
+can help reduce total cost of ownership
+		</li>
+		<li>
+			<b>Manage confidential data</b> in a secure, integrated way
+		</li>
+	</ul>
+	<p>
+		See how Datawatch’s solutions have helped over 1000 healthcare 
+organizations reduce costs, improve decision making, support strategic 
+objectives, increase ROI, and ultimately improve the care provided.
+	</p>
+	<p>
+		<div class="itemImageBlock">
+			<span class="itemImage"> <a class="modal" href="http://www.datawatch.com/media/k2/items/cache/4695cb3b19cbf906e45dac0da0913068_XL.jpg"> <img src="http://www.datawatch.com/media/k2/items/cache/4695cb3b19cbf906e45dac0da0913068_M.jpg" alt="Financial Services" style="width:175px;height:auto;" /> </a> </span> 
+		</div>
+		<div class="itemFullText">
+			<h1>
+				FINANCIAL SERVICES
+			</h1>
+			<p>
+				As a financial services company, you strive to meet and exceed the 
+needs of customers, employees and shareholders.&nbsp; You also need the right
+ tools to be able to make better business decisions quickly, easily, and
+ affordably.
+			</p>
+			<p>
+				&nbsp;Datawatch offers a range of customized solutions to give financial 
+services organizations, mortgage companies, brokerages, and insurance 
+companies worldwide the ability to:
+			</p>
+			<ul>
+				<li>
+					<b>Achieve more productive operations,</b> such as sharing and 
+analyzing data in legacy systems, consolidating transaction reports for 
+performance analysis, and getting other data out of core bank processing
+ systems for financial analysis, operations management and external 
+reporting
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<b>Streamline business processes, </b>including the about to 
+efficiently and accurately extract, manage, analyze and distribute 
+hundreds of brokerage reports and text-based transmission files on a 
+daily basis and archival storage of statements and analysis and 
+reconciliation of teller activity
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<b>Enhance customer service,</b> such as providing customers with 
+online access to their statements and the ability to cross- reference 
+and retrieve claims, benefits and policies
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<b>Meet mandated compliance goals, </b>such as having archived 
+statements and trade confirms for brokerage analysis, having information
+ readily available in trial balance for loans, overdraft reports, and 
+kiting suspect reports and reports from third-party data processing 
+firms for auditing purposes
+				</li>
+			</ul>
+		</div>
+		<div class="itemImageBlock">
+			<span class="itemImage"> <a class="modal" href="http://www.datawatch.com/media/k2/items/cache/3749aaa8ee129d7e919bddcc7e09cd36_XL.jpg"> <img src="http://www.datawatch.com/media/k2/items/cache/3749aaa8ee129d7e919bddcc7e09cd36_M.jpg" alt="Retail Solutions " style="width:175px;height:auto;" /> </a> </span> 
+		</div>
+		<div class="itemFullText">
+			<h1>
+				RETAIL
+			</h1>
+			<p>
+				Datawatch offers a range of solutions - from desktop to enterprise - 
+to help organizations in the retail industry meet the demands of their 
+customers and employees. You also need the right tools to be able to 
+make better business decisions quickly, easily, and affordably.
+			</p>
+			<p>
+				&nbsp;Datawatch solutions help you to:
+			</p>
+			<ul>
+				<li>
+					<strong>Achieve more productive operations</strong>
+				</li>
+				<li>
+					<strong>Make better business decisions</strong>
+				</li>
+				<li>
+					<strong>Streamline supply chains</strong>
+				</li>
+				<li>
+					<strong>Meet mandated compliance goals</strong>
+				</li>
+			</ul>
+		</div>
+		<div class="itemImageBlock">
+			<span class="itemImage"> <a class="modal" href="http://www.datawatch.com/media/k2/items/cache/245effadf41c6129f4fe7accc564ef86_XL.jpg"> <img src="http://www.datawatch.com/media/k2/items/cache/245effadf41c6129f4fe7accc564ef86_M.jpg" alt="Manufacturing" style="width:175px;height:auto;" /> </a> </span> 
+		</div>
+		<div class="itemFullText">
+			<h1>
+				MANUFACTURING
+			</h1>
+			<p>
+				As a manufacturing company, you strive to meet and exceed the demands
+ of customers, employees and shareholders.&nbsp; In addition, with so many 
+time-sensitive, interdependent functions—supply chains, inventory, 
+purchasing, production and materials management—it’s crucial to have a 
+comprehensive perspective of your data. You need the right tools to be 
+able to make better business decisions quickly, easily, and affordably.
+			</p>
+			<p>
+				Datawatch offers a range of customized solutions to help manufacturing organizations worldwide to:
+			</p>
+			<ul>
+				<li>
+					<b>Achieve more productive operations,</b> such as sharing and 
+analyzing data in legacy systems and easily integrating 
+manufacturing-related data into Excel (i.e. capacity planning, inventory
+ status, available workforce resources, productivity reports, etc.)&nbsp;
+				</li>
+				<li>
+					<b>Make better business decisions</b>, including the ability to gain
+ insights from custom-built enterprise dashboards and scorecards that 
+track inventory status, on-time order fulfillment performance, workforce
+ performance over time and much more
+				</li>
+				<li>
+					<b>Streamline supply chains, </b>using manufacturing reports and analysis tools
+				</li>
+				<li>
+					<b>Meet mandated compliance goals, </b>including archival solutions and automated electronic distribution of invoices and bills
+				</li>
+			</ul>
+			<p>
+				Discover how Datawatch’s solutions have helped manufacturing 
+companies make smarter decisions resulting in increased efficiency and 
+cost savings.
+			</p>
+		</div>
+		<div class="itemImageBlock">
+			<span class="itemImage"> <a class="modal" href="http://www.datawatch.com/media/k2/items/cache/924e149af069b8ea323a809fbb1171d4_XL.jpg"> <img src="http://www.datawatch.com/media/k2/items/cache/924e149af069b8ea323a809fbb1171d4_M.jpg" alt="Government " style="width:175px;height:auto;" /> </a> </span> 
+		</div>
+		<div class="itemFullText">
+			<h1>
+				GOVERNMENT
+			</h1>
+			<p>
+				As a governmental organization, you strive to meet and exceed the 
+needs of citizens, students, employees, and other key stakeholders. You 
+also need the right tools to be able to make better business decisions 
+quickly, easily, and affordably.
+			</p>
+			<p>
+				Datawatch offers a range of customized solutions to help local, state
+ or province, and federal government organizations worldwide to:
+			</p>
+			<ul>
+				<li>
+					<b>Achieve more productive operations,</b> such as sharing and 
+analyzing data in legacy systems; the ability to expedite ERP 
+implementation through automating processes to easily identify internal 
+errors; and the ability to easily format, separate, and distribute 
+monthly budget and expense reports to numerous departments with varying 
+data needs
+				</li>
+				<li>
+					<b>Streamline business processes,</b> including the ability to 
+produce financial reports for all service areas (i.e. school budgets, 
+highway maintenance, etc.) and perform payroll analysis from any legacy 
+mainframe systems still operated within the public sector
+				</li>
+				<li>
+					<b>Deliver better service</b> to citizens by offering them easy online access to information
+				</li>
+				<li>
+					<b>Meet mandated compliance goals in a secure, integrated way, </b>such
+ as the need to transform information locked in financial statements and
+ accounting reports into live data on auditors’ PC or other data sources
+ and the need to produce and deliver secured SAP reports
+				</li>
+			</ul>
+		</div>
+		<div class="itemImageBlock">
+			<span class="itemImage"> <a class="modal" href="http://www.datawatch.com/media/k2/items/cache/deb45d333d0414ba3de42155789fdb4a_XL.jpg"> <img src="http://www.datawatch.com/media/k2/items/cache/deb45d333d0414ba3de42155789fdb4a_M.jpg" alt="Accounting Auditing " style="width:175px;height:auto;" /> </a> </span> 
+		</div>
+		<div class="itemFullText">
+			<h1>
+				ACCOUNTING/AUDITING
+			</h1>
+			<p>
+				Learn how to leverage your organization’s information to meet compliance goals and auditing and accounting regulations.
+			</p>
+			<p>
+				Datawatch offers a range of solutions - from desktop to enterprise - 
+to help organizations in the accounting and auditing industries meet the
+ demands of their customers and employees. You also need the right tools
+ to be able to make better business decisions quickly, easily, and 
+affordably.
+			</p>
+			<p>
+				&nbsp;Datawatch solutions help you to:
+			</p>
+			<ul>
+				<li>
+					<strong>Achieve more productive operations</strong>
+				</li>
+				<li>
+					<strong>Make better business decisions</strong>
+				</li>
+				<li>
+					<strong>Meet mandated compliance goals</strong>
+				</li>
+			</ul>
+		</div>
+	</p>
+</div>

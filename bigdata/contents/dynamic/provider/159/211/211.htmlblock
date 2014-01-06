@@ -1,0 +1,39 @@
+<div class="hero" style="padding:55px 90px;background-color:#4469B4;margin-left:-90px;color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="hero-content">
+		<h1 style="color:#FFFFFF;font-weight:100;font-size:34px;">
+			集成
+		</h1>
+		<h4 style="font-size:18px;color:#FFFFFF;">
+			将企业与云进行集成
+		</h4>
+		<p style="color:#FFFFFF;font-size:16px;">
+			通过 Windows Azure，您可以汇聚本地和云中的所有应用程序、数据、设备和合作伙伴。使用灵活的工具集来满足集成需要，包括将移动应用程序与本地 LOB 系统连接以及与您的合作伙伴协调 B2B 付款。
+		</p>
+	</div>
+</div>
+<div class="scenarios section active" style="color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="s1" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			从任何位置连接到企业数据和流程
+		</h2>
+		<p>
+			通过混合云解决方案来扩大现有本地系统的影响力和价值。在云中构建可缩放的 Web 和移动前端并将它们无缝连接到内部企业数据和流程中。
+		</p>
+	</div>
+	<div class="s2" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			B2B 交易处理
+		</h2>
+		<p>
+			构建高效且可靠的企业到企业交易。与新的贸易合作伙伴快速建立关系。支持行业标准和与其他平台的连接。与内部系统无缝集成。自动化流程以确保快速、完全地且正确地执行交易。在交易量增加时，轻松缩放。
+		</p>
+	</div>
+	<div class="s3" style="padding:55px 90px;margin-left:-90px;">
+		<h2 style="color:#505050;font-weight:100;font-size:36px;">
+			应用程序集成
+		</h2>
+		<p>
+			通过配置驱动的门户体验，快速集成 Windows Azure、SaaS、B2B 和本地应用程序。使用根据需要缩放的服务，可缩短新应用程序的上市时间并拓展您的业务。
+		</p>
+	</div>
+</div>

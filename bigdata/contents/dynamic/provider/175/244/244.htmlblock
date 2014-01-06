@@ -1,0 +1,82 @@
+<div class="zone1" style="margin:0px;padding:0px;font-family:Arial, Verdana, Helvetica, 'Helvetica Light', sans-serif;">
+	<div>
+		<span><br />
+</span>
+	</div>
+</div>
+<div class="zone2" style="margin:0px;padding:0px 95px 0px 0px;color:#555555;font-family:Arial, Verdana, Helvetica, 'Helvetica Light', sans-serif;">
+	<p>
+		<img src="http://www.revolutionanalytics.com/images/product/Support-header.jpg" width="500" height="77" alt="R Support from Revolution Analytics" style="border:0px;" />
+	</p>
+	<table width="100%" border="0" cellpadding="0" class="ke-zeroborder">
+		<tbody>
+			<tr>
+				<td>
+					<img src="http://www.revolutionanalytics.com/images/product/donut-support-sm.jpg" width="250" height="245" alt="R Support - Part of the Enterprise R Offering from Revolution Analytics" style="border:0px;" />
+				</td>
+				<td valign="top">
+					<h1 style="font-size:12px;color:#FF6633;">
+						<strong>EXPERT ON-CALL TECHNICAL SUPPORT</strong>
+					</h1>
+					<p>
+						Revolution Analytics offers installation assistance and production-level support for our Enterprise subscribers – giving you a direct response for your specific question or issues.<br />
+<br />
+If your business requires fast resolution and reliable advice, our expert team is made up of experienced statisticians and support engineers, who will help you with the R language and advanced Revolution R Enterprise features.&nbsp;<br />
+<br />
+<em>Please note that users that download a free Academic license of Revolution R Enterprise are NOT eligible for paid support options. They will need to&nbsp;<a href="http://info.revolutionanalytics.com/Buy-Revolution-R-Enterprise.html" target="_blank">upgrade</a>&nbsp;to an Enterprise subscription to receive full support.</em><br />
+<br />
+For extended support, on-call Consulting credits can be purchased that will put the expertise of Revolution Analytics<a href="http://www.revolutionanalytics.com/products/consulting/">Professional Services</a>’ statisticians and solution architects at your disposal.
+					</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<p>
+		&nbsp;
+	</p>
+	<h2 style="font-size:12px;color:#FF6633;">
+		Free Support
+	</h2>
+	<ul>
+		<li>
+			The&nbsp;<a href="http://www.inside-r.org/" target="_blank">InsideR Web site</a>—Resources from the R Community, sponsored by Revolution Analytics
+		</li>
+		<li>
+			Revolution R Enterprise&nbsp;<a href="http://info.revolutionanalytics.com/GettingStartedWithRevolutionREnterprise.html" target="_blank">'Getting Started Guide</a>'
+		</li>
+		<li>
+			<a href="http://forums.revolutionanalytics.com/forum.php" target="_blank">Revolution Discussion Forums</a>—Free Tips, Techniques, and Questions &amp; Answers about Revo's products
+		</li>
+		<li>
+			<a href="http://info.revolutionanalytics.com/support-request-form.html">Report a bug / Submit a support case</a><br />
+		</li>
+	</ul>
+	<h2 style="font-size:12px;color:#FF6633;">
+		<a name="contact"></a>Paid Support Options:<br />
+	</h2>
+	<ul>
+		<li>
+			Contact us through&nbsp;<a href="mailto:support@revolutionanalytics.com" target="_blank">email</a><br />
+		</li>
+		<li>
+			Telephone: +206-577-4778, Available 9 am - 5 pm Pacific Time only<br />
+		</li>
+		<li>
+			<a href="http://info.revolutionanalytics.com/support-request-form.html">Submit a Support Case Online</a>
+		</li>
+		<li>
+			<a href="http://forums.revolutionanalytics.com/forum.php" target="_blank">Revolution Discussion Forums</a>: Free Tips, Techniques, and Questions &amp; Answers about Revo's products
+		</li>
+	</ul>
+	<h2 style="font-size:12px;color:#FF6633;">
+		Revolution Training &amp; Consulting
+	</h2>
+	<p>
+		We also offer professional training and consulting services to meet your specific needs. Please click below to learn more.
+	</p>
+	<ul>
+		<li>
+			Professional Services:&nbsp;<a href="http://www.revolutionanalytics.com/products/training/">R Training</a>&nbsp;&amp;&nbsp;<a href="http://www.revolutionanalytics.com/products/consulting/">R Consulting</a>
+		</li>
+	</ul>
+</div>

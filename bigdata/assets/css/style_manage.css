@@ -1,0 +1,14 @@
+#new-service-form {
+	width: 90%;
+	margin-left: 20px;
+	border: none;
+}
+
+#new-service-form input {
+	width: 98%;
+}
+
+#new-service-form select {
+	font-size: 15px;
+	width: 100%;
+}

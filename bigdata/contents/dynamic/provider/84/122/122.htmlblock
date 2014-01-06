@@ -1,0 +1,94 @@
+<div id="ibm-leadspace-head" class="ibm-alternate" style="background:url(/software/info/features/images/SWHP_leadspace-2000x200.jpg) repeat 50% 0%;">
+	<div id="ibm-leadspace-body">
+		<h1>
+			IBM Software
+		</h1>
+		<p>
+			<em>&nbsp;<br />
+</em>
+		</p>
+	</div>
+</div>
+<div id="ibm-content-nav">
+	<div id="ibm-primary-tabs" class="ibm-dyntabs">
+		<h2 class="ibm-access">
+			Primary tab navigation
+		</h2>
+		<ul class="ibm-tabs">
+			<li id="ibm_AA_tab" class="ibm-active">
+				Overview
+			</li>
+			<li class="" id="ibm_BB_tab">
+				Find products
+			</li>
+			<li id="ibm_CC_tab">
+				Industry solutions
+			</li>
+			<li id="ibm_DD_tab">
+				Capabilities by business need
+			</li>
+			<li id="ibm_EE_tab">
+				Events
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="ibm-col-5-2">
+	<br />
+<a href="http://www.youtube.com/watch?v=xk9pXx24TNM" class="ibm-media"><img alt="IBM Integration Bus video" src="http://www-01.ibm.com/software/info/features/images/integration_bus-070913-364x260.jpg" class="ibm-no-mobile" height="260" width="364" /></a> 
+	<h3>
+		Connect from anywhere to anywhere
+	</h3>
+	<p>
+		IBM Integration Bus allows your applications, services and systems to
+ communicate across business systems so your organization can run more 
+effectively. Now you can eliminate point-to-point connections and batch 
+processing regardless of platform, protocol or data format.
+	</p>
+	<p class="ibm-ind-link">
+		<a href="http://www.youtube.com/watch?v=xk9pXx24TNM" class="ibm-youtube-link ibm-media"><span class="ibm-item-note"><br />
+</span></a> 
+	</p>
+<br />
+</div>
+<div class="ibm-col-5-1">
+	<br />
+<img alt="Mobile software for collaboration information" src="http://www-01.ibm.com/software/info/features/images/mobile_collab-070913-172x100.jpg" height="100" width="172" /> 
+	<h3>
+		Mobile software enables social business
+	</h3>
+	<p>
+		IBM mobile solutions for collaboration support Android, BlackBerry, 
+iPhone, iPad, Nokia and other devices. Learn how you can improve client 
+engagement and employee collaboration with IBM software.
+	</p>
+</div>
+<div class="ibm-col-5-1">
+	<br />
+<img alt="International Technology Group -- Cost/Benefit Case for IBM PureData System for Analytics" src="http://www-01.ibm.com/software/info/features/images/PureSystems_070913-172x100.jpg" height="100" width="172" /> 
+	<h3>
+		How do IBM data warehouses compare?
+	</h3>
+	<p>
+		The demands of data warehouses are changing. The International 
+Technology Group did a cost-benefit case analysis comparing time to 
+value, and IBM PureData System for Analytics (powered by Netezza 
+technology) came out on top.
+	</p>
+</div>
+<div class="ibm-col-5-1">
+	<br />
+<img alt="Webcast replay: IBM X-Force 2012 Annual Trend Report: Data Breach Issues and Solutions" src="http://www-01.ibm.com/software/info/features/images/xforce_security-070913-172x100.jpg" height="100" width="172" /> 
+	<h3>
+		Don’t get blindsided by a data breach
+	</h3>
+	<p>
+		Most organizations depend on trusted information to increase 
+productivity, revenue, compliance, customer relationships and brand 
+value. Learn how to secure your business against cyber attacks while 
+remaining connected.
+	</p>
+</div>
+<h2>
+	&nbsp; <br />
+</h2>

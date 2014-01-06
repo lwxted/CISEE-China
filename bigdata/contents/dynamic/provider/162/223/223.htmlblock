@@ -1,0 +1,26 @@
+Zoomdata already comes pre-connected to a myriad of valuable real-time and historical big data sources.<br />
+<p>
+	In addition to theese connectors, you can push data from any source in real-time to Zoomdata's REST API.
+</p>
+<p>
+	<br />
+</p>
+<p>
+	<p>
+		The Zoomdata platform is optimized to handle billions of records per day both historically and in real-time, either<br />
+on-premise, in the cloud, or both.
+	</p>
+	<div class="stream-content box">
+		<p>
+			Zoomdata's Stream Processor fuses multiple data sources and performs 
+continuous calculations to dynamically feed interactive visualizations.
+		</p>
+		<h4>
+			Application Architecture
+		</h4>
+<img src="http://www.zoomdata.com/img/product/stream.png" alt="Stream" /> 
+		<p class="note">
+			<strong>No-ETL</strong> or Redundant Data Storage with Zoomdata's Onsite Deployment
+		</p>
+	</div>
+</p>

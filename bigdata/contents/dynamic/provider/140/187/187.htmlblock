@@ -1,0 +1,199 @@
+<div id="stcpDiv">
+	<h1 class="page-title">
+		<span style="color:#000000;font-family:Arial;">Analytics Engine</span>
+	</h1>
+	<h2>
+		<span style="color:#000000;font-family:Arial;">Agile Analytics for Accurate, Actionable Insights</span>
+	</h2>
+	<p>
+		<span style="color:#000000;font-family:Arial;">Business analytics turns enterprise data into actionable insights, 
+enabling organizations to make better, fact-based, decisions that 
+improve customer satisfaction, boost financial performance, increase 
+operational efficiency, and help manage fraud, risk and regulatory 
+compliance.</span>
+	</p>
+	<p>
+		<span style="color:#000000;font-family:Arial;">The Lavastorm Analytics Engine is a self-service business analytics 
+solution that empowers analysts to rapidly acquire, transform, analyze 
+and visualize data, and share key insights and trusted answers to 
+business questions with non-technical managers and executives.</span>
+	</p>
+	<p>
+		<span style="color:#000000;font-family:Arial;">The Lavastorm Analytics Engine offers an integrated set of analytics 
+capabilities that enables analysts to independently explore enterprise 
+data from multiple data sources, create and share trusted analytic 
+models, produce accurate forecasts, and uncover previously hidden 
+insights in a single, highly visual and scalable environment.</span>
+	</p>
+	<ul>
+		<li>
+			<a href="http://www.youtube.com/watch?v=OrvwP4BSW4g?rel=0"><span style="color:#000000;font-family:Arial;">Watch a Demo</span></a>
+		</li>
+	</ul>
+	<div class="layer-cake-container clearfix">
+		<h2>
+			<span style="color:#000000;font-family:Arial;">How Lavastorm Analytics Engine is different</span>
+		</h2>
+		<div class="layer-cake layer-float">
+			<img class="img-resize layer-cake-float click-to-enlarge" src="http://www.lavastorm.com/assets/LAE_Schematic.jpg" /> 
+			<ul>
+				<li>
+					<strong><span style="color:#000000;font-family:Arial;">Speed to Value</span></strong><span style="color:#000000;font-family:Arial;"> – You can deploy the system in minutes and deliver immediate analytic results and value with minimal reliance on IT</span>
+				</li>
+				<li>
+					<strong><span style="color:#000000;font-family:Arial;">Accuracy &amp; Transparency </span></strong><span style="color:#000000;font-family:Arial;">– Rapidly integrate disparate enterprise data sources using visual analytics to create trusted and traceable models</span>
+				</li>
+				<li>
+					<strong><span style="color:#000000;font-family:Arial;">Self Sufficiency and Reuse </span></strong><span style="color:#000000;font-family:Arial;">– Deliver more accurate 
+results using visual analytic logic to profile, enrich, transform and 
+cleanse data, and share and reuse analytic building blocks&nbsp; across teams</span>
+				</li>
+				<li>
+					<strong><span style="color:#000000;font-family:Arial;">Agility</span></strong><span style="color:#000000;font-family:Arial;"> – Quickly adapt analytics when underlying 
+data or business rules change, seamlessly scale from a personal analytic
+ solution to an enterprise-scale solution running on server-farms.</span>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="layer-cake-container clearfix">
+		<div class="layer-cake layer-full-width">
+			<table class="tableBorder ke-zeroborder" style="width:100%;" border="0">
+				<tbody>
+					<tr>
+						<th>
+							<h3>
+								<span style="color:#000000;font-family:Arial;">Features</span>
+							</h3>
+						</th>
+						<th>
+							<h3>
+								<span style="color:#000000;font-family:Arial;">Description</span>
+							</h3>
+						</th>
+					</tr>
+					<tr class="table-altrow">
+						<td>
+							<strong><span style="color:#000000;font-family:Arial;">Interactive visual analysis</span></strong>
+						</td>
+						<td>
+							<span style="color:#000000;font-family:Arial;">The visual development environment reduces analytic application 
+development time by 90% or more and enables an iterative and 
+collaborative approach to analytic design that promotes ease of use and 
+rapid problem discovery.</span>
+						</td>
+					</tr>
+					<tr class="table-row">
+						<td>
+							<strong><span style="color:#000000;font-family:Arial;">Source-agnostic data acquisition</span></strong>
+						</td>
+						<td>
+							<span style="color:#000000;font-family:Arial;">Acquire data from disparate sources, including data warehouses, 
+legacy systems, or stand-alone files to accelerate analytic development 
+while minimizing IT dependency. No over-arching schema is required so 
+data can be integrated very quickly.</span>
+						</td>
+					</tr>
+					<tr class="table-altrow">
+						<td>
+							<strong><span style="color:#000000;font-family:Arial;">Business controls</span></strong>
+						</td>
+						<td>
+							<span style="color:#000000;font-family:Arial;">Assemble, configure and test analytic building blocks using a 
+graphical editor to identify exceptions and inform or automate 
+corrections to deliver rapid time to results.</span>
+						</td>
+					</tr>
+					<tr class="table-row">
+						<td>
+							<strong><span style="color:#000000;font-family:Arial;">Graphical InFlow reporting</span></strong>
+						</td>
+						<td>
+							<span style="color:#000000;font-family:Arial;">Immediate visualization of in-process analytic results offers 
+interactive discovery and ensures that results are accurate, trusted, 
+meaningful, and efficiently executed.</span>
+						</td>
+					</tr>
+					<tr class="table-altrow">
+						<td>
+							<strong><span style="color:#000000;font-family:Arial;">Reusable analytic components</span></strong>
+						</td>
+						<td>
+							<span style="color:#000000;font-family:Arial;">Group configured business controls into reusable and trusted 
+analytic components to create custom analytic libraries. Share existing 
+analytic components and graphs with technical and non-technical users 
+for cross-functional collaboration that reduces cost and lowers risk.</span>
+						</td>
+					</tr>
+					<tr class="table-row">
+						<td>
+							<strong><span style="color:#000000;font-family:Arial;">Analytic libraries</span></strong>
+						</td>
+						<td>
+							<span style="color:#000000;font-family:Arial;">Leverage pre-packaged </span><a href="http://www.lavastorm.com/products/analytics-engine/analytics-library/"><span style="color:#000000;font-family:Arial;">analytic libraries</span></a><span style="color:#000000;font-family:Arial;"> to incorporate predictive analytic models and statistical data analysis
+ within business controls, and interact with proprietary systems.</span>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+	<div class="layer-cake-container clearfix">
+		<h2>
+			<span style="color:#000000;font-family:Arial;">Desktop or Server Versions</span>
+		</h2>
+		<div class="layer-cake layer-full-width">
+			<p>
+				<span style="color:#000000;font-family:Arial;">The Lavastorm Analytics Engine enhances the analytic 
+capabilities of any size organization. If you have advanced requirements
+ in the areas of big data processing, automating analytics, continuous 
+auditing, team collaboration, and proprietary data formats, you need the
+ server-based Lavastorm Analytics Engine.&nbsp; Large organizations, or those
+ conducting analytics on a large scale or across various departments, 
+can take advantage of the scalability provided by the Enterprise Server 
+edition. Analytic teams that require server-level processing power at an
+ affordable price can take advantage of the Workgroup Server edition. 
+Individual analysts can benefit from </span><a href="http://www.lavastorm.com/products/analytics-engine/comparison-table/"><span style="color:#000000;font-family:Arial;">Lavastorm Analytics Engine Public Edition,</span></a><span style="color:#000000;font-family:Arial;"> the single user version of the Lavastorm Analytics Engine.</span>
+			</p>
+			<p>
+				<span style="color:#000000;font-family:Arial;">The server editions of the Lavastorm Analytics Engine offer these additional features over Lavastorm Desktop:</span>
+			</p>
+			<ul>
+				<li>
+					<strong><span style="color:#000000;font-family:Arial;">Scalability </span></strong><span style="color:#000000;font-family:Arial;">– Where Lavastorm Desktop is restricted
+ by the processing power of the user’s laptop or PC (typically under 20 
+million records/day), the server editions of the Lavastorm Analytics 
+Engine scale to analyze billions of records per day</span>
+				</li>
+				<li>
+					<strong><span style="color:#000000;font-family:Arial;">Collaboration </span></strong><span style="color:#000000;font-family:Arial;">– you can collaborate interactively on the design and configuration of their analytic graphs against a shared data set</span>
+				</li>
+				<li>
+					<strong><span style="color:#000000;font-family:Arial;">Extended Data Acquisition</span></strong><b><span style="color:#000000;font-family:Arial;"> – </span></b><span style="color:#000000;font-family:Arial;">you can utilize Lavastorm Data Reader to acquire complex structured data such as ASN.1 and COBOL data</span><b><span style="color:#000000;font-family:Arial;">&nbsp; </span></b>
+				</li>
+				<li>
+					<strong><span style="color:#000000;font-family:Arial;">Automated Controls</span></strong><b><span style="color:#000000;font-family:Arial;"> – </span></b><span style="color:#000000;font-family:Arial;">&nbsp;allows you to fully automate analytic execution for ongoing or </span><a href="http://www.lavastorm.com/solutions/by-use/continuous-analytics/"><span style="color:#000000;font-family:Arial;">continuous analytics</span></a>
+				</li>
+			</ul>
+			<p>
+				<span style="color:#000000;font-family:Arial;">Compare the </span><a href="http://www.lavastorm.com/products/analytics-engine/comparison-table/"><span style="color:#000000;font-family:Arial;">personal editions</span></a><span style="color:#000000;font-family:Arial;"> and the </span><a href="http://www.lavastorm.com/products/analytics-engine/server-comparison-table/"><span style="color:#000000;font-family:Arial;">server editions</span></a><span style="color:#000000;font-family:Arial;"> of the Lavastorm Analytics Engine.</span>
+			</p>
+		</div>
+	</div>
+	<div class="layer-cake-container clearfix">
+		<div class="layer-cake box-full-width">
+			<h2>
+				<span style="color:#000000;font-family:Arial;">Next Steps</span>
+			</h2>
+			<ul>
+				<li>
+					<a href="http://www.lavastorm.com/products/analytics-engine/"><span style="color:#000000;font-family:Arial;">Read the Lavastorm Analytics Engine data sheet</span></a>
+				</li>
+				<li>
+					<a href="http://www.youtube.com/watch?v=OrvwP4BSW4g" target="_blank"><span style="color:#000000;font-family:Arial;">Watch a demonstration of the Lavastorm Analytics Engine</span></a>
+				</li>
+			</ul>
+		</div>
+	</div>
+<br />
+</div>

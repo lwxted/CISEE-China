@@ -1,0 +1,87 @@
+<div id="stcpDiv">
+	<h2>
+		Capabilities
+	</h2>
+	<p>
+		From  applications like digital marketing intelligence, customer 
+behavior over time, social  network and relationship analysis, fraud 
+detection etc. — it is evident that big  data can have a tremendous 
+impact on the business. However, the challenges  facing businesses 
+desperately seeking insights from big data are daunting. Many  
+businesses remain focused on the storage and management of 
+multi-structured  data, or have multiple disconnected, dis-functional 
+technologies, or are forced  to look for and hire specialized resources 
+with scarce, expensive skillsets. This results in  huge costs, time and 
+effort before any insight is gained from big data.
+	</p>
+	<p>
+		Companies  like LinkedIn, Gilt Groupe, and Barnes &amp; Noble have
+ successfully tapped big  data for competitive advantage. And they have 
+done it with Teradata Aster Discovery  Platform. The platform provides 
+key capabilities to unlock business value in  big data with minimal time
+ and effort for a variety of business use cases such  as customer path 
+to purchase, marketing attribution, churn, manufacturing  analytics, 
+affinity, and fraud.
+	</p>
+	<ul>
+		<li>
+			<strong>Visual SQL-MapReduce Functions</strong> using which analytical results  can be instantly visualized and rapidly iterated.
+		</li>
+		<li>
+			<strong>Discovery Portfolio — </strong>Integrated, ready to use 70+  SQL-MapReduce functions for data acquisition, data preparation, analytics &amp;  visualization.
+		</li>
+		<li>
+			<strong>Broad range of analytical  techniques</strong> such as SQL, MapReduce, statistical, text analytics, graph, etc. in a single  platform.
+		</li>
+		<li>
+			<strong>Industry’s deepest stack  integration</strong> <strong>across the Aster and Apache<sup>®</sup> Hadoop<sup>®</sup> platforms</strong>. Enables business analysts to issue ANSI-standard SQL, via <strong>SQL-H™</strong> and SQL-MapReduce<sup>®</sup>, on both  Aster and Hadoop data.
+		</li>
+		<li>
+			<strong>Patented SQL-MapReduce<sup>®</sup></strong>&nbsp;to parallelize
+  the processing of data and applications and deliver rich analytic 
+insights  through the simplicity of SQL and business intelligence (BI) 
+tools.&nbsp; <strong></strong>
+		</li>
+		<li>
+			<strong>Native support for ANSI-standard  SQL</strong> allows  business analysts, BI tools and existing applications to interoperate with the  discovery platform.
+		</li>
+		<li>
+			<strong>Visual integrated development  environment (IDE)</strong> to develop big data applications in minutes
+		</li>
+		<li>
+			<strong>Richest Add-on Capabilities</strong>
+		</li>
+		<ul>
+			<li>
+				In-Database Integration of Attensity<sup>®</sup> — text &amp; sentiment analysis of social media content
+			</li>
+			<li>
+				SAS<sup>®</sup> and In-Database R — Take  advantage of Aster’s MPP platform to score statistical models at scale.
+			</li>
+			<li>
+				In-Database PMML execution via  Zementis<sup>®</sup> — Develop 
+statistical models in tools of choice &amp; score models at  scale by 
+seamlessly exporting &amp; importing the models in Teradata Aster  
+Database.
+			</li>
+		</ul>
+	</ul>
+	<h2>
+		Benefits
+	</h2>
+	<ul>
+		<li>
+			Fastest path to business value from raw big data
+		</li>
+		<li>
+			Novel, high value business insights driving growth and  profitability
+		</li>
+		<li>
+			Easiest and most productive platform to develop Big Data  apps
+		</li>
+		<li>
+			Minimal time, cost and effort spent
+		</li>
+	</ul>
+- See more at: http://www.asterdata.com/product/discovery-platform.php#sthash.sgpFH09L.dpuf
+</div>

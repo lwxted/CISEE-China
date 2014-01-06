@@ -1,0 +1,155 @@
+<div class="row-fluid tabs">
+	<div class="span4 blank-box subnav">
+		<h2>
+			<span style="color:#000000;font-family:Arial;">Features</span>
+		</h2>
+		<ul class="list">
+			<li>
+				<a href="http://www.swiftstack.com/product/tour/#deployment-automation" class="text-link"><span style="color:#000000;font-family:Arial;">Deployment Automation</span></a>
+			</li>
+			<li>
+				<a href="http://www.swiftstack.com/product/tour/#centralized-management" class="text-link"><span style="color:#000000;font-family:Arial;">Centralized management</span></a>
+			</li>
+			<li>
+				<a href="http://www.swiftstack.com/product/tour/#capacity-management" class="text-link"><span style="color:#000000;font-family:Arial;">Capacity Management</span></a>
+			</li>
+		</ul>
+		<ul class="list">
+			<li>
+				<a href="http://www.swiftstack.com/product/tour/#monitoring" class="text-link"><span style="color:#000000;font-family:Arial;">Monitoring</span></a>
+			</li>
+			<li>
+				<a href="http://www.swiftstack.com/product/tour/#support" class="text-link"><span style="color:#000000;font-family:Arial;">Support, delivered 24x7</span></a>
+			</li>
+		</ul>
+	</div>
+	<div class="span8">
+		<img src="http://www.swiftstack.com/assets/img/storage-powered-by-openstack.png" style="width:200px;" /> 
+		<p>
+			<span style="color:#000000;font-family:Arial;">SwiftStack is Software Defined Storage built from the ground-up 
+for web, mobile and as-a-service applications. SwiftStack contains 
+everything you need to set up, integrate and operate a private storage 
+cloud based on OpenStack Swift on hardware you control.</span>
+		</p>
+	</div>
+	<div class="span4">
+	</div>
+</div>
+<img src="http://www.swiftstack.com/assets/img/deployment-automation.png" class="feature-image deployment-image" /> 
+<div class="row-fluid" id="deployment">
+	<div class="span6 white-box">
+		<h1>
+			<span style="color:#000000;font-family:Arial;">Deployment Automation</span>
+		</h1>
+		<p>
+			<span style="color:#000000;font-family:Arial;">Get up and running quickly with OpenStack Swift. SwiftStack automates the installation of OpenStack Swift.</span>
+		</p>
+		<ul class="list">
+			<li>
+				<span style="color:#000000;font-family:Arial;">Deployment of availability zones based on hardware topology</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Disk discovery and inventory</span>
+			</li>
+		</ul>
+	</div>
+</div>
+<img src="http://www.swiftstack.com/assets/img/centralized-managemet.jpg" class="feature-image" id="centralized-management" /> 
+<div class="row-fluid management">
+	<div class="span4">
+	</div>
+	<div class="span8 description white-box">
+		<h1>
+			<span style="color:#000000;font-family:Arial;">Centralized management</span>
+		</h1>
+		<p>
+			<span style="color:#000000;font-family:Arial;">The </span><a href="http://www.swiftstack.com/product/architecture/"><span style="color:#000000;font-family:Arial;">SwiftStack Nodes</span></a><span style="color:#000000;font-family:Arial;"> are also instrumented at every layer to provide diagnostics, monitoring data and alerts to the </span><a href="http://www.swiftstack.com/product/controller/"><span style="color:#000000;font-family:Arial;">Controller</span></a><span style="color:#000000;font-family:Arial;">,
+ which significantly shortens the time to resolve potential bottlenecks 
+and hardware failures. By providing the metrics you need to make 
+informed decisions on how to manage and scale your cluster and the 
+operational tools to manage it, the Controller Cluster lets you do more 
+with fewer resources.</span>
+		</p>
+		<ul class="list">
+			<li>
+				<span style="color:#000000;font-family:Arial;">Visibility into and control over every part of the storage system</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Managed updates to storage system</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Cluster, node and networking configuration management</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Extensive graphs of monitoring data</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Alerts dashboard</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Easy to use management UI</span>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="row-fluid capacity-management">
+	<div class="span4 black-box">
+	</div>
+	<div class="span8 description white-box">
+		<h1>
+			<span style="color:#000000;font-family:Arial;">Capacity Management</span>
+		</h1>
+		<p>
+			<span style="color:#000000;font-family:Arial;">SwiftStack orchestrates capacity additions and removals. When it 
+is time to add storage capacity, it can be done safely without service 
+interruption. Likewise, when a failing drive is identified or when 
+decommissioning a node, data can be slowly migrated off of the device.</span>
+		</p>
+		<ul class="list">
+			<li>
+				<span style="color:#000000;font-family:Arial;">Safely add additional capacity on a live cluster</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Gradually remove failing drives</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Gradually decommission  storage nodes</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Monitor cluster capacity</span>
+			</li>
+		</ul>
+	</div>
+</div>
+<img src="http://www.swiftstack.com/assets/img/monitoring.png" class="feature-image" /> 
+<div class="row-fluid" id="monitoring">
+	<div class="span7 description white-box">
+		<h1>
+			<span style="color:#000000;font-family:Arial;">Monitoring</span>
+		</h1>
+		<p>
+			<span style="color:#000000;font-family:Arial;">SwiftStack provides an integrated monitoring specifically 
+designed for OpenStack Swift. SwiftStack provides extensive visibility 
+into your Swift cluster. Over 500 data points are collected about each 
+node. Visualizing  these data points allows operators to quickly 
+diagnose issues in the cluster.</span>
+		</p>
+		<ul class="list">
+			<li>
+				<span style="color:#000000;font-family:Arial;">SwiftStack monitors 500+ data points per node</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Monitoring dashboard</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Quickly select time-range and apply across all graphs</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Alerts dashboard</span>
+			</li>
+			<li>
+				<span style="color:#000000;font-family:Arial;">Integrates with Ganglia and Nagios</span>
+			</li>
+		</ul>
+	</div>
+</div>

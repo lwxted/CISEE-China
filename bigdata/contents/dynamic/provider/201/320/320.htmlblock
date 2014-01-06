@@ -1,0 +1,63 @@
+<div class="grid_80 left_grid" style="margin:0px 9px 19.78333282470703px 9.883333206176758px;padding:0px;color:#666666;font-family:Arial, Helvetica, sans-serif;font-size:13px;">
+	<h5 style="font-size:12pt;font-family:PTSansRegular;font-weight:normal;">
+		FeedZai Pulse is a mature enterprise-level data processing engine, based on open standards like Java Enterprise Edition, Java Messaging System, JMX, SQL, HTML5, among others.&nbsp;
+	</h5>
+</div>
+<div class="clear" style="margin:0px;padding:0px;color:#666666;font-family:Arial, Helvetica, sans-serif;font-size:13px;">
+	&nbsp;<strong>A powerful and highly optimized data processing kernel (PKernel) allows hundreds of thousand of events to be processed in real-time providing up-to-date information with very low latencies.</strong>
+</div>
+<div class="grid_60" style="margin:0px 9px 19.78333282470703px 9.883333206176758px;padding:0px;color:#666666;font-family:Arial, Helvetica, sans-serif;font-size:13px;">
+	<div class="key_panes" style="margin:0px;padding:20px 0px 0px;">
+		<div style="margin:0px;padding:0px;">
+			<div class="grid_100 alpha" style="margin:0px 5px 11.483333587646484px 0px;padding:0px;">
+				<p>
+					Moreover, it interacts seamlessly with Java code, allowing the development of “PulseApps” (applications that run on top of Pulse), and its easy and quick integration with Java enterprise software.
+				</p>
+			</div>
+			<div class="grid_100 alpha" style="margin:0px 5px 11.483333587646484px 0px;padding:0px;">
+				<h3 style="font-size:14pt;font-family:Helvetica-Light, Helvetica, Arial, sans-serif;font-weight:normal;">
+					A highly expressive data manipulation and querying language (PulseQL).
+				</h3>
+				<p>
+					Based on standard SQL and with improvements from efforts like the Continuous Query Language (CQL) and LINQ, PulseQL raises continuous queries to an entirely new level. It allows easily define temporal queries, continuous values, event-based dictionaries, joins among different types of entities and windows (time or tuple-based), in an intuitive and expressive way.
+				</p>
+			</div>
+			<div class="clear" style="margin:0px;padding:0px;">
+			</div>
+			<div class="grid_20 alpha" style="margin:0px 5px 11.483333587646484px 0px;padding:0px;">
+				<img src="http://www.feedzai.com/images/m_alarm.png" width="280px" style="border:0px;" />
+			</div>
+			<div class="grid_80 alpha" style="margin:0px 5px 11.483333587646484px 0px;padding:0px;">
+				<h3 style="font-size:14pt;font-family:Helvetica-Light, Helvetica, Arial, sans-serif;font-weight:normal;">
+					Off-the-shelf definition of Metrics and Key-Performance-Indicators (KPI)
+				</h3>
+				<p>
+					Visualizing information in real-time is good, but data needs to be persisted and queried. Moreover, in order to be productive the level of abstraction must be raised beyond low-level queries.&nbsp;<br />
+<br />
+Pulse allows to easily define metrics that are both available for real-time visualization and data treatment, but are also aggregated, consolidated and persisted. Once a metric is given a name it can be uniquely and transparently referenced from all Pulse modules.
+				</p>
+			</div>
+			<div class="clear" style="margin:0px;padding:0px;">
+			</div>
+			<div class="grid_100 alpha" style="margin:0px 5px 11.483333587646484px 0px;padding:0px;">
+				<h3 style="font-size:14pt;font-family:Helvetica-Light, Helvetica, Arial, sans-serif;font-weight:normal;">
+					Predictive Analytics though a state-of-the-art Baseline Generator
+				</h3>
+				<p>
+					The Pulse baseline generator allows you to instantly know if the metrics currently being monitored are within expected ranges or not, and how they are expected to evolve in the future.
+				</p>
+				<p>
+					FeedZai Pulse automatically saves aggregated information regarding key-performance indicators and, given a baseline profile, automatically calculates the current expected values as well as the baseline curve for the upcoming hours. Multiple baselines can exist for the same metric and support for metric and baseline hierarchies are native to the product.
+				</p>
+			</div>
+			<div class="grid_100 alpha" style="margin:0px 5px 11.483333587646484px 0px;padding:0px;">
+				<h3 style="font-size:14pt;font-family:Helvetica-Light, Helvetica, Arial, sans-serif;font-weight:normal;">
+					Alarms and Actuation
+				</h3>
+				<p>
+					By combining key-performance indicators with a flexible definition of baselines, alarms and actuation can be automatically raised when something unexpected happens even when no human is monitoring the system. FeedZai Pulse allows to continuously monitor, up-to-the-second, hundreds of key-performance indicators and baselines, over large data hierarchies, acting when it matters the most.
+				</p>
+			</div>
+		</div>
+	</div>
+</div>

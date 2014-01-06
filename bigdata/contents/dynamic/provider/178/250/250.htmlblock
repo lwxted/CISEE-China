@@ -1,0 +1,41 @@
+<div class="page-header landing-header center" style="margin:0px;border:none;text-align:center;color:#565E66;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;">
+	<div class="row" style="margin-left:-20px;">
+		<div class="span12" style="margin-left:20px;">
+			<h1 style="font-family:inherit;font-weight:200;color:#444444;font-size:32px;">
+				Global Places Data
+			</h1>
+			<h2 style="font-family:inherit;font-weight:200;font-size:22px;">
+				Definitive database of 65 million local business and point of interest listings in 50 countries.
+			</h2>
+		</div>
+		<div class="documentation" style="color:#818D99;font-size:11px;padding:0px 20px;border:1px dotted #EBEBEB;font-weight:bold;">
+			<br />
+		</div>
+	</div>
+</div>
+<div class="row discussion-points" style="margin-left:-20px;color:#565E66;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;">
+	<div class="center span4" style="margin-left:20px;text-align:center;">
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			CORE BUSINESS ATTRIBUTES
+		</h3>
+		<p>
+			Each business listing or point of interest includes Name, Address, Phone Number, Lat/Lng, Category, Email, and Website.
+		</p>
+	</div>
+	<div class="center span4" style="margin-left:20px;text-align:center;">
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			OVER 65 MILLION LISTINGS
+		</h3>
+		<p>
+			Data includes all local businesses (restaurants, hotels, spas, salons, etc.) and points of interest (museums, airports, beaches, landmarks, etc.)
+		</p>
+	</div>
+	<div class="center span4" style="margin-left:20px;text-align:center;">
+		<h3 style="font-family:inherit;color:#444444;font-size:13px;">
+			API AND DOWNLOAD ACCESS
+		</h3>
+		<p>
+			Access the data via our ultra-fast API or download the full database and host it yourself.
+		</p>
+	</div>
+</div>

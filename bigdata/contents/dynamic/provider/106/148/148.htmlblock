@@ -1,0 +1,49 @@
+<h3>
+	Key Features
+</h3>
+<ul>
+	<li>
+		Full-fidelity analytics
+	</li>
+	<li>
+		Personalized analytics dashboard
+	</li>
+	<li>
+		Choice for Data Exploration
+	</li>
+	<li>
+		Exploratory and Predictive Analytics
+	</li>
+	<li>
+		Ability to Use Existing SAS, SPSS and R Analytic Models
+	</li>
+	<li>
+		Dynamic Data Lenses for Self-Service Analytics
+	</li>
+	<li>
+		Industry Standard Analytics Hub
+	</li>
+</ul>
+<h3>
+	Technical Specifications
+</h3>
+<ul>
+	<li>
+		Server-based product accessible by all devices
+	</li>
+	<li>
+		Works on physical and virtual servers and cloud-based environments including Amazon Web Services and Rackspace
+	</li>
+	<li>
+		Supports all major Hadoop platforms, including Cloudera, Hortonworks and MapR
+	</li>
+	<li>
+		Uses standard Hadoop metastore
+	</li>
+	<li>
+		100% compatible with Hive .11
+	</li>
+	<li>
+		Integrates with existing BI tools including Tableau and Spotfire
+	</li>
+</ul>

@@ -1,0 +1,64 @@
+<div class="hero" style="padding:55px 90px;background-color:#5C96D2;margin-left:-90px;color:#666666;font-family:YaHei, Simsun, 'Segoe UI', Helvetica, Garuda, Arial, sans-serif;font-size:14px;">
+	<div class="hero-content">
+		<h1 style="color:#FFFFFF;font-weight:100;font-size:34px;">
+			基础结构服务
+		</h1>
+		<h4 style="font-size:18px;color:#FFFFFF;">
+			您的行动或您的创意，我们执行
+		</h4>
+		<p style="color:#FFFFFF;font-size:16px;">
+			Windows Azure 提供按需基础结构，可改变规模并适应您不断变化的业务需要。无论是创建新应用程序还是运行现有应用程序，我们都提供同类最佳的性价比和端到端支持。
+		</p>
+	</div>
+</div>
+<p>
+	<br />
+</p>
+<div class="s1" style="padding:55px 90px;margin-left:-90px;">
+	<h2 style="color:#505050;font-weight:100;font-size:36px;">
+		只需几分钟即可按需调整容量
+	</h2>
+	<p>
+		使用您自己的映像或根据我们提供的预定义映像进行构建，只需几分钟即可创建可靠的部署。我们对生产以及<a href="http://www.windowsazure.com/zh-cn/solutions/dev-test/">设备和测试方案</a>提供同类最佳的性能，使您可轻松地在云与内部部署之间移动以适应您的需要。
+	</p>
+	<p class="quote" style="font-style:italic;font-size:12px;">
+		“Windows Azure 虚拟机对我们来说是一个这么合适的解决方案。我们可使用 IaaS 代替在服务器上投资进行开发和测试。整个过程中节省了很多时间。”<span class="author" style="font-style:normal;">Telenor 的 IT 主管 Andreas Hogberg</span> 
+	</p>
+</div>
+<div class="s2" style="padding:55px 90px;margin-left:-90px;">
+	<h2 style="color:#505050;font-weight:100;font-size:36px;">
+		受到全面支持、可靠的 SharePoint 基础结构
+	</h2>
+	<p>
+		只需点击一下并且无需前期投资，即可迅速搭建 SharePoint Server 场。集成完全可信的代码以运行内容丰富的自定义应用程序和构建面向 Internet 的网站。按需改变规模，测试要部署的版本，并且只为使用的部分付费。
+	</p>
+<a href="http://go.microsoft.com/fwlink/?linkid=302116&amp;clcid=0x804" class="video"><span class="desc" style="color:#666666;font-style:normal;">用 SharePoint 2013 和 Windows Azure 改变丰田 GAZOO.com 网站的规模</span></a> 
+</div>
+<p>
+	<br />
+</p>
+<h2 style="color:#505050;font-weight:100;font-size:36px;">
+	受到全面支持、可靠的 SQL Server 基础结构
+</h2>
+<p>
+	用完整的 SQL Server 功能开发、测试和运行应用程序，或将现有的内部部署应用程序迁移到云以获得成本或性能权益。发掘新的混合业务连续性策略，如在内部部署 SQL Server AlwaysOn 主数据库，在虚拟机中部署基于云的辅助数据库。
+</p>
+<p>
+	<span style="color:#505050;font-size:36px;"><br />
+</span> 
+</p>
+<p>
+	<span style="color:#505050;font-size:36px;">单一标识，单一登录</span> 
+</p>
+<p>
+	<br />
+</p>
+<div class="s4" style="padding:55px 90px;margin-left:-90px;">
+	<p>
+		构建具有单一登录功能的混合服务和云应用程序以交付给用户。用内部部署 Active Directory 服务将现有的标识应用于在虚拟机中运行的应用程序。正在运行 Office 365？只需在虚拟机中运行 Active Directory 联合身份验证服务，即可与内部部署标识同步以实现单一登录。
+	</p>
+<br />
+</div>
+<p>
+	<br />
+</p>

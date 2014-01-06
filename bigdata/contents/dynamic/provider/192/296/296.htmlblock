@@ -1,0 +1,236 @@
+<div class="container" style="margin-left:auto;">
+	<h1 class="center" style="font-size:3em;font-family:'Open Sans', sans-serif;font-weight:300;color:#333333;text-align:center;">
+		The Ayasdi Platform
+	</h1>
+	<div class="row prepend-top-2x" style="margin-left:-36px;">
+		<div class="span7" style="margin-left:36px;">
+			<div class="video-wrap center-block" style="margin-left:auto;">
+				<a href="http://www.youtube.com/embed/KVRx3r8qeQs?rel=0&amp;autoplay=1" class="lightbox-video cboxElement">
+				<div class="play-overlay" style="margin:0px auto;background-color:#000000;">
+					<span class="play-button"></span><img src="http://www.ayasdi.com/_media/video_product.png" height="340" width="545" alt="Video" style="border:0px;" />
+				</div>
+</a>
+			</div>
+		</div>
+		<div class="span5" style="margin-left:36px;">
+			<p style="font-family:'Droid Serif', serif;font-size:0.9em;">
+				Ayasdi's enterprise technology platform automates the end-to-end workflow from discovery of insights to operationalizing how data is used to solve business problems.
+			</p>
+			<p style="font-family:'Droid Serif', serif;font-size:0.9em;">
+				Utilizing Topological Data Analysis (TDA), Ayasdi unifies best-of-breed machine learning approaches into a common framework without the need to write algorithms, queries or models.
+			</p>
+			<p style="font-family:'Droid Serif', serif;font-size:0.9em;">
+				Our technology allows for data scientists, domain experts, and business people to rapidly achieve ROI with massively complex and expensive data sets.
+			</p>
+		</div>
+	</div>
+</div>
+<div class="container" style="margin-left:auto;">
+	<h1 style="font-size:2.25em;font-family:'Open Sans', sans-serif;font-weight:300;color:#FFFFFF;">
+		Architecture
+	</h1>
+	<div class="row prepend-top-2x" style="margin-left:-36px;">
+		<div class="span7 platform-graphic" style="margin-left:36px;">
+			<ul class="iris">
+				<div class="circled-icon icon-iris" style="background-color:transparent;border:8px solid #333333;">
+				</div>
+				<li style="font-family:'Open Sans', sans-serif;font-size:1.6em;text-align:center;color:#FFFFFF;">
+					<a class="popup nolink sticky" href="http://www.ayasdi.com/product/#">Ayasdi Iris
+					<div class="basic-box border-top shadow pointer selected" style="background-color:#FFFFFF;padding:30px;text-align:left;">
+						<h3 style="font-weight:300;font-size:1em;">
+							Ayasdi Iris
+						</h3>
+						<p class="unlink" style="font-family:'Droid Serif', serif;font-size:0.6em;color:#666666;">
+							Ayasdi Iris is the world’s first Insight Discovery solution that uses TDA to highlight the underlying geometric shapes of your data and allowing for real-time interaction to produce immediate insights.
+						</p>
+						<p class="unlink" style="font-family:'Droid Serif', serif;font-size:0.6em;color:#666666;">
+							Ayasdi Iris is offered as a multi-tenant cloud or as an on-premise solution, and is applicable for any organization needing to discover insights from complex data.
+						</p>
+					</div>
+</a>
+				</li>
+			</ul>
+			<ul class="platform">
+				<div class="circled-icon icon-platform" style="background-color:transparent;border:8px solid #333333;">
+				</div>
+				<li style="font-family:'Open Sans', sans-serif;font-size:1.6em;text-align:center;color:#FFFFFF;">
+					Ayasdi Platform
+					<ul>
+						<li class="api" style="font-size:1.6em;text-align:center;">
+							<a class="popup nolink sticky" href="http://www.ayasdi.com/product/#">API</a>
+						</li>
+						<li class="analysis" style="font-size:1.6em;text-align:center;">
+							<a class="popup nolink sticky" href="http://www.ayasdi.com/product/#">Topological Data Analysis
+							<ul>
+								<li class="algorithms popup sticky nested" style="font-size:1em;text-align:center;background-color:#D78319;">
+									Machine-learning algorithms
+								</li>
+							</ul>
+</a>
+						</li>
+						<li class="scalable" style="font-size:1.6em;text-align:center;">
+							<a class="popup nolink sticky" href="http://www.ayasdi.com/product/#">Scalable computing and distributed data store</a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+			<ul class="data">
+				<div class="circled-icon icon-data" style="background-color:transparent;border:8px solid #333333;">
+				</div>
+				<li style="font-family:'Open Sans', sans-serif;font-size:1.6em;text-align:center;color:#FFFFFF;">
+					<a class="popup nolink sticky" href="http://www.ayasdi.com/product/#">Public or Proprietary Data</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div class="container" style="margin-left:auto;">
+	<h1 style="font-size:2.25em;font-family:'Open Sans', sans-serif;font-weight:300;color:#333333;">
+		Everyone Can Be a Data Scientist
+	</h1>
+	<p class="lead-in" style="font-family:'Droid Serif', serif;font-size:1.1em;color:#999999;">
+		The Ayasdi platform is built to empower an entire organization to achieve brilliance.
+	</p>
+	<table class="deployment striped append-bottom-1-2" style="border-collapse:collapse;width:960px;background-color:white;color:#333333;">
+		<tbody>
+			<tr>
+				<th style="color:#F7961D;font-size:0.8em;text-align:center;vertical-align:bottom;font-family:'Open Sans', sans-serif;font-weight:500;">
+					EMPLOYEE PROFILES
+				</th>
+				<th style="color:#F7961D;font-size:0.8em;text-align:center;vertical-align:bottom;font-family:'Open Sans', sans-serif;font-weight:500;">
+					NUMBER OF&nbsp;<br />
+EMPLOYEES
+				</th>
+				<th style="color:#F7961D;font-size:0.8em;text-align:center;vertical-align:bottom;font-family:'Open Sans', sans-serif;font-weight:500;">
+					BUSINESS IMPACT
+				</th>
+				<th class="highlighted" style="color:#F7961D;font-size:0.8em;text-align:center;vertical-align:bottom;font-family:'Open Sans', sans-serif;font-weight:500;background-color:#EBEBEB;">
+					<img src="http://www.ayasdi.com/_media/logos/ayasdi_137x24.png" height="24" width="137" alt="Ayasdi" style="border:0px;" />&nbsp;<br />
+ADDED VALUE
+				</th>
+			</tr>
+		</tbody>
+		<tbody>
+			<tr>
+				<td style="vertical-align:top;">
+					<h3 style="font-family:'Open Sans', sans-serif;font-weight:300;font-size:1.5em;">
+						Mathematicians
+					</h3>
+					<p style="font-family:'Droid Serif', serif;font-size:0.9em;color:#666666;">
+						Deep mathematical and statistical background; programming skills, data mining experience
+					</p>
+				</td>
+				<td class="align-middle" style="vertical-align:middle;">
+					<div class="employee" style="margin:0px auto;text-align:center;">
+						<p class="icon-small" style="font-family:'Open Sans', sans-serif;font-size:1.2em;color:#F7961D;vertical-align:top;">
+							‹ 100
+						</p>
+					</div>
+				</td>
+				<td style="vertical-align:top;">
+					<h3 class="impact-icon breakthroughs center" style="font-family:'Open Sans', sans-serif;font-weight:300;font-size:1.5em;text-align:center;">
+						Find breakthroughs from data
+					</h3>
+				</td>
+				<td class="highlighted" style="vertical-align:top;background-color:#EBEBEB;">
+					<h3 style="font-family:'Open Sans', sans-serif;font-weight:300;font-size:1.5em;">
+						Time to Insight
+					</h3>
+					<p style="font-family:'Droid Serif', serif;font-size:0.9em;color:#666666;">
+						Unsupervised, model-free insight discovery. Find answers in complex data automatically in seconds. Focus more time on solving problems and finding breakthroughs.
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td style="vertical-align:top;">
+					<h3 style="font-family:'Open Sans', sans-serif;font-weight:300;font-size:1.5em;">
+						Engineers
+					</h3>
+					<p style="font-family:'Droid Serif', serif;font-size:0.9em;color:#666666;">
+						Background in engineering and computer science; skilled in database queries
+					</p>
+				</td>
+				<td style="vertical-align:top;">
+					<div class="employee" style="margin:0px auto;text-align:center;">
+						<p class="icon-medium" style="font-family:'Open Sans', sans-serif;font-size:1.2em;color:#F7961D;vertical-align:top;">
+							› 1000
+						</p>
+					</div>
+				</td>
+				<td style="vertical-align:top;">
+					<h3 class="impact-icon operational center" style="font-family:'Open Sans', sans-serif;font-weight:300;font-size:1.5em;text-align:center;">
+						Operationalize processes with data
+					</h3>
+				</td>
+				<td class="highlighted" style="vertical-align:top;background-color:#EBEBEB;">
+					<h3 style="font-family:'Open Sans', sans-serif;font-weight:300;font-size:1.5em;">
+						Automation
+					</h3>
+					<p style="font-family:'Droid Serif', serif;font-size:0.9em;color:#666666;">
+						Operationalize insights from complex data with internal systems and processes. Provide value to the business by automating workflow tied to solving expensive problems.
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td style="vertical-align:top;">
+					<h3 style="font-family:'Open Sans', sans-serif;font-weight:300;font-size:1.5em;">
+						Business Users
+					</h3>
+					<p style="font-family:'Droid Serif', serif;font-size:0.9em;color:#666666;">
+						Domain experts and business people whom understand data
+					</p>
+				</td>
+				<td style="vertical-align:top;">
+					<div class="employee" style="margin:0px auto;text-align:center;">
+						<p class="icon-large" style="font-family:'Open Sans', sans-serif;font-size:1.2em;color:#F7961D;vertical-align:top;">
+							› 10,000
+						</p>
+					</div>
+				</td>
+				<td style="vertical-align:top;">
+					<h3 class="impact-icon reporting center" style="font-family:'Open Sans', sans-serif;font-weight:300;font-size:1.5em;text-align:center;">
+						Make decisions<br />
+with data
+					</h3>
+				</td>
+				<td class="highlighted" style="vertical-align:top;background-color:#EBEBEB;">
+					<h3 style="font-family:'Open Sans', sans-serif;font-weight:300;font-size:1.5em;">
+						Solve Problems
+					</h3>
+					<p style="font-family:'Droid Serif', serif;font-size:0.9em;color:#666666;">
+						Utilize insights to solve complex and expensive problems. Drive immediate ROI across the entire organization and impact the business with billions in new revenues or savings.
+					</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<div class="container" style="margin-left:auto;">
+	<div class="row" style="margin-left:-36px;">
+		<div class="span4" style="margin-left:36px;">
+			<div class="inner equalheight" style="padding:10px 20px;">
+				<p style="font-family:'Droid Serif', serif;font-size:0.9em;">
+					<br />
+				</p>
+			</div>
+		</div>
+		<div class="span4" style="margin-left:36px;">
+			<div class="inner equalheight" style="padding:10px 20px;">
+				<h3 class="more" style="font-family:'Open Sans', sans-serif;font-weight:300;color:#333333;font-size:1.5em;">
+					<br />
+				</h3>
+<img src="http://www.ayasdi.com/_media/logos/four-fifty-one.png" height="39" width="100" alt="" style="border:0px;" />
+				<p style="font-family:'Droid Serif', serif;font-size:0.9em;">
+					<br />
+				</p>
+			</div>
+		</div>
+		<div class="span4" style="margin-left:36px;">
+			<div class="inner equalheight" style="padding:10px 20px;">
+				<h3 class="more" style="font-family:'Open Sans', sans-serif;font-weight:300;color:#333333;font-size:1.5em;">
+					<br />
+				</h3>
+			</div>
+		</div>
+	</div>
+</div>

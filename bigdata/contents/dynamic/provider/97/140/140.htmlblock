@@ -1,0 +1,121 @@
+<div class="masthead inverse">
+	<div class="container">
+		<div class="row">
+			<div class="span12">
+				<p class="full_monty_secondary">
+					<br />
+				</p>
+				<div class="masthead inverse">
+					<div class="container">
+						<div class="row">
+							<div class="span12">
+								<h1 class="full_monty_small">
+									<span style="font-family:Arial;color:#000000;">Collect Business Data at Massive Scale</span>
+								</h1>
+								<p class="full_monty_secondary">
+									<span style="font-family:Arial;color:#000000;">The accuracy of in-house teams, the cost advantage of the crowd</span>
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row-fluid top-btm-spacing">
+					<div class="span6 pageintro">
+						<p>
+							<span style="font-family:Arial;color:#000000;">Our business data workflows use the </span><span style="font-family:Arial;color:#000000;" class="text-info">world’s largest workforce</span><span style="font-family:Arial;color:#000000;"> to collect data on businesses - in real time, with ultra high accuracy.</span>
+						</p>
+						<p>
+							<span style="font-family:Arial;color:#000000;">We deliver core data like URL, address and phone as well as custom workflows.</span>
+						</p>
+						<p>
+							<span style="font-family:Arial;color:#000000;">Find out why companies like Groupon and Autodesk rely on CrowdFlower to deliver quality data.</span>
+						</p>
+						<div class="row-fluid signup_button">
+							<a class="sign_up btn btn-warning" href="http://crowdflower.com/products/business_data#sign_up"> 
+							<h4 class="signup_text">
+								<img src="data:image/png;base64,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" alt="" /><br />
+							</h4>
+</a> 
+						</div>
+					</div>
+					<div class="span6" style="text-align:center;">
+						<div class="grouptext">
+						</div>
+					</div>
+				</div>
+				<div class="row-fluid triblock">
+					<div class="span4">
+						<h4>
+							<span style="font-family:Arial;color:#000000;">What we provide</span>
+						</h4>
+						<p>
+							<span style="font-family:Arial;color:#000000;">From CRM data for sales teams to private company data for the finance sector, CrowdFlower is the gold standard.</span>
+						</p>
+					</div>
+					<div class="span4">
+						<h4>
+							<span style="font-family:Arial;color:#000000;">High accuracy</span>
+						</h4>
+						<p>
+							<span style="font-family:Arial;color:#000000;">We deliver ultra high accuracy data using the crowd, technology and
+ in- house experts. Data that doesn't meet our standards is free. </span><a href="http://crowdflower.com/quality_control/"><span style="font-family:Arial;color:#000000;">Learn more about our quality control techniques.</span></a> 
+						</p>
+					</div>
+					<div class="span4">
+						<h4>
+							<span style="font-family:Arial;color:#000000;">Watch the video</span>
+						</h4>
+						<p>
+							<span style="font-family:Arial;color:#000000;">Interested in crowdsourcing for sales and marketing teams? </span><a href="http://crowdflower.com/products/lead_data/webinar_signup.html"><span style="font-family:Arial;color:#000000;">Watch our free webinar</span></a><span style="font-family:Arial;color:#000000;"> and learn why the best work with us.</span>
+						</p>
+					</div>
+				</div>
+				<div class="well well-med-small top-btm-spacing">
+					<div class="row-fluid">
+						<div class="span9">
+							<h4 class="black">
+								<span style="font-family:Arial;color:#000000;">Check out the LA Times coverage of CrowdFlower's Apple Maps study</span>
+							</h4>
+							<p class="black">
+								<span style="font-family:Arial;color:#000000;">See what happened when we used our business data workflow to check the quality of Apple Maps data</span>
+							</p>
+						</div>
+						<div class="span3">
+							<div class="row-fluid signup_button" id="read_more">
+								<a class="sign_up btn btn-warning" href="http://articles.latimes.com/2012/dec/20/business/la-fi-tn-apple-google-maps-lost-20121220" target="_blank"> 
+								<h4 class="signup_text">
+									<br />
+								</h4>
+</a> 
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="span4">
+					<h4>
+						<span style="font-family:Arial;color:#000000;">Sales and Marketing</span>
+					</h4>
+					<p>
+						<span style="font-family:Arial;color:#000000;">Your sales team runs on data. Give them accurate lead data with rich customer intelligence. </span><a href="http://crowdflower.com/products/lead_data"><br />
+</a>
+					</p>
+				</div>
+				<div class="span4">
+					<h4>
+						<span style="font-family:Arial;color:#000000;">Finance</span>
+					</h4>
+					<p>
+						<span style="font-family:Arial;color:#000000;">Timely, detailed private company data that meets your exacting quality standards.</span>
+					</p>
+				</div>
+				<h4>
+					<span style="font-family:Arial;color:#000000;">POI Data</span>
+				</h4>
+<span style="font-family:Arial;color:#000000;">Fight data rot with local business data sourced on demand, including extended attributes.</span>
+				<p>
+					<br />
+				</p>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,65 @@
+<h2>
+	<span style="font-family:Arial;color:#000000;">Welcome to Apache HBase™</span><a name="Welcome_to_Apache_HBase"></a>
+</h2>
+<p>
+	<a class="externalLink" href="http://www.apache.org/"><span style="font-family:Arial;color:#000000;">Apache</span></a><span style="font-family:Arial;color:#000000;"> HBase™ is the </span><a class="externalLink" href="http://hadoop.apache.org"><span style="font-family:Arial;color:#000000;">Hadoop</span></a><span style="font-family:Arial;color:#000000;"> database, a distributed, scalable, big data store.</span>
+</p>
+<div class="section">
+	<h4>
+		<span style="font-family:Arial;color:#000000;">When Would I Use Apache HBase?</span><a name="When_Would_I_Use_Apache_HBase"></a>
+	</h4>
+	<p>
+		<span style="font-family:Arial;color:#000000;">Use Apache HBase when you need random, realtime read/write access to
+ your Big Data.
+    This project's goal is the hosting of very large tables -- billions 
+of rows X millions of columns -- atop clusters of commodity hardware.
+Apache HBase is an open-source, distributed, versioned, column-oriented 
+store modeled after Google's </span><a class="externalLink" href="http://research.google.com/archive/bigtable.html"><span style="font-family:Arial;color:#000000;">Bigtable: A Distributed Storage System for Structured Data</span></a><span style="font-family:Arial;color:#000000;"> by Chang et al.
+ Just as Bigtable leverages the distributed data storage provided by the
+ Google File System, Apache HBase provides Bigtable-like capabilities on
+ top of Hadoop and HDFS.</span>
+	</p>
+</div>
+<div class="section">
+	<h4>
+		<span style="font-family:Arial;color:#000000;">Features</span><a name="Features"></a>
+	</h4>
+	<p>
+		<br />
+	</p>
+	<ul>
+		<li>
+			<span style="font-family:Arial;color:#000000;">Linear and modular scalability.</span>
+		</li>
+		<li>
+			<span style="font-family:Arial;color:#000000;">Strictly consistent reads and writes.</span>
+		</li>
+		<li>
+			<span style="font-family:Arial;color:#000000;">Automatic and configurable sharding of tables</span>
+		</li>
+		<li>
+			<span style="font-family:Arial;color:#000000;">Automatic failover support between RegionServers.</span>
+		</li>
+		<li>
+			<span style="font-family:Arial;color:#000000;">Convenient base classes for backing Hadoop MapReduce jobs with Apache HBase tables.</span>
+		</li>
+		<li>
+			<span style="font-family:Arial;color:#000000;">Easy to use Java API for client access.</span>
+		</li>
+		<li>
+			<span style="font-family:Arial;color:#000000;">Block cache and Bloom Filters for real-time queries.</span>
+		</li>
+		<li>
+			<span style="font-family:Arial;color:#000000;">Query predicate push down via server side Filters</span>
+		</li>
+		<li>
+			<span style="font-family:Arial;color:#000000;">Thrift gateway and a REST-ful Web service that supports XML, Protobuf, and binary data encoding options</span>
+		</li>
+		<li>
+			<span style="font-family:Arial;color:#000000;">Extensible jruby-based (JIRB) shell</span>
+		</li>
+		<li>
+			<span style="font-family:Arial;color:#000000;">Support for exporting metrics via the Hadoop metrics subsystem to files or Ganglia; or via JMX</span>
+		</li>
+	</ul>
+</div>

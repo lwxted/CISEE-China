@@ -1,0 +1,39 @@
+<h2>
+	Unbounded Exploratory BI
+</h2>
+<p>
+	Platfora is a fully featured, 
+enterprise-class business intelligence application. Built on HTML5, it 
+is accessible anywhere and there are no per-user licensing limits. 
+Collaboration and sharing is built in. With Platfora, analysts can drill
+ into detail or dimensions only available in raw data without the IT 
+friction and complexity of traditional solutions.
+</p>
+<p class="read_more">
+	<a href="http://www.platfora.com/explore">Read More &gt;</a>
+</p>
+<h2>
+	In-Memory Lenses
+</h2>
+<p>
+	Powered
+ by Fractal Cache™ technology, Platfora automatically transforms massive
+ datasets into highly responsive lenses. The high-performance query 
+engine makes access to big data fast and scales-out to terabytes of 
+in-memory data. Lenses are refined and updated based on the needs of the
+ end-user.
+</p>
+<p class="read_more">
+	<a href="http://www.platfora.com/memory">Read More &gt;</a>
+</p>
+<h2>
+	Hadoop Data Refinery
+</h2>
+<p>
+	Platfora
+ transforms Apache Hadoop into a work engine. Adaptive Job Synthesis™ 
+synthesizes specialized MapReduce jobs that automatically extract 
+detail, perform calculations and downstream analysis, building lenses 
+efficiently and on demand. All datasets in Hadoop are cataloged and can 
+be securely browsed by any Platfora user.
+</p>

@@ -1,0 +1,49 @@
+<div class="callout" style="margin:0px;padding:0px;color:#555555;font-family:Arial, Verdana, Helvetica, 'Helvetica Light', sans-serif;">
+	<div class="area1" style="margin:0px;padding:0px 80px 0px 0px;">
+		<p>
+			<em>Revolution R Community</em>&nbsp;is Revolution Analytics'&nbsp;<strong>free</strong>distribution of the open source R programming language -- enhanced for users looking for faster performance and greater stability. It's perfect for learning R and basic analysis.&nbsp;
+		</p>
+	</div>
+	<div class="area2 bluebox2" style="margin:0px;padding:16px 11px 0px 14px;font-weight:bold;">
+		<p>
+			Quick Link:<br />
+<a href="http://www.revolutionanalytics.com/why-revolution-r/which-r-is-right-for-me.php">Which R is Right for Me?</a>
+		</p>
+	</div>
+<br />
+</div>
+<p style="color:#555555;font-family:Arial, Verdana, Helvetica, 'Helvetica Light', sans-serif;">
+	Revolution R runs many computationally-intensive programs faster, especially on multiprocessor systems. It is linked with computational libraries that take advantage of multiple processors simultaneously to reduce the time to complete many common mathematical operations. You do not need to modify your existing R code to benefit from these optimizations.
+</p>
+<p style="color:#555555;font-family:Arial, Verdana, Helvetica, 'Helvetica Light', sans-serif;">
+	While the base R software from the&nbsp;<a href="http://www.r-project.org/" target="_blank">R-Project</a>&nbsp;is available for open source users and technologists, we have added specific enhancements to R&nbsp; to make it more usable for a broader audience:
+</p>
+<ul style="color:#555555;font-family:Arial, Verdana, Helvetica, 'Helvetica Light', sans-serif;">
+	<li>
+		<em><strong>Higher Performance</strong></em>: Revolution R Community is built with the Intel® Math Kernel Library to run most computation-intensive programs significantly faster than Base R. See our&nbsp;<a href="http://www.revolutionanalytics.com/why-revolution-r/benchmarks.php" target="_blank">benchmarks</a>.<br />
+	</li>
+	<li>
+		<em><strong>More Reliability</strong></em>: Revolution R is built upon the latest proven &amp; stable R releases.
+	</li>
+	<li>
+		<em><strong>Up-to-Date</strong></em>: Building on the final stable release of each R version means critical updates and bugs fixes are incorporated -- less for you to worry about.<br />
+	</li>
+	<li>
+		...&nbsp;<em><strong>and more!</strong></em>&nbsp;Unleash the processing power of multi-core processors: "ParallelR Lite" library included.&nbsp;
+	</li>
+</ul>
+<h2 style="font-size:12px;color:#FF6633;font-family:Arial, Verdana, Helvetica, 'Helvetica Light', sans-serif;">
+	<strong>Download Revolution R Now</strong><br />
+</h2>
+<p style="color:#555555;font-family:Arial, Verdana, Helvetica, 'Helvetica Light', sans-serif;">
+	Revolution R is available for download on 32-bit and 64-bit Windows and 64-bit Red Hat Enterprise Linux systems.
+</p>
+<h2 style="font-size:12px;color:#FF6633;font-family:Arial, Verdana, Helvetica, 'Helvetica Light', sans-serif;">
+	<br />
+</h2>
+<h2 style="font-size:12px;color:#FF6633;font-family:Arial, Verdana, Helvetica, 'Helvetica Light', sans-serif;">
+	Step-Up to Revolution R Enterprise<br />
+</h2>
+<p style="color:#555555;font-family:Arial, Verdana, Helvetica, 'Helvetica Light', sans-serif;">
+	<a href="http://www.revolutionanalytics.com/products/revolution-enterprise.php" target="_blank">Revolution R Enterprise</a>&nbsp;is designed for corporations, government agencies and academic researchers that require the highest levels of performance, reliability and computational power for their large-scale data analysis. It incorporates the optimized and threaded math routines , includes the RevoScaleR “Big Data” package, &nbsp;and on Windows features an integrated development environment that leaves the command-line far behind!&nbsp; A subscription to Revolution R Enterprise also includes direct access to our expert technical support team.&nbsp;
+</p>

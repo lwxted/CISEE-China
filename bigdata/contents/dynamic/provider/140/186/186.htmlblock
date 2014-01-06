@@ -1,0 +1,118 @@
+<div id="stcpDiv">
+	<h1 class="page-title">
+		<span style="color:#000000;font-family:Arial;">Analytics Platform</span>
+	</h1>
+	<h2>
+		<span style="color:#000000;font-family:Arial;">Analyze, Optimize, and Control</span>
+	</h2>
+	<p>
+		<img title="LAP-video-tour" class=" wp-image-882 alignleft" alt="LAP-video-tour" src="http://www.lavastorm.com/assets/LAP-video-tour.jpg" height="127" width="240" /><span style="color:#000000;font-family:Arial;">Agility
+ is increasingly THE characteristic that separates leading businesses 
+from the pack. The agile business understands its customers better, 
+reacts faster to potential risks, and adjusts quickly to market 
+opportunities. The agile business is driven by information – made 
+available on an on-demand basis to decision makers when and where they 
+need it.</span>
+	</p>
+	<p>
+		<span style="color:#000000;font-family:Arial;">The Lavastorm Analytics Platform, with its </span><a href="http://www.lavastorm.com/products/analytics-engine/"><span style="color:#000000;font-family:Arial;">Lavastorm Analytics Engine</span></a><span style="color:#000000;font-family:Arial;">,
+ was designed and built to address these needs – enabling you to 
+aggregate and analyze data on-demand and respond in minutes or hours, 
+not months and years.</span>
+	</p>
+	<h3>
+		<span style="color:#000000;font-family:Arial;">The Lavastorm Analytics Platform includes the following software products:</span>
+	</h3>
+	<div class="box-full-width">
+		<table style="width:100%;" class="ke-zeroborder" border="0">
+			<tbody>
+				<tr>
+					<td>
+						<a href="http://www.lavastorm.com/products/analytics-engine/"><img title="Lavastorm Analytics Engine" class="size-full wp-image-2350 alignleft" alt="Lavastorm Analytics Engine" src="http://www.lavastorm.com/assets/lavastorm_analytics-engine.png" height="35" width="178" /></a>
+					</td>
+					<td style="text-align:left;">
+						<a href="http://www.lavastorm.com/products/transaction-warehouse/"><img title="Lavastorm Transaction Warehouse" class="size-full wp-image-2357 alignleft" alt="Lavastorm Transaction Warehouse" src="http://www.lavastorm.com/assets/lavastorm_transactional-warehouse.png" height="35" width="243" /></a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span style="color:#000000;font-family:Arial;">A powerful, visual and versatile environment for assembling and 
+executing analytic applications. The Lavastorm Analytics Engine is 
+available in a range of desktop and server editions.</span>
+					</td>
+					<td>
+						<p style="text-align:left;">
+							<span style="color:#000000;font-family:Arial;">A storage system for communications fraud management applications. The Lavastorm Transaction Warehouse is part of the </span><a href="http://www.lavastorm.com/solutions/by-department/fraud-management/"><span style="color:#000000;font-family:Arial;">Lavastorm Fraud Manager</span></a><span style="color:#000000;font-family:Arial;"> and allows fraud management teams to aggregate, normalize, enrich, and store transactional, or usage, data.</span>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2">
+						<hr />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<a href="http://www.lavastorm.com/products/resolution-center/"><img title="Lavastorm Resolution Center" class="size-full wp-image-2355 alignleft" alt="Lavastorm Resolution Center" src="http://www.lavastorm.com/assets/lavastorm_resolution-center.png" height="35" width="201" /></a>
+					</td>
+					<td>
+						<a href="http://www.lavastorm.com/products/data-reader/"><img title="Lavastorm Data Reader" class="size-full wp-image-2353 alignleft" alt="Lavastorm Data Reader" src="http://www.lavastorm.com/assets/lavastorm_data-reader.png" height="35" /></a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p style="text-align:left;">
+							<span style="font-family:Arial;">An alarming, reporting, and case management environment that allows you to act on analytic results.</span>
+						</p>
+					</td>
+					<td>
+						<p style="text-align:left;">
+							<span style="font-family:Arial;">A configurable, high volume engine that 
+allows you to acquire and transform binary and other complex data, such 
+as ASN.1, COBOL, XML, and EDI data, without Extract, Transform, and Load
+ (ETL) programming.</span>
+						</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<p>
+		<span style="font-family:Arial;">In addition, Lavastorm Analytics offers the following specialized 
+analytic applications for Communications Service Providers (CSPs) based 
+on the Lavastorm Analytics Platform:</span>
+	</p>
+	<div class="box-full-width">
+		<table style="width:100%;" class="ke-zeroborder" border="0">
+			<tbody>
+				<tr>
+					<td>
+						<a href="http://www.lavastorm.com/products/applications/fraud-ready-system/"><img title="Lavastorm Fraud Manager" class="size-full wp-image-2349 alignleft" alt="Lavastorm Fraud Manager" src="http://www.lavastorm.com/assets/lavastorm-fraud-manager.png" height="35" width="166" /></a>
+					</td>
+					<td>
+						<a href="http://www.lavastorm.com/products/applications/spend-analyzer/"><img title="Lavastorm Spend Analyzer" class="size-full wp-image-2356 alignleft" alt="Lavastorm Spend Analyzer" src="http://www.lavastorm.com/assets/lavastorm_spendanalyzer.png" height="35" width="173" /></a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<p style="text-align:left;">
+							<span style="font-family:Arial;">An agile fraud management system that 
+allows you to analyze data from any source, investigate hypothesis to 
+discover new patterns and root causes, identify fraudulent activity in 
+real time, and manage workflows that eliminate threats.</span>
+						</p>
+					</td>
+					<td>
+						<p style="text-align:left;">
+							<span style="font-family:Arial;">A sophisticated e-billing and analytics 
+application that provides business customers with an integrated view of 
+products and services – even if those services come from disparate 
+billing systems.</span>
+						</p>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+<br />
+</div>
